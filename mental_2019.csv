@@ -1,0 +1,353 @@
+Age,family_history,treatment,no_employees,tech_company,benefits,care_options,wellness_program,seek_help,anonymity,leave,mental_health_consequence,coworkers,supervisor,"Overall, how much importance does your employer place on physical health?","Overall, how much importance does your employer place on mental health?"
+25,No,FALSE,26-100,TRUE,I don't know,No,Yes,Yes,I don't know,Very easy,No,Yes,Yes,5,5
+51,Yes,FALSE,26-100,TRUE,Yes,No,No,Yes,Yes,I don't know,No,Maybe,Maybe,5,7
+27,I don't know,FALSE,26-100,TRUE,I don't know,No,No,I don't know,I don't know,Somewhat difficult,No,Maybe,No,5,4
+37,Yes,FALSE,100-500,TRUE,I don't know,No,Yes,Yes,Yes,Very easy,No,Maybe,Yes,1,3
+46,No,FALSE,26-100,TRUE,I don't know,No,I don't know,I don't know,I don't know,I don't know,N/A,No,No,4,4
+36,Yes,TRUE,100-500,TRUE,Yes,No,No,No,I don't know,Somewhat difficult,No,Yes,No,6,5
+39,Yes,TRUE,26-100,TRUE,Yes,Yes,No,I don't know,Yes,Somewhat easy,No,Maybe,Maybe,5,5
+35,Yes,TRUE,,,,,,,,,No,,,,
+49,No,FALSE,26-100,TRUE,Yes,No,Yes,Yes,Yes,Very easy,No,Yes,Yes,8,7
+45,I don't know,TRUE,6-25,TRUE,I don't know,N/A,No,I don't know,I don't know,Somewhat easy,Maybe,Maybe,Yes,8,8
+40,No,TRUE,100-500,TRUE,Yes,Yes,No,I don't know,Yes,Very easy,N/A,Yes,Yes,5,5
+37,No,FALSE,,,,,,,,,No,,,,
+31,Yes,TRUE,More than 1000,TRUE,I don't know,No,No,No,Yes,Somewhat easy,N/A,Maybe,Yes,7,7
+37,Yes,TRUE,500-1000,TRUE,Yes,Yes,Yes,I don't know,I don't know,Somewhat difficult,No,Yes,Yes,7,5
+26,No,TRUE,100-500,TRUE,Yes,Yes,Yes,I don't know,I don't know,Somewhat difficult,Yes,No,No,7,7
+43,No,FALSE,100-500,FALSE,Yes,Yes,No,Yes,Yes,Neither easy nor difficult,No,Maybe,Maybe,4,2
+35,Yes,TRUE,100-500,TRUE,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Yes,Yes,7,9
+31,Yes,FALSE,,,,,,,,,No,,,,
+32,Yes,FALSE,100-500,TRUE,Yes,No,Yes,I don't know,Yes,Very easy,No,Yes,Yes,6,6
+37,I don't know,TRUE,More than 1000,TRUE,Yes,Yes,Yes,Yes,I don't know,I don't know,No,No,Maybe,7,6
+41,I don't know,FALSE,6-25,TRUE,I don't know,No,No,No,I don't know,Somewhat easy,No,Yes,Maybe,8,7
+40,Yes,TRUE,100-500,TRUE,Yes,Yes,Yes,Yes,I don't know,I don't know,Yes,Yes,Yes,10,10
+37,I don't know,TRUE,500-1000,TRUE,I don't know,No,No,No,Yes,Neither easy nor difficult,No,Yes,Yes,9,5
+53,Yes,TRUE,100-500,TRUE,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,No,No,Maybe,6,3
+29,Yes,TRUE,6-25,TRUE,I don't know,No,No,No,I don't know,Very easy,Maybe,Yes,No,1,1
+37,Yes,TRUE,500-1000,TRUE,I don't know,No,No,No,I don't know,Somewhat easy,No,Yes,Yes,5,9
+45,Yes,TRUE,100-500,FALSE,I don't know,No,No,I don't know,I don't know,Somewhat easy,Yes,No,No,10,0
+26,No,FALSE,6-25,TRUE,I don't know,No,No,I don't know,I don't know,Very easy,No,Yes,Yes,6,6
+28,Yes,TRUE,100-500,TRUE,Yes,Yes,Yes,Yes,I don't know,Very easy,No,Maybe,Yes,5,7
+24,I don't know,TRUE,100-500,TRUE,Yes,Yes,Yes,No,I don't know,I don't know,No,No,Yes,7,7
+27,Yes,FALSE,100-500,TRUE,Yes,Yes,No,I don't know,I don't know,Very easy,No,Maybe,Maybe,5,5
+42,No,TRUE,100-500,FALSE,Yes,No,No,I don't know,I don't know,Somewhat easy,No,Maybe,Yes,8,7
+53,No,FALSE,,,,,,,,,N/A,,,,
+34,No,FALSE,100-500,FALSE,Not eligible for coverage / NA,N/A,Yes,No,I don't know,Very easy,No,Yes,Yes,9,6
+23,I don't know,TRUE,500-1000,FALSE,Yes,Yes,Yes,I don't know,I don't know,Somewhat easy,No,Yes,Yes,7,7
+34,I don't know,FALSE,More than 1000,FALSE,I don't know,No,No,I don't know,I don't know,Somewhat easy,No,Maybe,Maybe,4,4
+27,Yes,FALSE,6-25,TRUE,I don't know,No,No,No,Yes,Very easy,Maybe,Yes,Yes,8,5
+31,I don't know,TRUE,100-500,TRUE,Yes,Yes,No,I don't know,I don't know,Somewhat easy,Maybe,Maybe,No,9,7
+30,No,FALSE,,,,,,,,,No,,,,
+58,No,TRUE,,,,,,,,,No,,,,
+50,No,FALSE,More than 1000,FALSE,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,No,Yes,Yes,8,6
+41,Yes,TRUE,100-500,TRUE,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,No,Maybe,Yes,3,6
+40,No,FALSE,26-100,TRUE,I don't know,No,No,No,I don't know,Neither easy nor difficult,No,No,No,0,0
+28,I don't know,TRUE,,,,,,,,,Yes,,,,
+49,No,FALSE,1-5,TRUE,Yes,Yes,No,Yes,Yes,Somewhat difficult,Maybe,Yes,Maybe,9,7
+37,Yes,TRUE,More than 1000,FALSE,I don't know,No,No,I don't know,I don't know,Very easy,No,Yes,Yes,3,3
+36,I don't know,TRUE,,,,,,,,,No,,,,
+52,No,TRUE,6-25,FALSE,Yes,Yes,Yes,Yes,Yes,Very easy,No,Yes,Yes,10,10
+33,I don't know,FALSE,More than 1000,FALSE,Yes,Yes,Yes,Yes,I don't know,Very easy,N/A,Maybe,Yes,9,9
+54,I don't know,FALSE,,,,,,,,,N/A,,,,
+38,No,FALSE,,,,,,,,,No,,,,
+64,No,TRUE,,,,,,,,,N/A,,,,
+40,No,TRUE,,,,,,,,,No,,,,
+37,I don't know,FALSE,26-100,TRUE,Yes,Yes,No,I don't know,I don't know,I don't know,Yes,No,No,5,2
+53,No,TRUE,More than 1000,FALSE,I don't know,No,I don't know,Yes,I don't know,Somewhat difficult,Maybe,Maybe,Yes,8,7
+55,I don't know,FALSE,6-25,TRUE,No,N/A,No,No,I don't know,Somewhat easy,No,Maybe,Maybe,4,3
+30,Yes,TRUE,6-25,TRUE,I don't know,Yes,Yes,No,Yes,Somewhat difficult,No,No,Maybe,4,3
+35,Yes,TRUE,500-1000,FALSE,Yes,No,No,No,I don't know,Somewhat easy,Yes,Maybe,No,3,1
+60,Yes,FALSE,More than 1000,FALSE,Yes,Yes,I don't know,I don't know,Yes,Somewhat difficult,N/A,No,Maybe,7,7
+34,No,FALSE,100-500,FALSE,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Maybe,5,5
+35,Yes,TRUE,More than 1000,FALSE,No,No,No,No,I don't know,Difficult,Maybe,No,No,5,2
+34,Yes,TRUE,More than 1000,FALSE,Yes,No,No,No,I don't know,Somewhat difficult,N/A,No,No,2,0
+28,Yes,FALSE,26-100,TRUE,I don't know,No,No,No,Yes,Very easy,Yes,No,Yes,7,3
+28,Yes,TRUE,26-100,TRUE,I don't know,No,No,No,I don't know,Neither easy nor difficult,Yes,Yes,Maybe,5,2
+36,No,FALSE,26-100,TRUE,I don't know,Yes,No,No,Yes,Somewhat difficult,Maybe,Yes,Maybe,7,5
+24,I don't know,FALSE,6-25,TRUE,No,No,No,No,No,Somewhat difficult,Yes,No,Yes,0,0
+50,I don't know,FALSE,,,,,,,,,Yes,,,,
+55,I don't know,TRUE,More than 1000,TRUE,Yes,No,No,Yes,I don't know,I don't know,No,Maybe,No,5,4
+32,No,TRUE,26-100,TRUE,Yes,Yes,No,I don't know,Yes,Neither easy nor difficult,No,Maybe,Yes,4,6
+33,I don't know,TRUE,500-1000,TRUE,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,No,Yes,Yes,10,5
+30,Yes,TRUE,500-1000,TRUE,Yes,Yes,No,No,I don't know,I don't know,No,No,Maybe,7,5
+30,Yes,FALSE,500-1000,TRUE,Yes,No,No,I don't know,Yes,Very easy,No,Yes,Yes,9,9
+34,I don't know,FALSE,100-500,TRUE,Yes,Yes,Yes,No,I don't know,I don't know,N/A,Maybe,Maybe,7,7
+36,Yes,TRUE,100-500,TRUE,No,No,No,No,I don't know,Very easy,N/A,Maybe,Yes,8,7
+30,Yes,TRUE,100-500,TRUE,No,N/A,No,No,I don't know,Somewhat easy,Yes,Maybe,Maybe,8,5
+29,No,FALSE,1-5,TRUE,No,N/A,Yes,No,No,I don't know,N/A,Maybe,No,9,8
+34,Yes,TRUE,500-1000,TRUE,No,No,No,No,No,Somewhat easy,N/A,No,Yes,6,3
+40,No,TRUE,100-500,TRUE,No,Yes,No,No,No,Very easy,Maybe,Yes,Yes,3,3
+31,I don't know,FALSE,500-1000,TRUE,Not eligible for coverage / NA,N/A,No,No,I don't know,I don't know,Maybe,No,No,8,5
+27,Yes,FALSE,100-500,TRUE,I don't know,No,No,I don't know,Yes,I don't know,N/A,Maybe,Maybe,9,8
+47,Yes,FALSE,More than 1000,FALSE,Yes,Yes,Yes,Yes,Yes,Somewhat easy,N/A,Yes,Yes,6,7
+24,Yes,TRUE,100-500,FALSE,Yes,Yes,No,Yes,Yes,Difficult,No,Maybe,Maybe,6,4
+36,No,TRUE,100-500,TRUE,Yes,Yes,No,No,Yes,Somewhat easy,N/A,Maybe,Yes,7,3
+28,I don't know,FALSE,100-500,TRUE,I don't know,No,No,I don't know,I don't know,Neither easy nor difficult,N/A,Yes,Maybe,8,5
+34,No,FALSE,500-1000,TRUE,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,No,Maybe,Maybe,5,7
+28,No,FALSE,100-500,TRUE,I don't know,No,No,No,I don't know,Somewhat easy,N/A,Yes,Yes,5,5
+36,Yes,TRUE,500-1000,TRUE,Yes,Yes,No,No,I don't know,I don't know,Maybe,No,No,7,4
+24,I don't know,FALSE,100-500,TRUE,Yes,Yes,I don't know,No,Yes,Somewhat easy,No,Maybe,Yes,10,8
+32,Yes,TRUE,6-25,TRUE,Yes,Yes,No,No,Yes,I don't know,No,Maybe,Maybe,5,5
+33,I don't know,TRUE,26-100,FALSE,No,No,Yes,No,Yes,Very easy,No,Yes,Maybe,5,3
+39,I don't know,TRUE,100-500,TRUE,I don't know,No,I don't know,I don't know,I don't know,Somewhat easy,No,Maybe,Maybe,6,5
+26,I don't know,TRUE,More than 1000,FALSE,Yes,Yes,No,Yes,I don't know,I don't know,Yes,No,No,7,5
+32,Yes,TRUE,100-500,TRUE,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,No,Yes,Maybe,7,7
+42,I don't know,TRUE,26-100,TRUE,Yes,No,Yes,Yes,Yes,Somewhat easy,No,Yes,Yes,7,7
+41,I don't know,FALSE,More than 1000,TRUE,Yes,Yes,No,Yes,I don't know,I don't know,Yes,Maybe,No,10,8
+32,Yes,TRUE,100-500,TRUE,Yes,Yes,Yes,No,I don't know,Somewhat difficult,Yes,Maybe,No,8,4
+32,Yes,TRUE,More than 1000,FALSE,No,Yes,No,Yes,I don't know,I don't know,N/A,No,No,3,3
+31,Yes,TRUE,100-500,TRUE,Yes,No,I don't know,Yes,I don't know,Very easy,No,Yes,Yes,7,8
+34,Yes,TRUE,100-500,TRUE,Not eligible for coverage / NA,N/A,No,No,I don't know,Somewhat easy,No,Yes,Maybe,8,7
+36,Yes,FALSE,More than 1000,TRUE,Yes,No,Yes,Yes,I don't know,Difficult,Yes,No,No,4,1
+33,No,FALSE,100-500,TRUE,I don't know,No,Yes,I don't know,Yes,Very easy,N/A,No,Yes,10,10
+30,Yes,TRUE,26-100,TRUE,I don't know,No,No,I don't know,Yes,Somewhat easy,N/A,Maybe,Maybe,5,5
+45,Yes,TRUE,26-100,TRUE,I don't know,Yes,No,No,I don't know,Difficult,Yes,Yes,Maybe,3,0
+30,No,FALSE,More than 1000,TRUE,Yes,No,Yes,Yes,I don't know,Very easy,No,Yes,Yes,7,7
+48,Yes,TRUE,,,,,,,,,N/A,,,,
+29,I don't know,FALSE,100-500,TRUE,Yes,No,No,No,I don't know,Somewhat difficult,Yes,Maybe,No,5,5
+35,I don't know,TRUE,,,,,,,,,Yes,,,,
+41,I don't know,TRUE,100-500,TRUE,I don't know,No,No,I don't know,I don't know,I don't know,Yes,Maybe,No,5,2
+27,Yes,FALSE,26-100,FALSE,Yes,Yes,No,No,Yes,Neither easy nor difficult,No,Yes,Maybe,1,5
+42,I don't know,TRUE,6-25,TRUE,Yes,Yes,No,Yes,Yes,Very easy,No,Yes,Yes,8,8
+32,Yes,TRUE,100-500,TRUE,I don't know,No,No,No,I don't know,I don't know,No,Yes,Yes,5,3
+32,No,FALSE,100-500,TRUE,I don't know,No,I don't know,I don't know,I don't know,Very easy,N/A,Maybe,Yes,6,5
+20,Yes,TRUE,1-5,TRUE,Yes,Yes,No,No,Yes,Very easy,No,No,No,5,8
+24,Yes,TRUE,,,,,,,,,Maybe,,,,
+0,No,FALSE,500-1000,FALSE,I don't know,No,Yes,I don't know,I don't know,Very easy,No,Maybe,Yes,6,6
+38,No,FALSE,26-100,TRUE,I don't know,No,No,No,I don't know,Very easy,No,Maybe,Yes,7,7
+31,I don't know,TRUE,6-25,TRUE,I don't know,Yes,No,No,I don't know,Neither easy nor difficult,No,Maybe,Maybe,8,5
+26,Yes,TRUE,26-100,TRUE,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,No,No,No,3,1
+40,Yes,TRUE,26-100,TRUE,Yes,No,No,No,Yes,Somewhat easy,Maybe,Yes,Yes,5,6
+30,Yes,TRUE,6-25,FALSE,Yes,No,No,No,I don't know,Somewhat easy,No,Maybe,Maybe,7,7
+38,No,TRUE,26-100,FALSE,Yes,Yes,No,I don't know,I don't know,Very easy,No,Maybe,Maybe,0,0
+28,No,TRUE,More than 1000,TRUE,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,N/A,Maybe,Yes,5,5
+28,No,FALSE,More than 1000,FALSE,Not eligible for coverage / NA,No,No,No,I don't know,Somewhat difficult,Maybe,No,No,2,1
+30,Yes,TRUE,More than 1000,TRUE,Yes,No,No,Yes,I don't know,I don't know,Yes,No,No,6,3
+23,Yes,TRUE,More than 1000,FALSE,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,No,Yes,Yes,7,5
+30,I don't know,FALSE,More than 1000,TRUE,I don't know,No,No,No,I don't know,I don't know,No,Yes,Yes,10,3
+33,Yes,TRUE,More than 1000,FALSE,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,No,Maybe,Yes,5,9
+53,Yes,TRUE,500-1000,FALSE,Yes,Yes,No,No,Yes,Somewhat difficult,No,Yes,No,10,4
+38,I don't know,TRUE,More than 1000,FALSE,Yes,Yes,Yes,I don't know,Yes,Neither easy nor difficult,Yes,Maybe,Maybe,5,2
+34,No,FALSE,26-100,TRUE,No,N/A,No,No,I don't know,Somewhat easy,N/A,Maybe,Maybe,0,0
+40,I don't know,FALSE,More than 1000,FALSE,I don't know,No,No,I don't know,I don't know,Somewhat easy,N/A,No,Yes,8,7
+42,Yes,FALSE,More than 1000,TRUE,Yes,No,No,I don't know,I don't know,I don't know,N/A,Maybe,Yes,7,5
+42,I don't know,TRUE,6-25,TRUE,Yes,No,No,No,I don't know,Somewhat easy,No,Yes,Yes,5,5
+38,I don't know,TRUE,26-100,FALSE,Yes,Yes,No,Yes,I don't know,I don't know,No,Maybe,Maybe,8,5
+33,Yes,TRUE,More than 1000,FALSE,Yes,Yes,No,Yes,Yes,Somewhat easy,No,Maybe,Maybe,6,6
+35,Yes,TRUE,100-500,TRUE,Yes,Yes,I don't know,I don't know,Yes,I don't know,Maybe,Maybe,Maybe,8,5
+27,I don't know,FALSE,100-500,TRUE,No,N/A,No,No,I don't know,Somewhat easy,No,No,No,6,2
+28,No,FALSE,More than 1000,FALSE,Not eligible for coverage / NA,Yes,Yes,No,I don't know,Somewhat easy,N/A,Maybe,Yes,7,7
+42,No,TRUE,More than 1000,TRUE,No,No,No,No,No,Somewhat easy,No,No,No,1,1
+35,I don't know,FALSE,More than 1000,TRUE,I don't know,N/A,No,No,I don't know,I don't know,N/A,Maybe,Maybe,5,5
+40,No,TRUE,More than 1000,FALSE,Yes,Yes,No,Yes,Yes,Somewhat difficult,Maybe,Maybe,No,3,1
+54,Yes,TRUE,100-500,FALSE,Yes,Yes,Yes,No,I don't know,Somewhat difficult,Yes,No,No,7,5
+37,Yes,TRUE,100-500,TRUE,Yes,No,No,No,I don't know,Very easy,No,Maybe,Yes,5,9
+26,I don't know,TRUE,More than 1000,FALSE,Yes,Yes,I don't know,Yes,Yes,Somewhat difficult,N/A,Maybe,No,10,8
+37,I don't know,FALSE,100-500,FALSE,I don't know,No,No,No,I don't know,I don't know,Yes,Maybe,No,6,0
+49,I don't know,TRUE,More than 1000,FALSE,Yes,Yes,No,No,I don't know,Somewhat easy,N/A,No,No,6,0
+23,No,FALSE,More than 1000,FALSE,I don't know,No,Yes,Yes,Yes,Somewhat easy,N/A,Maybe,Maybe,9,8
+42,I don't know,TRUE,100-500,TRUE,Yes,No,Yes,Yes,Yes,Very easy,No,Yes,Yes,8,8
+49,No,FALSE,More than 1000,TRUE,Yes,No,Yes,Yes,Yes,Difficult,Yes,No,No,8,4
+38,No,FALSE,,,,,,,,,No,,,,
+41,Yes,FALSE,100-500,TRUE,I don't know,No,Yes,Yes,I don't know,Somewhat difficult,Yes,No,No,6,6
+33,No,TRUE,100-500,TRUE,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Yes,Yes,8,8
+27,Yes,TRUE,26-100,TRUE,Yes,Yes,Yes,I don't know,I don't know,Somewhat easy,No,Yes,Yes,5,5
+47,No,FALSE,More than 1000,FALSE,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,No,No,No,7,7
+28,Yes,TRUE,100-500,TRUE,I don't know,No,Yes,No,Yes,Somewhat difficult,Maybe,No,Maybe,8,3
+49,Yes,TRUE,More than 1000,TRUE,Yes,Yes,No,No,I don't know,Somewhat difficult,Maybe,Maybe,Maybe,6,4
+23,I don't know,TRUE,More than 1000,FALSE,I don't know,No,No,No,Yes,Somewhat difficult,Yes,No,No,6,5
+23,I don't know,TRUE,More than 1000,FALSE,Yes,Yes,Yes,I don't know,Yes,I don't know,No,Maybe,Maybe,10,6
+38,Yes,TRUE,,,,,,,,,Maybe,,,,
+45,Yes,TRUE,1-5,TRUE,No,N/A,I don't know,No,Yes,Very easy,No,Yes,Yes,10,10
+35,Yes,TRUE,,,,,,,,,Maybe,,,,
+51,Yes,TRUE,,,,,,,,,No,,,,
+34,Yes,FALSE,,,,,,,,,N/A,,,,
+29,Yes,TRUE,26-100,TRUE,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Yes,Maybe,Yes,6,7
+40,I don't know,FALSE,26-100,TRUE,I don't know,No,No,I don't know,I don't know,Somewhat easy,No,Maybe,Maybe,3,3
+38,No,FALSE,,,,,,,,,No,,,,
+32,Yes,TRUE,26-100,TRUE,Yes,No,No,No,I don't know,I don't know,No,Maybe,No,2,2
+22,Yes,TRUE,More than 1000,TRUE,Yes,Yes,Yes,I don't know,I don't know,Difficult,No,Maybe,Yes,7,4
+28,Yes,TRUE,1-5,TRUE,Yes,Yes,Yes,I don't know,Yes,Very easy,Yes,Maybe,Yes,8,8
+29,I don't know,TRUE,More than 1000,TRUE,I don't know,No,Yes,I don't know,I don't know,I don't know,N/A,No,No,5,4
+32,No,FALSE,,,,,,,,,Maybe,,,,
+38,Yes,TRUE,100-500,TRUE,Yes,No,No,I don't know,I don't know,I don't know,No,Yes,Maybe,5,5
+30,No,FALSE,26-100,TRUE,I don't know,No,No,I don't know,I don't know,Very easy,N/A,Maybe,No,6,5
+37,Yes,TRUE,More than 1000,FALSE,Yes,Yes,I don't know,Yes,I don't know,Neither easy nor difficult,No,No,No,8,5
+38,Yes,TRUE,More than 1000,TRUE,Yes,Yes,Yes,Yes,I don't know,Difficult,No,Maybe,Maybe,10,5
+51,Yes,TRUE,100-500,TRUE,Yes,Yes,Yes,Yes,I don't know,Difficult,Yes,Maybe,Maybe,8,5
+39,Yes,TRUE,More than 1000,FALSE,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,Maybe,Maybe,10,8
+22,No,FALSE,More than 1000,FALSE,Yes,No,I don't know,I don't know,I don't know,I don't know,No,No,Yes,7,8
+26,Yes,TRUE,More than 1000,TRUE,Yes,Yes,I don't know,Yes,Yes,Very easy,Maybe,Yes,No,7,5
+42,Yes,FALSE,100-500,FALSE,I don't know,No,No,No,No,Somewhat easy,Yes,No,No,5,1
+49,No,TRUE,100-500,FALSE,Not eligible for coverage / NA,No,Yes,No,I don't know,I don't know,N/A,No,No,5,2
+48,Yes,FALSE,More than 1000,TRUE,Yes,No,Yes,Yes,Yes,Very easy,No,Yes,Yes,8,8
+25,Yes,TRUE,More than 1000,FALSE,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,No,Maybe,7,8
+31,I don't know,TRUE,6-25,TRUE,Not eligible for coverage / NA,N/A,No,No,I don't know,Very easy,No,Maybe,Maybe,4,8
+63,No,FALSE,1-5,TRUE,Yes,No,No,Yes,Yes,Neither easy nor difficult,No,Maybe,Maybe,8,8
+30,No,FALSE,More than 1000,TRUE,No,No,No,No,I don't know,Difficult,Maybe,No,No,7,5
+34,I don't know,TRUE,100-500,TRUE,I don't know,No,No,I don't know,I don't know,Very easy,No,Maybe,Maybe,10,10
+41,Yes,TRUE,100-500,TRUE,No,N/A,No,No,I don't know,Somewhat easy,Maybe,Yes,Maybe,6,3
+31,Yes,TRUE,More than 1000,FALSE,No,No,No,Yes,No,Very easy,No,Maybe,Yes,5,5
+29,Yes,FALSE,More than 1000,FALSE,I don't know,No,No,I don't know,I don't know,Very easy,No,Maybe,Yes,6,4
+29,Yes,TRUE,More than 1000,FALSE,Yes,No,No,Yes,I don't know,Somewhat easy,Maybe,No,No,6,4
+44,Yes,TRUE,,,,,,,,,Yes,,,,
+32,No,FALSE,More than 1000,TRUE,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Yes,Yes,Maybe,6,3
+28,Yes,TRUE,More than 1000,FALSE,I don't know,No,No,No,I don't know,Very easy,No,Maybe,Maybe,7,6
+36,I don't know,FALSE,More than 1000,FALSE,Yes,Yes,I don't know,Yes,Yes,Neither easy nor difficult,No,Maybe,Maybe,7,6
+28,Yes,TRUE,More than 1000,TRUE,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Yes,Maybe,No,8,6
+30,Yes,TRUE,,,,,,,,,No,,,,
+36,No,FALSE,More than 1000,FALSE,Yes,Yes,Yes,Yes,I don't know,Very easy,Maybe,Yes,Yes,8,8
+40,Yes,TRUE,6-25,TRUE,Yes,No,No,No,I don't know,Somewhat difficult,No,Maybe,Maybe,5,3
+27,No,FALSE,100-500,TRUE,I don't know,No,No,No,I don't know,Somewhat easy,N/A,Maybe,Yes,4,0
+28,Yes,TRUE,More than 1000,FALSE,Yes,No,No,I don't know,I don't know,Very easy,No,Maybe,Yes,3,2
+34,Yes,TRUE,More than 1000,TRUE,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Yes,Yes,7,7
+34,I don't know,TRUE,6-25,TRUE,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,No,Yes,Yes,9,10
+34,Yes,TRUE,,,,,,,,,No,,,,
+27,Yes,TRUE,100-500,TRUE,Yes,Yes,No,Yes,I don't know,I don't know,Yes,Maybe,Maybe,6,1
+44,Yes,TRUE,More than 1000,TRUE,Yes,Yes,No,No,Yes,Neither easy nor difficult,Yes,Maybe,Maybe,5,3
+36,I don't know,TRUE,100-500,FALSE,No,No,No,No,I don't know,Neither easy nor difficult,No,No,No,8,5
+31,Yes,TRUE,More than 1000,FALSE,Yes,Yes,Yes,Yes,I don't know,Very easy,N/A,Yes,Yes,10,10
+26,No,TRUE,100-500,TRUE,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,No,Yes,Yes,8,10
+39,No,FALSE,6-25,TRUE,Yes,Yes,No,I don't know,Yes,Very easy,No,Yes,Yes,7,8
+36,Yes,TRUE,More than 1000,FALSE,Yes,Yes,Yes,Yes,Yes,Very easy,N/A,Yes,Yes,6,5
+25,Yes,TRUE,6-25,TRUE,Not eligible for coverage / NA,Yes,No,No,Yes,Somewhat easy,No,Maybe,Maybe,9,6
+47,I don't know,TRUE,More than 1000,FALSE,No,No,No,No,I don't know,Very easy,N/A,No,No,0,0
+38,I don't know,TRUE,More than 1000,FALSE,Yes,No,Yes,Yes,I don't know,Somewhat easy,No,Yes,Yes,5,7
+33,No,FALSE,26-100,TRUE,I don't know,N/A,Yes,No,I don't know,Very easy,N/A,Maybe,Maybe,10,10
+59,I don't know,TRUE,,,,,,,,,Maybe,,,,
+39,Yes,TRUE,100-500,TRUE,Yes,Yes,Yes,No,Yes,Very easy,No,Maybe,Yes,5,7
+19,I don't know,TRUE,100-500,TRUE,Not eligible for coverage / NA,N/A,Yes,I don't know,Yes,I don't know,No,No,Maybe,5,5
+35,Yes,TRUE,6-25,FALSE,Not eligible for coverage / NA,N/A,No,No,I don't know,Neither easy nor difficult,No,No,No,5,3
+38,Yes,TRUE,26-100,TRUE,Yes,Yes,No,No,I don't know,Somewhat difficult,Yes,Maybe,No,0,0
+23,No,FALSE,100-500,TRUE,I don't know,Yes,I don't know,Yes,I don't know,Somewhat easy,N/A,Maybe,No,8,10
+32,Yes,TRUE,More than 1000,FALSE,Yes,Yes,No,Yes,Yes,Difficult,N/A,No,Yes,8,1
+39,Yes,TRUE,,,,,,,,,Yes,,,,
+33,No,FALSE,More than 1000,FALSE,Yes,Yes,No,Yes,Yes,Neither easy nor difficult,No,Maybe,Maybe,6,6
+38,No,TRUE,500-1000,TRUE,I don't know,No,No,No,Yes,Somewhat easy,Maybe,Maybe,Yes,5,4
+42,No,TRUE,26-100,TRUE,Yes,No,No,I don't know,I don't know,Very easy,No,Maybe,Maybe,6,6
+39,No,FALSE,500-1000,TRUE,I don't know,Yes,No,No,I don't know,Difficult,No,Maybe,No,5,0
+30,No,FALSE,More than 1000,TRUE,Not eligible for coverage / NA,No,No,No,I don't know,Very easy,Yes,Yes,Yes,8,5
+39,I don't know,FALSE,100-500,TRUE,No,No,I don't know,I don't know,I don't know,Very easy,Maybe,Maybe,Yes,8,6
+50,Yes,TRUE,500-1000,TRUE,I don't know,No,No,No,I don't know,Very easy,N/A,Maybe,Maybe,10,6
+43,No,FALSE,100-500,FALSE,I don't know,No,No,No,I don't know,Somewhat easy,N/A,Maybe,Maybe,5,5
+59,No,TRUE,,,,,,,,,No,,,,
+53,Yes,TRUE,More than 1000,FALSE,Yes,Yes,Yes,Yes,Yes,I don't know,No,No,Maybe,10,8
+35,I don't know,FALSE,6-25,TRUE,Yes,No,Yes,I don't know,I don't know,Very easy,No,Maybe,Yes,6,7
+27,Yes,TRUE,6-25,TRUE,Yes,Yes,Yes,Yes,Yes,Very easy,N/A,Yes,Yes,5,10
+24,Yes,FALSE,6-25,TRUE,Yes,No,No,No,No,Somewhat easy,No,No,No,5,5
+29,Yes,TRUE,6-25,TRUE,Yes,Yes,I don't know,I don't know,I don't know,Somewhat easy,N/A,Maybe,Yes,10,10
+40,Yes,TRUE,More than 1000,TRUE,Yes,Yes,No,No,I don't know,I don't know,N/A,No,Yes,10,2
+27,No,FALSE,100-500,TRUE,Not eligible for coverage / NA,N/A,No,No,I don't know,I don't know,N/A,Maybe,Maybe,9,2
+46,Yes,TRUE,,,,,,,,,No,,,,
+39,No,FALSE,100-500,TRUE,No,No,No,No,No,Difficult,Yes,No,No,10,0
+19,I don't know,FALSE,,,,,,,,,N/A,,,,
+28,No,FALSE,500-1000,TRUE,No,No,No,No,I don't know,Somewhat easy,N/A,Maybe,No,1,1
+30,Yes,FALSE,More than 1000,FALSE,I don't know,No,Yes,Yes,Yes,Somewhat easy,N/A,Maybe,Maybe,10,8
+29,I don't know,TRUE,More than 1000,TRUE,Yes,Yes,Yes,Yes,I don't know,I don't know,N/A,Yes,Maybe,8,8
+24,I don't know,FALSE,More than 1000,FALSE,I don't know,No,No,No,I don't know,Somewhat difficult,No,Yes,Maybe,7,3
+25,Yes,TRUE,More than 1000,TRUE,Not eligible for coverage / NA,No,No,No,I don't know,Somewhat easy,No,Yes,Yes,8,5
+45,I don't know,TRUE,500-1000,FALSE,I don't know,No,Yes,I don't know,I don't know,I don't know,No,Maybe,Maybe,2,5
+37,No,TRUE,More than 1000,TRUE,Yes,Yes,Yes,Yes,Yes,I don't know,No,No,Maybe,8,7
+22,Yes,FALSE,6-25,TRUE,I don't know,No,No,No,I don't know,Very easy,N/A,Maybe,Maybe,7,6
+35,Yes,TRUE,500-1000,TRUE,Yes,Yes,Yes,Yes,I don't know,Very easy,Maybe,Yes,Yes,7,7
+50,Yes,TRUE,More than 1000,FALSE,I don't know,No,I don't know,I don't know,I don't know,I don't know,No,No,Maybe,10,2
+45,I don't know,TRUE,More than 1000,TRUE,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Maybe,Yes,Maybe,8,5
+49,I don't know,TRUE,100-500,FALSE,Not eligible for coverage / NA,N/A,Yes,I don't know,I don't know,I don't know,No,No,Yes,1,1
+40,No,FALSE,100-500,FALSE,No,No,No,No,I don't know,Difficult,No,Yes,Maybe,8,2
+32,Yes,FALSE,,,,,,,,,No,,,,
+38,No,FALSE,500-1000,TRUE,Yes,No,Yes,Yes,Yes,Very easy,N/A,No,Yes,9,9
+37,Yes,FALSE,More than 1000,FALSE,Yes,Yes,Yes,Yes,Yes,I don't know,No,Yes,Yes,6,5
+28,No,FALSE,100-500,TRUE,I don't know,No,Yes,I don't know,I don't know,Neither easy nor difficult,No,Yes,Maybe,4,4
+25,No,FALSE,More than 1000,TRUE,Yes,No,No,Yes,Yes,Somewhat difficult,No,No,No,9,9
+28,Yes,FALSE,,,,,,,,,Maybe,,,,
+38,Yes,FALSE,6-25,TRUE,Not eligible for coverage / NA,N/A,No,I don't know,I don't know,I don't know,No,Maybe,Maybe,6,6
+25,No,FALSE,26-100,TRUE,I don't know,No,Yes,No,I don't know,Somewhat easy,Maybe,Maybe,No,8,6
+49,I don't know,TRUE,6-25,TRUE,Yes,Yes,No,No,Yes,Very easy,No,Yes,Yes,8,8
+19,No,TRUE,More than 1000,FALSE,Yes,No,No,No,I don't know,Neither easy nor difficult,Yes,No,No,6,5
+43,No,TRUE,,,,,,,,,Maybe,,,,
+31,No,TRUE,500-1000,FALSE,Yes,No,Yes,No,No,Difficult,Yes,No,No,9,2
+30,Yes,TRUE,More than 1000,FALSE,Yes,Yes,Yes,Yes,I don't know,Somewhat difficult,Maybe,No,No,6,6
+39,Yes,TRUE,More than 1000,FALSE,I don't know,No,No,No,I don't know,Somewhat easy,No,Yes,Yes,5,4
+22,No,FALSE,100-500,FALSE,Not eligible for coverage / NA,N/A,Yes,No,I don't know,Very easy,Yes,No,Yes,3,3
+29,Yes,TRUE,More than 1000,FALSE,Yes,Yes,No,I don't know,Yes,Difficult,No,No,No,8,4
+30,Yes,FALSE,,,,,,,,,Yes,,,,
+32,No,TRUE,26-100,TRUE,Yes,Yes,No,No,Yes,Somewhat difficult,Maybe,Maybe,No,9,3
+41,Yes,TRUE,More than 1000,FALSE,No,No,No,No,I don't know,I don't know,N/A,No,Maybe,6,6
+27,No,FALSE,More than 1000,FALSE,I don't know,No,I don't know,I don't know,I don't know,Neither easy nor difficult,No,Maybe,Maybe,6,6
+19,I don't know,FALSE,,,,,,,,,No,,,,
+27,I don't know,TRUE,500-1000,TRUE,Yes,Yes,No,I don't know,Yes,Somewhat easy,No,Maybe,Yes,7,3
+31,I don't know,FALSE,,,,,,,,,Maybe,,,,
+25,No,TRUE,,,,,,,,,Yes,,,,
+36,I don't know,TRUE,More than 1000,TRUE,No,No,No,Yes,Yes,Somewhat difficult,No,No,No,6,1
+28,Yes,TRUE,6-25,FALSE,No,No,Yes,No,I don't know,Neither easy nor difficult,Yes,Maybe,No,3,2
+27,I don't know,TRUE,500-1000,TRUE,Yes,Yes,No,No,I don't know,Neither easy nor difficult,Maybe,Maybe,No,5,2
+47,Yes,TRUE,26-100,TRUE,Yes,Yes,No,No,Yes,Very easy,N/A,No,Yes,7,5
+25,I don't know,TRUE,26-100,TRUE,I don't know,No,No,No,I don't know,I don't know,No,Maybe,Maybe,5,3
+30,No,TRUE,100-500,TRUE,I don't know,No,No,No,I don't know,Somewhat easy,No,Yes,Yes,2,3
+45,Yes,TRUE,100-500,FALSE,Not eligible for coverage / NA,No,I don't know,I don't know,I don't know,I don't know,Yes,No,No,5,5
+41,Yes,FALSE,,,,,,,,,No,,,,
+24,I don't know,TRUE,6-25,TRUE,No,N/A,No,No,No,Neither easy nor difficult,No,Maybe,No,3,2
+26,I don't know,FALSE,More than 1000,TRUE,I don't know,No,No,No,Yes,Somewhat easy,No,Maybe,No,10,2
+32,Yes,TRUE,More than 1000,TRUE,Yes,Yes,No,No,I don't know,Neither easy nor difficult,N/A,No,No,6,3
+43,Yes,TRUE,More than 1000,TRUE,Yes,Yes,Yes,Yes,I don't know,Difficult,Yes,Maybe,Maybe,5,5
+37,No,FALSE,,,,,,,,,N/A,,,,
+51,Yes,TRUE,500-1000,FALSE,I don't know,No,I don't know,I don't know,I don't know,Somewhat easy,Yes,Maybe,Yes,5,5
+56,No,FALSE,,,,,,,,,N/A,,,,
+30,Yes,TRUE,500-1000,FALSE,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,No,Maybe,Yes,7,7
+48,Yes,FALSE,26-100,TRUE,I don't know,No,No,No,I don't know,Somewhat easy,No,No,No,7,2
+28,I don't know,TRUE,100-500,TRUE,Yes,Yes,No,No,I don't know,Somewhat difficult,Yes,No,No,7,5
+26,No,TRUE,6-25,TRUE,No,No,No,No,I don't know,Somewhat easy,Yes,Yes,Maybe,5,2
+45,No,FALSE,6-25,FALSE,No,N/A,No,No,No,Somewhat difficult,N/A,No,Yes,5,2
+37,No,FALSE,26-100,TRUE,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Maybe,8,8
+42,I don't know,TRUE,100-500,TRUE,Yes,No,Yes,Yes,Yes,Very easy,No,Yes,Yes,7,7
+34,I don't know,TRUE,26-100,TRUE,I don't know,No,No,No,I don't know,Somewhat easy,N/A,Maybe,No,5,5
+35,Yes,TRUE,More than 1000,TRUE,I don't know,No,Yes,Yes,I don't know,Difficult,Yes,Maybe,No,7,5
+28,No,TRUE,More than 1000,FALSE,Yes,No,No,No,I don't know,I don't know,Maybe,Yes,No,10,0
+26,I don't know,TRUE,26-100,TRUE,I don't know,No,No,No,I don't know,Somewhat easy,No,Yes,Yes,8,5
+34,No,FALSE,100-500,FALSE,I don't know,No,No,No,No,Somewhat easy,No,No,No,3,0
+28,No,FALSE,More than 1000,TRUE,I don't know,No,No,No,I don't know,Somewhat difficult,Yes,No,No,9,1
+34,Yes,TRUE,100-500,TRUE,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,No,Maybe,Yes,7,7
+45,No,FALSE,,,,,,,,,No,,,,
+59,I don't know,TRUE,,,,,,,,,Yes,,,,
+41,Yes,TRUE,26-100,TRUE,I don't know,No,No,No,I don't know,Difficult,Yes,Maybe,Maybe,3,0
+38,Yes,TRUE,More than 1000,FALSE,Yes,No,I don't know,I don't know,Yes,Somewhat easy,No,Yes,Yes,7,5
+42,Yes,TRUE,More than 1000,TRUE,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,No,Maybe,No,8,8
+21,Yes,TRUE,100-500,TRUE,I don't know,N/A,No,I don't know,Yes,Very easy,No,Yes,Yes,6,8
+30,Yes,FALSE,26-100,TRUE,Yes,Yes,Yes,No,Yes,Somewhat difficult,No,Yes,Yes,9,3
+46,No,TRUE,100-500,TRUE,Yes,Yes,Yes,Yes,Yes,I don't know,No,Yes,Yes,8,8
+36,Yes,TRUE,,,,,,,,,Yes,,,,
+41,No,FALSE,More than 1000,TRUE,I don't know,Yes,No,No,Yes,Somewhat difficult,No,No,Maybe,6,4
+33,No,TRUE,,,,,,,,,No,,,,
+41,No,TRUE,1-5,TRUE,Yes,No,No,Yes,I don't know,Somewhat difficult,No,Maybe,Yes,6,3
+25,Yes,FALSE,More than 1000,FALSE,Yes,Yes,No,Yes,I don't know,Somewhat easy,No,No,No,10,5
+27,Yes,TRUE,6-25,TRUE,No,No,Yes,No,No,Somewhat difficult,Yes,Maybe,No,4,3
+47,I don't know,TRUE,More than 1000,TRUE,I don't know,No,Yes,Yes,I don't know,I don't know,No,Yes,No,8,6
+24,I don't know,TRUE,26-100,TRUE,Yes,Yes,No,I don't know,Yes,Somewhat easy,N/A,Maybe,Yes,8,5
+40,No,TRUE,More than 1000,TRUE,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Yes,Maybe,7,7
+37,I don't know,TRUE,100-500,TRUE,Yes,Yes,No,No,I don't know,Neither easy nor difficult,No,No,No,5,5
+38,I don't know,FALSE,More than 1000,TRUE,I don't know,No,No,Yes,I don't know,Somewhat easy,Yes,Maybe,Yes,5,3
+47,No,TRUE,More than 1000,TRUE,I don't know,No,I don't know,Yes,I don't know,Somewhat difficult,No,Yes,Yes,2,0
+30,Yes,TRUE,More than 1000,TRUE,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,Yes,Maybe,Yes,5,5
+24,Yes,TRUE,26-100,FALSE,Not eligible for coverage / NA,N/A,No,No,I don't know,Somewhat difficult,No,Maybe,No,0,0
+38,Yes,TRUE,More than 1000,FALSE,Yes,Yes,No,Yes,Yes,Somewhat difficult,Yes,Maybe,Maybe,5,3
+42,Yes,TRUE,6-25,TRUE,Yes,Yes,Yes,Yes,I don't know,Very easy,No,Yes,Yes,9,9
+39,No,FALSE,100-500,TRUE,No,No,No,No,I don't know,Very easy,Yes,No,No,6,0
+42,I don't know,TRUE,More than 1000,TRUE,I don't know,No,No,I don't know,Yes,I don't know,N/A,No,Maybe,7,0
+47,Yes,TRUE,More than 1000,FALSE,Yes,Yes,No,I don't know,Yes,Very easy,No,Maybe,Yes,10,8
+29,No,FALSE,More than 1000,TRUE,Yes,Yes,No,No,Yes,I don't know,No,Yes,Yes,7,1
+55,Yes,FALSE,More than 1000,TRUE,Yes,Yes,Yes,I don't know,I don't know,Somewhat easy,No,No,No,7,2
+34,Yes,TRUE,500-1000,TRUE,I don't know,No,I don't know,I don't know,I don't know,Very easy,Yes,Maybe,Maybe,5,5
+45,No,TRUE,More than 1000,TRUE,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Yes,Yes,8,9
+46,Yes,FALSE,More than 1000,FALSE,I don't know,N/A,Yes,Yes,Yes,Neither easy nor difficult,Yes,No,Maybe,5,5
+23,I don't know,FALSE,More than 1000,FALSE,Yes,No,No,Yes,I don't know,Somewhat difficult,N/A,Yes,No,7,1
+22,Yes,TRUE,100-500,FALSE,No,No,No,No,No,Somewhat difficult,Maybe,No,No,5,6
+30,Yes,TRUE,26-100,TRUE,No,N/A,No,No,I don't know,Neither easy nor difficult,No,Maybe,Maybe,7,4
+27,I don't know,TRUE,,,,,,,,,N/A,,,,
+42,Yes,TRUE,100-500,TRUE,Yes,No,No,I don't know,I don't know,Somewhat difficult,Yes,No,No,4,2
+26,Yes,TRUE,26-100,TRUE,Yes,No,No,No,Yes,Very easy,No,Yes,Yes,8,7
+31,No,FALSE,6-25,TRUE,No,No,No,No,I don't know,Very easy,N/A,No,Maybe,8,5
+27,No,FALSE,More than 1000,FALSE,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Maybe,No,No,5,5
+48,No,FALSE,,,,,,,,,N/A,,,,
+50,No,FALSE,,,,,,,,,N/A,,,,
+30,No,FALSE,More than 1000,TRUE,No,No,No,No,Yes,Difficult,Yes,Maybe,No,9,3
+24,Yes,TRUE,More than 1000,TRUE,Yes,Yes,No,Yes,Yes,Somewhat difficult,N/A,No,Maybe,5,3

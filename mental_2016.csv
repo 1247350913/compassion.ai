@@ -1,0 +1,1434 @@
+Age,Gender,family_history,treatment,no_employees,remote_work,tech_company,benefits,care_options,wellness_program,seek_help,anonymity,leave,mental_health_consequence,coworkers,supervisor,mental_vs_physical
+39,Male,No,0,26-100,Sometimes,1,Not eligible for coverage / N/A,N/A,No,No,I don't know,Very easy,No,Maybe,Yes,I don't know
+29,male,Yes,1,6-25,Never,1,No,Yes,Yes,Yes,Yes,Somewhat easy,No,Maybe,Yes,Yes
+38,Male ,No,1,6-25,Always,1,No,N/A,No,No,I don't know,Neither easy nor difficult,Maybe,Maybe,Maybe,I don't know
+43,male,No,1,,Sometimes,,,,,,,,,,,
+43,Female,Yes,1,6-25,Sometimes,0,Yes,Yes,No,No,No,Neither easy nor difficult,Yes,Maybe,No,No
+42,Male,No,1,More than 1000,Sometimes,1,Yes,I am not sure,No,Yes,Yes,Somewhat easy,Yes,Maybe,Yes,No
+30,M,No,0,26-100,Sometimes,1,I don't know,No,No,No,I don't know,Somewhat easy,No,Maybe,Yes,Yes
+37,female,Yes,1,More than 1000,Always,1,Yes,Yes,No,Yes,Yes,Very easy,No,Maybe,Yes,I don't know
+44,Female,Yes,1,26-100,Sometimes,0,I don't know,No,No,No,I don't know,Very difficult,Yes,Yes,Maybe,No
+30,Male,Yes,1,,Always,,,,,,,,,,,
+28,Male,I don't know,1,26-100,Never,1,Yes,I am not sure,Yes,Yes,Yes,Very easy,No,Maybe,Yes,Yes
+34,Male,Yes,1,100-500,Sometimes,0,Yes,Yes,No,I don't know,I don't know,Somewhat difficult,Yes,No,No,No
+30,Female,Yes,1,100-500,Always,1,Yes,I am not sure,No,No,Yes,Very easy,No,Yes,Yes,Yes
+44,Male,No,0,100-500,Sometimes,0,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Maybe,Yes
+35,Male,Yes,1,100-500,Always,1,Yes,Yes,No,I don't know,Yes,Very easy,No,Yes,Yes,No
+52,m,Yes,1,100-500,Sometimes,1,I don't know,No,No,I don't know,I don't know,Neither easy nor difficult,Maybe,Maybe,Maybe,I don't know
+32,I identify as female.,Yes,1,26-100,Always,1,Not eligible for coverage / N/A,No,No,No,I don't know,Very difficult,Maybe,Maybe,Maybe,No
+34,Male,No,0,500-1000,Never,1,No,No,No,No,I don't know,I don't know,Maybe,Yes,Maybe,No
+25,female ,I don't know,1,,Always,,,,,,,,,,,
+31,M,Yes,1,100-500,Sometimes,0,I don't know,No,No,No,I don't know,I don't know,Yes,No,No,Yes
+26,Male,Yes,0,6-25,Sometimes,1,No,N/A,No,No,I don't know,Very easy,No,Maybe,Yes,I don't know
+35,male,No,0,More than 1000,Never,0,Yes,No,Yes,I don't know,I don't know,Somewhat easy,No,Maybe,Yes,I don't know
+25,male,I don't know,0,26-100,Sometimes,1,Yes,Yes,No,No,I don't know,Very easy,Maybe,Maybe,No,I don't know
+33,Male,Yes,1,1-5,Sometimes,1,Yes,Yes,No,No,I don't know,Somewhat difficult,Maybe,Maybe,Maybe,I don't know
+38,Male,No,0,,Sometimes,,,,,,,,,,,
+42,male,No,0,100-500,Never,0,Yes,Yes,I don't know,Yes,Yes,Very easy,No,Maybe,Maybe,Yes
+27,Male,I don't know,1,26-100,Sometimes,0,No,No,No,No,I don't know,Very difficult,Yes,No,No,No
+35,male,No,1,100-500,Never,1,I don't know,No,No,No,I don't know,Somewhat difficult,No,No,No,I don't know
+34,female,Yes,1,500-1000,Never,0,I don't know,No,Yes,Yes,I don't know,Neither easy nor difficult,Maybe,Maybe,Maybe,I don't know
+32,Bigender,Yes,1,6-25,Never,1,Not eligible for coverage / N/A,N/A,No,No,Yes,Somewhat easy,No,Yes,Yes,Yes
+32,non-binary,Yes,1,100-500,Never,1,Not eligible for coverage / N/A,Yes,No,No,I don't know,Somewhat easy,Maybe,Maybe,Maybe,No
+30,Male,No,1,100-500,Sometimes,1,Yes,Yes,No,Yes,Yes,Very easy,No,Yes,Yes,Yes
+31,Male,I don't know,0,More than 1000,Never,1,I don't know,I am not sure,No,No,I don't know,Very easy,Maybe,No,Maybe,No
+37,Male ,No,0,,Sometimes,,,,,,,,,,,
+36,Male,No,0,26-100,Sometimes,1,Yes,I am not sure,No,I don't know,Yes,Very easy,No,Maybe,Yes,Yes
+33,Male,No,0,100-500,Never,1,No,No,No,Yes,I don't know,Somewhat easy,Maybe,No,No,I don't know
+44,Male,Yes,1,26-100,Always,1,Yes,I am not sure,No,Yes,Yes,Very easy,No,Yes,Maybe,Yes
+29,male,No,0,100-500,Never,1,No,Yes,No,No,I don't know,Somewhat easy,No,Yes,Yes,Yes
+29,male,Yes,1,100-500,Sometimes,1,No,I am not sure,Yes,No,I don't know,Somewhat easy,No,Maybe,Yes,I don't know
+44,Male,I don't know,0,More than 1000,Always,1,Yes,Yes,I don't know,I don't know,I don't know,Neither easy nor difficult,Maybe,Yes,Yes,I don't know
+34,Male,Yes,0,,Sometimes,,,,,,,,,,,
+40,male,I don't know,1,100-500,Always,1,Yes,I am not sure,No,I don't know,Yes,Somewhat easy,No,Maybe,Yes,No
+46,Female assigned at birth ,Yes,1,More than 1000,Never,1,Yes,I am not sure,No,No,Yes,Somewhat difficult,Yes,Yes,Yes,No
+28,M,Yes,1,,Sometimes,,,,,,,,,,,
+41,Male,No,0,More than 1000,Never,0,No,I am not sure,No,No,No,Somewhat difficult,Maybe,No,No,No
+33,male,Yes,1,6-25,Sometimes,1,Yes,Yes,I don't know,Yes,I don't know,Somewhat easy,Maybe,Maybe,Maybe,No
+32,Male,Yes,1,,Sometimes,,,,,,,,,,,
+45,Male,I don't know,0,6-25,Sometimes,1,I don't know,No,No,I don't know,I don't know,I don't know,Maybe,No,Maybe,I don't know
+43,male,Yes,1,,Sometimes,,,,,,,,,,,
+37,F,No,1,6-25,Always,1,Yes,Yes,No,No,Yes,Very easy,No,Yes,Maybe,I don't know
+37,M,I don't know,1,26-100,Never,1,No,N/A,No,No,I don't know,Somewhat easy,Maybe,No,No,I don't know
+27,Male,Yes,0,6-25,Sometimes,1,Yes,Yes,No,No,Yes,Very easy,Maybe,Yes,Yes,I don't know
+31,Male,No,0,,Sometimes,,,,,,,,,,,
+36,Male,Yes,1,More than 1000,Sometimes,1,Yes,Yes,No,Yes,I don't know,Somewhat difficult,Maybe,Maybe,Yes,Yes
+34,Male,No,1,500-1000,Always,0,Yes,Yes,No,No,I don't know,I don't know,Maybe,Maybe,Maybe,I don't know
+31,Woman,No,0,More than 1000,Sometimes,0,Yes,No,Yes,Yes,I don't know,Somewhat difficult,Maybe,Yes,Yes,I don't know
+30,Male,Yes,1,26-100,Never,1,Yes,Yes,No,Yes,I don't know,Somewhat easy,No,Yes,Yes,Yes
+32,Male,Yes,0,100-500,Never,0,Yes,Yes,No,I don't know,Yes,Somewhat difficult,Maybe,Maybe,Yes,No
+40,female,I don't know,0,6-25,Sometimes,0,Yes,I am not sure,No,No,I don't know,Somewhat difficult,No,No,Maybe,I don't know
+40,Male,I don't know,0,100-500,Sometimes,0,I don't know,No,No,No,I don't know,Neither easy nor difficult,Maybe,Maybe,No,I don't know
+41,man,I don't know,0,More than 1000,Sometimes,1,Yes,I am not sure,Yes,Yes,I don't know,Neither easy nor difficult,No,Maybe,Yes,No
+27,Male,No,1,26-100,Never,0,Not eligible for coverage / N/A,N/A,No,No,I don't know,Very difficult,Yes,No,Maybe,No
+30,Male,No,0,26-100,Sometimes,1,Yes,Yes,No,No,I don't know,Somewhat easy,No,Yes,Yes,I don't know
+29,Male,I don't know,0,,Always,,,,,,,,,,,
+38,Male,No,0,,Sometimes,,,,,,,,,,,
+35,male,No,0,,Sometimes,,,,,,,,,,,
+35,female,Yes,1,6-25,Never,0,No,Yes,No,No,I don't know,Somewhat difficult,Maybe,Maybe,Maybe,No
+29,M,Yes,1,More than 1000,Always,1,Yes,I am not sure,Yes,Yes,I don't know,Neither easy nor difficult,Maybe,No,No,I don't know
+28,Male,Yes,0,100-500,Never,1,Yes,I am not sure,No,I don't know,Yes,I don't know,Maybe,No,Maybe,I don't know
+27,Male,I don't know,1,26-100,Sometimes,0,No,Yes,No,I don't know,Yes,Very easy,No,No,Yes,Yes
+39,Male,No,1,,Sometimes,,,,,,,,,,,
+28,male,No,0,100-500,Sometimes,1,Yes,I am not sure,No,I don't know,I don't know,Neither easy nor difficult,No,Maybe,Maybe,I don't know
+46,Male,Yes,0,6-25,Sometimes,0,I don't know,No,No,No,I don't know,Very difficult,Yes,No,No,No
+40,male,No,1,1-5,Sometimes,1,No,No,No,I don't know,I don't know,Very easy,No,Yes,Yes,I don't know
+37,Male,Yes,0,26-100,Always,1,Yes,Yes,No,No,Yes,Very easy,No,Maybe,Yes,Yes
+41,Male,Yes,0,26-100,Sometimes,1,No,N/A,No,No,I don't know,Very easy,No,Maybe,Yes,I don't know
+19,M,I don't know,0,,Never,,,,,,,,,,,
+38,F,No,0,6-25,Never,1,I don't know,I am not sure,No,No,No,Somewhat easy,No,Yes,Maybe,Yes
+33,Male ,No,0,26-100,Sometimes,1,I don't know,I am not sure,No,I don't know,I don't know,Somewhat difficult,Maybe,No,No,No
+33,Male,Yes,1,26-100,Always,1,Yes,Yes,No,Yes,Yes,Very easy,No,Maybe,Yes,Yes
+21,male,No,0,1-5,Never,1,Yes,Yes,No,I don't know,Yes,I don't know,No,Maybe,Yes,I don't know
+36,Male,Yes,0,1-5,Never,1,No,No,No,No,I don't know,Very difficult,Maybe,No,No,I don't know
+39,Male,Yes,1,,Sometimes,,,,,,,,,,,
+35,Male,No,0,26-100,Sometimes,1,I don't know,I am not sure,No,I don't know,Yes,Somewhat easy,No,Maybe,Yes,Yes
+36,male,Yes,1,,Sometimes,,,,,,,,,,,
+45,Male,No,0,6-25,Never,1,Yes,No,No,I don't know,I don't know,Neither easy nor difficult,Maybe,No,Maybe,No
+41,Male,No,0,26-100,Never,1,I don't know,No,No,No,I don't know,Somewhat difficult,Maybe,Maybe,Maybe,No
+35,Male,I don't know,1,26-100,Sometimes,1,I don't know,I am not sure,No,I don't know,I don't know,Somewhat difficult,Maybe,No,No,No
+30,Male,I don't know,1,,Sometimes,,,,,,,,,,,
+24,Female,Yes,1,26-100,Sometimes,1,I don't know,I am not sure,Yes,Yes,Yes,Very easy,No,Maybe,Maybe,Yes
+33,Male,I don't know,1,100-500,Never,0,No,N/A,No,No,I don't know,I don't know,Maybe,No,No,I don't know
+35,male,Yes,1,More than 1000,Sometimes,1,Yes,Yes,I don't know,Yes,I don't know,Neither easy nor difficult,Maybe,Maybe,Maybe,I don't know
+26,Male,No,0,6-25,Sometimes,1,No,N/A,Yes,I don't know,I don't know,Neither easy nor difficult,No,Maybe,Yes,Yes
+17,male,No,0,6-25,Always,1,No,N/A,No,No,I don't know,Somewhat difficult,Yes,No,Yes,No
+29,Female,No,1,6-25,Sometimes,0,I don't know,I am not sure,No,No,I don't know,Neither easy nor difficult,No,Maybe,Yes,I don't know
+26,Male,Yes,1,100-500,Sometimes,1,Yes,I am not sure,No,I don't know,I don't know,Neither easy nor difficult,No,Maybe,Maybe,I don't know
+36,female,No,0,26-100,Always,1,I don't know,I am not sure,No,I don't know,I don't know,Very easy,No,Maybe,Maybe,I don't know
+46,M,I don't know,0,26-100,Sometimes,1,I don't know,I am not sure,Yes,I don't know,Yes,I don't know,No,No,No,Yes
+39,Male,Yes,0,,Sometimes,,,,,,,,,,,
+28,Female,Yes,1,100-500,Sometimes,1,Yes,Yes,No,No,I don't know,Somewhat difficult,Maybe,Maybe,Yes,No
+40,Male,No,0,500-1000,Sometimes,1,Yes,No,I don't know,I don't know,I don't know,Neither easy nor difficult,Maybe,No,No,I don't know
+23,Male,I don't know,1,100-500,Sometimes,1,I don't know,No,No,No,I don't know,I don't know,Yes,Maybe,Yes,No
+30,Male,Yes,0,6-25,Sometimes,1,I don't know,I am not sure,No,No,I don't know,Neither easy nor difficult,No,Yes,Yes,I don't know
+28,fm,Yes,0,26-100,Sometimes,1,I don't know,I am not sure,I don't know,I don't know,I don't know,Very easy,Maybe,No,No,I don't know
+27,Male,I don't know,0,26-100,Never,1,No,I am not sure,No,No,I don't know,Somewhat difficult,Yes,Maybe,Maybe,No
+31,m,No,1,,Always,,,,,,,,,,,
+39,f,Yes,1,26-100,Never,1,Yes,Yes,No,No,I don't know,Somewhat difficult,Maybe,Maybe,No,No
+34,Female,Yes,1,More than 1000,Always,1,Yes,Yes,No,Yes,Yes,I don't know,Maybe,Maybe,Maybe,No
+30,Male,No,1,6-25,Sometimes,1,Yes,Yes,No,No,Yes,Very easy,No,No,Yes,Yes
+30,male,I don't know,1,,Never,,,,,,,,,,,
+31,Male,No,0,100-500,Sometimes,0,I don't know,No,No,I don't know,I don't know,Somewhat easy,No,Yes,Yes,I don't know
+30,M,Yes,1,26-100,Always,1,Yes,Yes,Yes,Yes,Yes,Very easy,No,Yes,Yes,Yes
+32,Male,Yes,0,More than 1000,Sometimes,1,Yes,I am not sure,No,I don't know,I don't know,Somewhat difficult,Yes,No,No,I don't know
+22,Male,Yes,1,,Sometimes,,,,,,,,,,,
+37,Female,Yes,0,,Always,,,,,,,,,,,
+51,Male,No,0,26-100,Sometimes,0,Yes,Yes,No,Yes,Yes,I don't know,Maybe,Maybe,Maybe,I don't know
+26,Male,Yes,1,26-100,Sometimes,0,I don't know,No,No,No,I don't know,I don't know,No,Maybe,Yes,I don't know
+41,f,Yes,1,26-100,Sometimes,1,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Yes,Yes,Yes
+39,F,Yes,1,100-500,Sometimes,1,I don't know,I am not sure,No,I don't know,I don't know,Neither easy nor difficult,No,Maybe,Maybe,I don't know
+43,M,Yes,1,6-25,Sometimes,1,Yes,No,No,No,No,Neither easy nor difficult,Maybe,No,No,I don't know
+30,M,Yes,0,500-1000,Sometimes,1,I don't know,I am not sure,No,No,I don't know,Neither easy nor difficult,No,Yes,Yes,I don't know
+24,Female,I don't know,0,26-100,Sometimes,1,Yes,Yes,Yes,I don't know,I don't know,Very easy,No,Maybe,Yes,Yes
+30,m,No,1,,Sometimes,,,,,,,,,,,
+28,Cis female ,Yes,1,26-100,Sometimes,0,No,Yes,No,No,I don't know,Somewhat difficult,Yes,No,Maybe,I don't know
+48,Female,I don't know,1,,Sometimes,,,,,,,,,,,
+55,Female,Yes,1,,Always,,,,,,,,,,,
+36,F,I don't know,1,1-5,Sometimes,0,I don't know,No,Yes,No,I don't know,Very difficult,Yes,Yes,No,I don't know
+38,Male,No,0,,Sometimes,,,,,,,,,,,
+34,Male,No,0,100-500,Sometimes,1,I don't know,No,I don't know,I don't know,I don't know,Very easy,Maybe,Yes,Yes,I don't know
+44,Female,No,0,26-100,Sometimes,1,Yes,No,No,No,No,Somewhat easy,Maybe,No,Maybe,Yes
+45,Male,I don't know,1,More than 1000,Sometimes,0,I don't know,I am not sure,No,I don't know,I don't know,Very difficult,Maybe,No,Maybe,I don't know
+45,M,I don't know,1,6-25,Sometimes,1,Yes,No,No,I don't know,I don't know,Somewhat difficult,Yes,Maybe,No,No
+30,male,Yes,1,500-1000,Sometimes,1,No,I am not sure,No,No,I don't know,Somewhat difficult,Yes,Maybe,Yes,No
+34,Male,I don't know,1,More than 1000,Sometimes,0,Yes,No,No,Yes,Yes,I don't know,Maybe,Maybe,Yes,I don't know
+37,Male,Yes,0,More than 1000,Sometimes,1,I don't know,No,Yes,I don't know,I don't know,Neither easy nor difficult,No,Maybe,Yes,Yes
+38,Male,No,0,More than 1000,Sometimes,0,Yes,I am not sure,No,I don't know,Yes,I don't know,Maybe,No,Maybe,I don't know
+31,Male,No,1,26-100,Sometimes,1,Yes,No,No,I don't know,I don't know,I don't know,No,No,Maybe,Yes
+33,Male,No,0,26-100,Always,1,I don't know,I am not sure,No,I don't know,I don't know,Somewhat easy,No,Yes,Yes,I don't know
+29,female,I don't know,1,100-500,Sometimes,1,Yes,Yes,No,I don't know,I don't know,Somewhat difficult,Yes,No,No,No
+35,M,Yes,1,100-500,Sometimes,1,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Yes,Yes,I don't know
+42,"Transitioned, M2F",Yes,1,1-5,Always,1,No,Yes,No,No,No,Very difficult,Maybe,No,No,I don't know
+26,Female,I don't know,0,26-100,Sometimes,1,I don't know,No,No,I don't know,I don't know,I don't know,Yes,No,Maybe,I don't know
+36,f,Yes,1,500-1000,Always,1,Yes,No,No,I don't know,I don't know,I don't know,Maybe,Maybe,Yes,Yes
+21,male,Yes,1,26-100,Never,1,I don't know,I am not sure,I don't know,No,I don't know,I don't know,Maybe,Maybe,Maybe,I don't know
+34,F,I don't know,1,26-100,Sometimes,1,Yes,I am not sure,No,No,No,Somewhat easy,Maybe,No,Yes,Yes
+40,M,I don't know,0,,Always,,,,,,,,,,,
+35,Male,No,1,26-100,Sometimes,1,Yes,No,No,No,I don't know,Very difficult,Yes,Maybe,Maybe,No
+44,Male,No,1,6-25,Sometimes,1,Yes,Yes,No,I don't know,No,Somewhat easy,No,Yes,Yes,Yes
+35,Genderfluid (born female),Yes,0,6-25,Sometimes,1,I don't know,No,No,I don't know,I don't know,Somewhat difficult,No,Yes,Yes,Yes
+45,m,No,0,More than 1000,Sometimes,1,No,N/A,No,No,I don't know,Very difficult,Yes,No,No,No
+42,m,No,1,More than 1000,Sometimes,0,Yes,Yes,I don't know,Yes,Yes,Very easy,No,Maybe,Yes,Yes
+40,Male,I don't know,0,,Always,,,,,,,,,,,
+50,F,No,1,,Always,,,,,,,,,,,
+36,Male,Yes,1,100-500,Always,1,Yes,No,I don't know,I don't know,I don't know,I don't know,Maybe,Maybe,Maybe,I don't know
+31,female,Yes,1,,Always,,,,,,,,,,,
+29,Male,I don't know,0,26-100,Always,1,I don't know,No,Yes,No,I don't know,Very easy,No,Yes,Yes,I don't know
+37,Male,No,0,100-500,Never,1,Yes,No,No,I don't know,I don't know,Somewhat easy,Maybe,Yes,Yes,I don't know
+31,m,I don't know,1,26-100,Sometimes,1,No,I am not sure,No,I don't know,Yes,Very difficult,Yes,Maybe,Maybe,I don't know
+42,Male,No,0,More than 1000,Always,0,I don't know,No,No,No,I don't know,Somewhat difficult,Yes,No,No,No
+25,Male,No,0,500-1000,Sometimes,1,Yes,Yes,No,I don't know,Yes,Somewhat easy,Maybe,No,No,No
+27,Male,Yes,1,6-25,Sometimes,1,Yes,Yes,No,Yes,Yes,Very easy,No,Maybe,Yes,Yes
+41,Female,No,1,More than 1000,Never,0,Yes,Yes,No,I don't know,I don't know,Somewhat difficult,Maybe,Maybe,Maybe,Yes
+41,Female,No,0,100-500,Sometimes,1,Yes,Yes,No,Yes,I don't know,Somewhat easy,Maybe,Maybe,No,I don't know
+55,F,I don't know,1,More than 1000,Never,0,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,No,No,Yes
+21,Male,No,0,More than 1000,Never,1,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,Maybe,Maybe,Maybe,No
+37,male,No,0,More than 1000,Never,0,I don't know,I am not sure,Yes,No,I don't know,Very easy,Maybe,No,Maybe,Yes
+34,female,No,0,More than 1000,Sometimes,0,I don't know,No,No,I don't know,Yes,Very easy,Maybe,Maybe,Yes,I don't know
+40,Male,I don't know,0,More than 1000,Never,0,Yes,Yes,No,Yes,I don't know,I don't know,Maybe,No,No,I don't know
+25,male,I don't know,0,,Always,,,,,,,,,,,
+36,male,No,0,More than 1000,Sometimes,0,Yes,I am not sure,Yes,I don't know,I don't know,Somewhat easy,Maybe,No,Maybe,I don't know
+25,Male,No,0,26-100,Never,1,No,I am not sure,No,No,No,Somewhat easy,Maybe,Yes,Maybe,No
+35,male,No,0,100-500,Always,1,I don't know,I am not sure,No,I don't know,I don't know,Neither easy nor difficult,Maybe,Maybe,Yes,I don't know
+37,male,I don't know,1,6-25,Always,1,No,I am not sure,No,No,I don't know,Neither easy nor difficult,Maybe,Maybe,Maybe,I don't know
+45,Male,I don't know,0,More than 1000,Sometimes,0,Yes,No,No,Yes,I don't know,Neither easy nor difficult,Maybe,No,Maybe,No
+26,Male,Yes,1,6-25,Never,1,No,N/A,No,No,No,Neither easy nor difficult,Maybe,Yes,Yes,No
+23,Male,No,0,26-100,Sometimes,1,Yes,I am not sure,No,I don't know,Yes,Somewhat easy,Maybe,Maybe,No,I don't know
+22,Female,Yes,1,26-100,Sometimes,1,Yes,Yes,No,No,Yes,Somewhat difficult,Maybe,No,No,No
+46,Female,Yes,1,26-100,Always,1,I don't know,I am not sure,No,No,I don't know,Somewhat easy,No,Maybe,Maybe,I don't know
+31,Male,No,0,6-25,Sometimes,1,No,N/A,Yes,No,Yes,Somewhat easy,No,Yes,Yes,Yes
+27,Male,Yes,1,100-500,Always,1,Yes,I am not sure,I don't know,I don't know,I don't know,Very easy,No,Yes,Yes,Yes
+37,male,I don't know,0,6-25,Sometimes,1,No,N/A,No,Yes,I don't know,Very easy,No,Yes,Yes,Yes
+37,Male,No,0,100-500,Never,1,I don't know,I am not sure,No,No,I don't know,Neither easy nor difficult,Maybe,No,No,Yes
+26,Other/Transfeminine,No,1,1-5,Sometimes,1,Not eligible for coverage / N/A,N/A,Yes,I don't know,I don't know,Very easy,No,Yes,Yes,Yes
+23,M,Yes,1,500-1000,Never,1,No,No,No,No,Yes,Very easy,No,Maybe,Yes,I don't know
+40,Male,Yes,1,26-100,Never,1,Yes,Yes,No,No,Yes,Somewhat difficult,Maybe,Maybe,Maybe,Yes
+29,M,No,0,1-5,Sometimes,1,No,No,No,No,No,Somewhat easy,No,Maybe,Yes,No
+37,Male,I don't know,1,100-500,Sometimes,1,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Yes,Yes,Yes
+34,female,Yes,1,100-500,Never,1,Yes,Yes,I don't know,Yes,Yes,Somewhat difficult,No,Yes,Yes,Yes
+40,male,No,1,More than 1000,Sometimes,1,Yes,No,No,I don't know,I don't know,Very easy,No,Yes,Yes,Yes
+39,Male,No,1,500-1000,Sometimes,1,Yes,No,No,I don't know,I don't know,Very easy,Maybe,Maybe,Maybe,I don't know
+28,Male,Yes,1,500-1000,Always,1,Yes,I am not sure,I don't know,Yes,I don't know,Somewhat easy,Maybe,Maybe,Maybe,Yes
+28,male,No,0,,Sometimes,,,,,,,,,,,
+27,Male,Yes,0,26-100,Sometimes,1,No,No,No,No,I don't know,Neither easy nor difficult,No,No,No,I don't know
+48,Male,No,1,,Sometimes,,,,,,,,,,,
+49,Female,No,1,More than 1000,Sometimes,1,Yes,Yes,No,No,I don't know,Somewhat difficult,Maybe,Yes,Yes,I don't know
+35,Male,I don't know,1,26-100,Never,1,No,I am not sure,No,No,I don't know,Somewhat easy,Maybe,Yes,Yes,No
+35,Male,Yes,1,100-500,Sometimes,1,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,Maybe,Maybe,I don't know
+38,Male,Yes,1,,Always,,,,,,,,,,,
+32,Male,Yes,1,500-1000,Sometimes,1,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,Maybe,Yes,Maybe,Yes
+42,Male,Yes,1,More than 1000,Sometimes,1,Yes,Yes,No,Yes,I don't know,Somewhat difficult,Yes,No,No,No
+33,female,Yes,1,100-500,Always,1,Yes,Yes,No,Yes,Yes,Somewhat difficult,Maybe,Maybe,Yes,Yes
+35,Male,No,0,26-100,Always,1,I don't know,N/A,No,I don't know,Yes,Very easy,No,Yes,Yes,I don't know
+24,M,No,0,500-1000,Sometimes,1,I don't know,No,No,I don't know,Yes,Somewhat easy,No,Yes,Yes,Yes
+29,Female or Multi-Gender Femme,Yes,1,500-1000,Sometimes,1,Yes,Yes,No,Yes,I don't know,Somewhat easy,No,Yes,Yes,No
+29,Male,No,1,100-500,Always,1,I don't know,I am not sure,No,No,I don't know,Somewhat difficult,Maybe,Maybe,Yes,Yes
+24,Male,No,0,6-25,Sometimes,1,Not eligible for coverage / N/A,N/A,No,No,No,Somewhat easy,No,Maybe,Maybe,Yes
+30,Male,Yes,1,500-1000,Always,1,I don't know,No,Yes,I don't know,I don't know,Somewhat easy,Maybe,Yes,Maybe,I don't know
+30,male,No,1,26-100,Always,1,I don't know,No,No,No,I don't know,Somewhat difficult,Maybe,No,No,I don't know
+44,male,Yes,1,6-25,Always,1,No,No,No,No,I don't know,Somewhat difficult,Yes,No,No,I don't know
+37,Male,No,0,100-500,Always,1,Yes,I am not sure,No,Yes,I don't know,Somewhat easy,No,Maybe,Maybe,No
+28,Male,No,0,500-1000,Sometimes,1,No,No,No,No,I don't know,Neither easy nor difficult,No,Maybe,Maybe,Yes
+42,Male,Yes,1,100-500,Always,1,Yes,Yes,I don't know,I don't know,Yes,Somewhat easy,No,Maybe,Yes,Yes
+30,female,Yes,1,1-5,Sometimes,1,Yes,No,No,No,I don't know,Somewhat easy,Maybe,Yes,Yes,I don't know
+36,m,No,1,100-500,Sometimes,1,I don't know,I am not sure,No,I don't know,I don't know,I don't know,Maybe,No,Maybe,No
+30,male,No,0,500-1000,Sometimes,1,I don't know,No,No,No,I don't know,Neither easy nor difficult,Maybe,No,Maybe,Yes
+29,Male,No,0,6-25,Always,1,I don't know,No,No,No,I don't know,Neither easy nor difficult,Maybe,No,No,Yes
+25,male,No,0,500-1000,Sometimes,1,I don't know,No,I don't know,I don't know,I don't know,I don't know,Maybe,Maybe,Maybe,No
+25,Male,No,0,26-100,Sometimes,1,No,N/A,No,No,I don't know,Somewhat easy,No,Maybe,Maybe,Yes
+24,Male,No,0,500-1000,Never,1,I don't know,I am not sure,No,I don't know,I don't know,Somewhat easy,No,Maybe,Maybe,I don't know
+25,m,No,1,More than 1000,Sometimes,1,No,No,No,No,No,Somewhat easy,Yes,No,No,No
+31,Male ,I don't know,0,26-100,Never,1,Yes,Yes,No,No,Yes,Very easy,No,Yes,Yes,Yes
+37,M,Yes,0,26-100,Sometimes,1,Yes,No,No,No,I don't know,I don't know,Maybe,Maybe,No,Yes
+35,Male,No,0,100-500,Never,1,I don't know,No,No,I don't know,I don't know,Somewhat easy,No,Maybe,Yes,No
+26,female,Yes,1,6-25,Sometimes,1,Not eligible for coverage / N/A,N/A,Yes,No,Yes,Somewhat easy,Maybe,Yes,Yes,I don't know
+31,Male,I don't know,0,100-500,Always,1,Yes,Yes,No,No,Yes,Somewhat easy,No,Yes,Yes,Yes
+29,female,Yes,1,500-1000,Always,1,Yes,I am not sure,No,I don't know,I don't know,Somewhat easy,Maybe,Maybe,Maybe,Yes
+33,M,Yes,0,26-100,Sometimes,1,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,No,No,I don't know
+30,M,No,0,26-100,Always,1,No,I am not sure,No,No,No,Somewhat easy,Maybe,Maybe,No,Yes
+30,M,I don't know,0,26-100,Sometimes,1,Yes,Yes,No,No,I don't know,Neither easy nor difficult,Maybe,Yes,Yes,No
+29,female,Yes,1,100-500,Never,1,Yes,Yes,No,Yes,I don't know,Somewhat difficult,Maybe,No,No,I don't know
+25,Female,I don't know,1,26-100,Sometimes,1,I don't know,No,No,Yes,No,Somewhat difficult,Maybe,No,No,No
+27,Male,Yes,1,More than 1000,Never,0,Yes,Yes,Yes,Yes,Yes,Very easy,No,Maybe,Yes,Yes
+26,Male,No,0,500-1000,Sometimes,1,Yes,I am not sure,No,No,Yes,Very easy,No,No,No,Yes
+38,Female,Yes,0,500-1000,Always,1,Yes,Yes,I don't know,I don't know,Yes,Very easy,No,Yes,Yes,Yes
+49,Male,Yes,1,More than 1000,Sometimes,1,Yes,Yes,Yes,Yes,No,Very difficult,Yes,Maybe,No,No
+30,Male,Yes,0,26-100,Sometimes,1,Yes,Yes,No,Yes,Yes,Very easy,No,Yes,Yes,Yes
+34,male,I don't know,0,,Sometimes,,,,,,,,,,,
+31,male,No,0,100-500,Never,1,No,No,No,I don't know,I don't know,Very easy,Maybe,No,No,I don't know
+29,Male,Yes,1,,Sometimes,,,,,,,,,,,
+31,m,No,0,100-500,Sometimes,1,No,No,No,No,I don't know,Very easy,Maybe,Maybe,Maybe,I don't know
+34,male,I don't know,1,100-500,Never,1,Not eligible for coverage / N/A,I am not sure,Yes,No,I don't know,Neither easy nor difficult,Yes,No,No,Yes
+28,Male,No,1,6-25,Sometimes,1,I don't know,No,No,I don't know,I don't know,Somewhat easy,Maybe,Yes,Maybe,No
+35,Female ,Yes,1,,Always,,,,,,,,,,,
+27,Male ,I don't know,0,500-1000,Always,1,I don't know,I am not sure,No,I don't know,I don't know,Very easy,No,No,Maybe,I don't know
+33,m,No,0,,Sometimes,,,,,,,,,,,
+37,Female,I don't know,1,6-25,Sometimes,1,I don't know,I am not sure,No,I don't know,I don't know,Neither easy nor difficult,Maybe,Maybe,Maybe,I don't know
+45,Male,No,1,More than 1000,Sometimes,1,Not eligible for coverage / N/A,N/A,Yes,Yes,Yes,Very easy,Yes,Maybe,Maybe,Yes
+31,woman,Yes,1,6-25,Always,1,No,N/A,No,No,I don't know,Somewhat easy,No,Maybe,Yes,Yes
+36,M,No,0,More than 1000,Never,0,No,I am not sure,No,I don't know,I don't know,Somewhat difficult,Maybe,No,No,No
+30,M,Yes,1,500-1000,Never,1,Yes,Yes,No,Yes,I don't know,I don't know,Maybe,Maybe,Maybe,I don't know
+33,female,Yes,1,More than 1000,Sometimes,1,Yes,Yes,Yes,Yes,Yes,Very difficult,Maybe,No,Maybe,No
+45,female,I don't know,1,500-1000,Always,1,Yes,I am not sure,No,Yes,I don't know,I don't know,Maybe,No,No,I don't know
+30,Female,Yes,1,26-100,Sometimes,1,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,No,Maybe,Yes,Yes
+30,male,Yes,1,26-100,Sometimes,1,Yes,Yes,Yes,No,Yes,Neither easy nor difficult,Maybe,Maybe,Maybe,No
+29,Male,Yes,1,,Always,,,,,,,,,,,
+36,Male,Yes,0,1-5,Sometimes,0,No,Yes,Yes,No,No,Somewhat easy,No,Yes,Yes,No
+28,Male,Yes,1,26-100,Never,1,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Maybe,Maybe,Yes
+36,Male,No,1,26-100,Sometimes,1,Yes,I am not sure,I don't know,I don't know,I don't know,Somewhat easy,No,Maybe,Yes,Yes
+37,female,Yes,1,500-1000,Sometimes,1,Yes,Yes,No,I don't know,I don't know,Neither easy nor difficult,Maybe,Maybe,No,I don't know
+29,Male,Yes,1,26-100,Sometimes,1,Yes,I am not sure,No,Yes,Yes,Very easy,No,Yes,Yes,Yes
+25,Male,Yes,1,26-100,Sometimes,1,Yes,Yes,I don't know,Yes,Yes,Very easy,No,Yes,Yes,Yes
+34,f,No,0,26-100,Sometimes,1,Yes,No,Yes,Yes,Yes,Neither easy nor difficult,No,Maybe,Yes,No
+37,M,No,1,More than 1000,Sometimes,0,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,Maybe,Maybe,Maybe,Yes
+40,Female,Yes,1,More than 1000,Sometimes,1,Yes,Yes,No,Yes,I don't know,Neither easy nor difficult,Maybe,Maybe,Yes,I don't know
+32,Male,No,0,100-500,Always,1,Yes,Yes,Yes,Yes,I don't know,Somewhat difficult,Yes,Maybe,No,No
+38,Male,No,0,26-100,Never,1,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,Maybe,Maybe,I don't know
+31,Female,Yes,1,26-100,Sometimes,1,Yes,I am not sure,Yes,I don't know,I don't know,Somewhat difficult,Maybe,Maybe,Maybe,No
+28,female,Yes,1,26-100,Sometimes,1,Yes,Yes,I don't know,Yes,Yes,Very easy,No,Yes,Yes,Yes
+27,female,Yes,1,100-500,Sometimes,1,No,No,No,No,I don't know,Very difficult,Yes,No,No,No
+28,female,No,1,26-100,Sometimes,1,Yes,Yes,No,Yes,Yes,Somewhat easy,Maybe,Maybe,Maybe,I don't know
+26,Male,Yes,1,6-25,Always,1,I don't know,Yes,No,No,I don't know,Somewhat easy,No,No,Maybe,Yes
+40,Male,Yes,1,26-100,Sometimes,1,Yes,Yes,Yes,Yes,Yes,Very easy,No,Yes,Yes,Yes
+42,Male,No,1,More than 1000,Sometimes,1,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Yes,Yes,Yes
+36,Male,I don't know,0,26-100,Never,1,Yes,I am not sure,I don't know,Yes,I don't know,Very easy,No,Maybe,Maybe,Yes
+44,male,Yes,0,,Never,,,,,,,,,,,
+24,Male,I don't know,1,500-1000,Never,1,Yes,Yes,No,No,I don't know,Very difficult,Maybe,Maybe,Maybe,No
+44,Male,I don't know,1,100-500,Never,0,I don't know,I am not sure,No,Yes,I don't know,Very difficult,Yes,No,Maybe,No
+31,Male,No,1,More than 1000,Always,1,Yes,I am not sure,I don't know,I don't know,I don't know,Neither easy nor difficult,No,Yes,No,I don't know
+49,m,Yes,1,,Sometimes,,,,,,,,,,,
+27,female/woman,Yes,0,26-100,Sometimes,1,Yes,No,Yes,I don't know,Yes,Very difficult,Maybe,Maybe,No,I don't know
+27,Cis male,Yes,1,More than 1000,Always,1,Yes,I am not sure,I don't know,Yes,I don't know,Somewhat easy,No,No,Maybe,I don't know
+28,Male,No,1,100-500,Sometimes,1,Yes,Yes,No,No,I don't know,I don't know,No,Maybe,Maybe,I don't know
+20,Female,Yes,1,6-25,Never,1,Yes,Yes,No,No,I don't know,Very difficult,Yes,No,No,No
+41,Male ,Yes,0,,Always,,,,,,,,,,,
+38,Male,I don't know,1,100-500,Sometimes,0,No,N/A,No,Yes,I don't know,Neither easy nor difficult,Yes,Maybe,Maybe,I don't know
+29,male,Yes,0,100-500,Never,1,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Yes,No,No,I don't know
+44,f,Yes,1,100-500,Always,1,Yes,No,No,No,I don't know,Very easy,Maybe,Maybe,Maybe,No
+31,Male.,I don't know,0,500-1000,Sometimes,1,I don't know,I am not sure,No,Yes,I don't know,Neither easy nor difficult,No,No,Yes,Yes
+54,m,Yes,1,6-25,Sometimes,1,No,No,No,No,No,Somewhat difficult,Yes,No,No,No
+33,m,Yes,0,500-1000,Sometimes,1,I don't know,No,No,No,I don't know,Somewhat easy,No,No,Maybe,I don't know
+29,male,No,0,6-25,Never,1,No,No,No,No,No,I don't know,Maybe,No,No,No
+26,Androgynous,I don't know,1,26-100,Sometimes,1,I don't know,I am not sure,No,I don't know,I don't know,I don't know,No,Maybe,Maybe,I don't know
+26,male,Yes,0,26-100,Never,1,I don't know,No,Yes,I don't know,I don't know,Somewhat easy,No,Yes,Yes,Yes
+34,Male,I don't know,1,,Sometimes,,,,,,,,,,,
+38,Female,Yes,1,100-500,Sometimes,1,I don't know,No,No,No,I don't know,I don't know,Yes,No,No,I don't know
+30,Male,Yes,1,100-500,Sometimes,1,No,No,No,No,I don't know,Very easy,No,Maybe,Maybe,I don't know
+34,Male,Yes,1,,Sometimes,,,,,,,,,,,
+47,F,Yes,1,More than 1000,Sometimes,1,Yes,I am not sure,No,No,Yes,Very easy,No,Maybe,Maybe,Yes
+33,Female,Yes,1,100-500,Sometimes,0,Yes,I am not sure,Yes,Yes,I don't know,Very easy,No,Yes,Yes,Yes
+22,Male,No,0,More than 1000,Sometimes,0,I don't know,N/A,No,No,I don't know,Neither easy nor difficult,No,Maybe,Maybe,I don't know
+28,"male 9:1 female, roughly",I don't know,1,6-25,Never,1,Not eligible for coverage / N/A,N/A,No,No,No,Somewhat difficult,No,No,Yes,I don't know
+31,m,Yes,1,500-1000,Always,1,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Yes,Yes,Yes
+24,N/A,Yes,1,More than 1000,Sometimes,0,Not eligible for coverage / N/A,N/A,No,No,I don't know,Somewhat easy,Maybe,Yes,Yes,No
+56,m,No,0,1-5,Sometimes,0,No,I am not sure,No,No,I don't know,Very difficult,Maybe,Maybe,Maybe,No
+57,F,Yes,1,,Always,,,,,,,,,,,
+39,M,No,0,100-500,Always,1,I don't know,I am not sure,No,I don't know,Yes,I don't know,Maybe,Maybe,Maybe,I don't know
+21,Male,Yes,1,1-5,Never,1,No,No,I don't know,No,I don't know,Somewhat difficult,Maybe,Maybe,Maybe,Yes
+31,female,No,0,500-1000,Sometimes,1,I don't know,No,No,I don't know,I don't know,Very easy,No,Maybe,Maybe,Yes
+63,Male,No,1,,Always,,,,,,,,,,,
+46,male,Yes,1,,Always,,,,,,,,,,,
+32,Female,Yes,1,6-25,Never,1,I don't know,No,No,Yes,I don't know,Neither easy nor difficult,Maybe,No,Maybe,Yes
+35,m,Yes,1,,Sometimes,,,,,,,,,,,
+34,Male,No,0,100-500,Sometimes,1,Yes,I am not sure,Yes,No,I don't know,Very easy,No,Maybe,Maybe,Yes
+35,male,Yes,1,6-25,Always,1,Not eligible for coverage / N/A,N/A,No,No,I don't know,Neither easy nor difficult,Maybe,Maybe,Maybe,Yes
+31,Male,No,0,26-100,Sometimes,1,No,I am not sure,Yes,No,Yes,Very easy,No,Maybe,Yes,Yes
+35,F,Yes,1,,Always,,,,,,,,,,,
+36,Male,No,0,26-100,Sometimes,0,I don't know,No,No,No,I don't know,Somewhat easy,No,Yes,Yes,Yes
+50,Male,Yes,1,26-100,Sometimes,1,Yes,I am not sure,No,I don't know,I don't know,Somewhat difficult,Maybe,Maybe,Maybe,Yes
+31,Male,Yes,1,6-25,Sometimes,1,I don't know,I am not sure,No,No,Yes,Very easy,No,Maybe,Yes,I don't know
+47,male,Yes,1,100-500,Never,1,Yes,Yes,No,No,I don't know,I don't know,Maybe,Yes,Maybe,I don't know
+32,Female,No,1,6-25,Never,1,I don't know,I am not sure,No,I don't know,I don't know,Very difficult,Maybe,Maybe,No,I don't know
+23,Female,Yes,1,26-100,Never,1,Yes,Yes,No,No,Yes,Somewhat easy,No,Maybe,Yes,Yes
+43,Female,Yes,1,6-25,Sometimes,1,Yes,I am not sure,No,I don't know,I don't know,Somewhat difficult,Maybe,Yes,Yes,Yes
+26,Female,Yes,0,6-25,Sometimes,1,Yes,Yes,No,No,I don't know,Neither easy nor difficult,No,Yes,Yes,Yes
+26,female,Yes,0,26-100,Never,1,I don't know,I am not sure,No,I don't know,I don't know,I don't know,No,Maybe,Maybe,I don't know
+55,Female,No,0,6-25,Sometimes,1,Yes,Yes,Yes,Yes,Yes,Very easy,No,Maybe,Yes,Yes
+27,Male,No,1,6-25,Never,1,Yes,No,Yes,No,I don't know,Neither easy nor difficult,No,Maybe,Maybe,Yes
+34,Male,Yes,1,100-500,Always,1,Not eligible for coverage / N/A,No,No,I don't know,I don't know,Somewhat difficult,Maybe,No,No,I don't know
+25,Male,Yes,0,26-100,Never,1,No,N/A,No,No,I don't know,Somewhat difficult,Yes,No,No,I don't know
+35,male,No,0,26-100,Sometimes,0,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Yes,Maybe,Yes,I don't know
+37,Male,No,1,,Sometimes,,,,,,,,,,,
+38,Female,I don't know,1,26-100,Sometimes,1,Yes,I am not sure,No,Yes,I don't know,Very easy,No,Yes,Yes,Yes
+29,male,I don't know,1,26-100,Never,1,Yes,No,No,No,I don't know,Very difficult,Yes,Maybe,Maybe,I don't know
+28,Male,Yes,1,500-1000,Always,1,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Yes,Maybe,Yes
+29,Male,Yes,1,6-25,Always,1,Not eligible for coverage / N/A,N/A,Yes,No,I don't know,Somewhat easy,No,Yes,Yes,Yes
+40,male,Yes,0,More than 1000,Always,1,Yes,I am not sure,No,No,I don't know,Somewhat easy,No,Maybe,Yes,No
+25,Female,No,1,26-100,Sometimes,1,Yes,Yes,Yes,Yes,Yes,Very easy,No,Yes,Yes,Yes
+29,Male,No,0,,Sometimes,,,,,,,,,,,
+29,F,Yes,0,26-100,Sometimes,1,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,No,Yes,Yes,Yes
+35,M,No,1,1-5,Sometimes,1,Yes,Yes,No,Yes,I don't know,Very easy,No,Yes,Yes,Yes
+25,Male,I don't know,0,,Sometimes,,,,,,,,,,,
+43,Male,No,1,26-100,Sometimes,1,No,Yes,No,No,I don't know,Somewhat difficult,No,Maybe,Maybe,I don't know
+26,Male,No,0,6-25,Never,1,No,N/A,No,No,I don't know,Very easy,No,Yes,Yes,Yes
+31,male,No,1,100-500,Never,1,I don't know,No,No,No,I don't know,Very easy,No,No,No,I don't know
+31,female,Yes,0,100-500,Always,1,Yes,Yes,I don't know,Yes,Yes,Very easy,No,Maybe,Yes,Yes
+45,F,I don't know,1,More than 1000,Always,0,I don't know,No,No,No,I don't know,Somewhat difficult,Maybe,No,Yes,No
+23,Male,I don't know,0,More than 1000,Never,1,No,No,No,No,No,Somewhat easy,Maybe,No,No,I don't know
+39,Male,I don't know,0,6-25,Never,1,I don't know,No,No,I don't know,I don't know,Neither easy nor difficult,Maybe,Maybe,Maybe,I don't know
+27,Female,Yes,0,26-100,Sometimes,1,Yes,I am not sure,No,No,I don't know,Somewhat easy,No,Yes,Yes,Yes
+28,Male,Yes,1,100-500,Sometimes,1,Yes,I am not sure,No,No,I don't know,Very easy,Maybe,Yes,Yes,I don't know
+36,Male,No,0,500-1000,Always,1,I don't know,No,No,I don't know,I don't know,I don't know,Maybe,Maybe,Maybe,No
+22,male,No,0,100-500,Never,1,I don't know,No,No,No,I don't know,Somewhat difficult,Maybe,Maybe,No,No
+51,Male,I don't know,1,1-5,Never,1,Yes,I am not sure,No,I don't know,No,Neither easy nor difficult,No,Maybe,Yes,I don't know
+39,Male,No,0,,Sometimes,,,,,,,,,,,
+36,Male,Yes,1,,Sometimes,,,,,,,,,,,
+28,male,Yes,1,More than 1000,Sometimes,0,Not eligible for coverage / N/A,I am not sure,No,No,I don't know,Somewhat difficult,No,Yes,Yes,I don't know
+40,M,No,0,100-500,Always,1,I don't know,No,No,Yes,Yes,I don't know,Yes,No,No,I don't know
+35,Female,I don't know,1,26-100,Sometimes,1,Yes,Yes,Yes,Yes,Yes,Very easy,No,Yes,Yes,Yes
+38,Male,Yes,1,100-500,Never,1,Yes,Yes,No,No,I don't know,Somewhat difficult,Yes,No,No,No
+29,Male,Yes,1,100-500,Always,1,Yes,I am not sure,No,No,I don't know,I don't know,Yes,No,Maybe,I don't know
+43,M,No,0,,Sometimes,,,,,,,,,,,
+31,f,Yes,1,500-1000,Always,1,Yes,No,No,I don't know,I don't know,Somewhat easy,Maybe,Yes,Yes,I don't know
+45,male,No,0,100-500,Sometimes,1,No,No,No,No,I don't know,Somewhat difficult,Yes,Maybe,Maybe,No
+26,Male,Yes,0,100-500,Sometimes,1,I don't know,I am not sure,No,I don't know,I don't know,Somewhat easy,No,Maybe,Maybe,No
+42,Male,No,0,100-500,Always,1,Yes,Yes,Yes,Yes,Yes,Very easy,No,Yes,Yes,Yes
+28,f,No,0,100-500,Always,1,Yes,I am not sure,Yes,Yes,Yes,Somewhat easy,No,Maybe,Yes,Yes
+28,Male,Yes,0,6-25,Sometimes,1,Not eligible for coverage / N/A,N/A,No,No,I don't know,I don't know,Maybe,Yes,Maybe,I don't know
+39,female,Yes,1,100-500,Sometimes,1,Yes,No,Yes,Yes,I don't know,I don't know,Maybe,Yes,Maybe,Yes
+34,Male (cis),No,1,6-25,Sometimes,1,Yes,I am not sure,No,No,Yes,Somewhat easy,Maybe,Maybe,Maybe,Yes
+28,Female,Yes,1,26-100,Always,1,I don't know,No,No,Yes,I don't know,Somewhat easy,No,Yes,Yes,Yes
+35,Female,No,0,500-1000,Sometimes,1,Yes,Yes,I don't know,I don't know,Yes,Somewhat easy,Maybe,Maybe,Yes,Yes
+42,male,No,0,6-25,Sometimes,1,I don't know,I am not sure,No,No,Yes,Neither easy nor difficult,No,Maybe,Yes,Yes
+99,Other,Yes,1,6-25,Sometimes,1,Yes,No,No,I don't know,Yes,Somewhat easy,No,Yes,Yes,Yes
+29,Male,No,1,,Always,,,,,,,,,,,
+34,Male ,I don't know,1,,Sometimes,,,,,,,,,,,
+28,Male,Yes,0,26-100,Always,1,Yes,I am not sure,No,I don't know,I don't know,I don't know,Maybe,Maybe,Maybe,I don't know
+22,F,No,0,500-1000,Sometimes,1,I don't know,No,Yes,No,I don't know,Very easy,Maybe,No,No,Yes
+28,female,Yes,1,26-100,Sometimes,1,Yes,Yes,No,Yes,Yes,Neither easy nor difficult,Yes,Maybe,Maybe,No
+26,Female,Yes,1,,Always,,,,,,,,,,,
+21,Female ,Yes,1,More than 1000,Never,0,Yes,I am not sure,Yes,Yes,Yes,I don't know,Maybe,Maybe,Maybe,I don't know
+38,male,Yes,1,26-100,Never,1,No,No,No,No,No,Somewhat easy,Yes,Yes,Maybe,No
+33,M,Yes,1,More than 1000,Sometimes,0,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,No,Maybe,Yes,Yes
+28,Female,Yes,1,100-500,Sometimes,1,Yes,I am not sure,Yes,Yes,Yes,Very easy,No,Maybe,Yes,I don't know
+32,Male,I don't know,1,26-100,Sometimes,1,Yes,Yes,Yes,Yes,Yes,Very easy,No,Maybe,Maybe,Yes
+24,Female,I don't know,1,1-5,Sometimes,1,Not eligible for coverage / N/A,N/A,No,No,I don't know,Somewhat difficult,Yes,No,No,I don't know
+35,male,Yes,1,500-1000,Always,1,I don't know,I am not sure,No,I don't know,I don't know,Somewhat easy,Maybe,Maybe,No,No
+41,Male,No,0,,Sometimes,,,,,,,,,,,
+38,F,Yes,1,,Always,,,,,,,,,,,
+24,Female,Yes,1,More than 1000,Sometimes,1,I don't know,I am not sure,No,I don't know,I don't know,Somewhat difficult,Yes,Maybe,No,No
+30,Male,Yes,1,100-500,Sometimes,1,Yes,Yes,No,I don't know,I don't know,Very easy,No,Yes,Yes,I don't know
+47,female,No,0,100-500,Sometimes,1,Yes,Yes,I don't know,Yes,Yes,I don't know,Yes,No,No,I don't know
+26,female,No,0,More than 1000,Never,1,Yes,I am not sure,I don't know,Yes,Yes,Somewhat easy,Maybe,No,No,I don't know
+32,Male,I don't know,1,100-500,Always,1,Yes,Yes,No,I don't know,I don't know,Somewhat easy,No,No,Yes,Yes
+32,Male,Yes,0,100-500,Sometimes,1,I don't know,No,No,Yes,I don't know,Neither easy nor difficult,Maybe,No,Maybe,I don't know
+37,male,I don't know,1,500-1000,Always,1,I don't know,No,I don't know,Yes,I don't know,Somewhat easy,No,Yes,Yes,Yes
+33,male,No,0,,Sometimes,,,,,,,,,,,
+28,f,I don't know,0,6-25,Sometimes,1,No,N/A,No,No,I don't know,Somewhat easy,No,No,Maybe,Yes
+22,man,No,1,26-100,Never,1,I don't know,No,Yes,I don't know,Yes,Somewhat easy,Maybe,Maybe,No,Yes
+30,Male,Yes,1,500-1000,Sometimes,1,I don't know,I am not sure,Yes,Yes,I don't know,Somewhat easy,No,Maybe,Maybe,Yes
+42,Female,Yes,1,,Always,,,,,,,,,,,
+34,male,I don't know,0,100-500,Never,1,Yes,I am not sure,No,I don't know,Yes,Somewhat easy,Maybe,Maybe,Maybe,I don't know
+32,Male,No,1,6-25,Sometimes,1,Yes,Yes,No,No,Yes,Very easy,Maybe,No,Yes,Yes
+37,male,Yes,1,100-500,Always,1,No,No,No,No,I don't know,Somewhat easy,Maybe,Yes,Yes,I don't know
+31,Female,Yes,1,,Always,,,,,,,,,,,
+31,Male,Yes,1,26-100,Always,1,I don't know,No,Yes,No,I don't know,Very easy,Yes,Maybe,Maybe,Yes
+26,male,I don't know,0,26-100,Always,0,No,I am not sure,No,No,I don't know,Very easy,Maybe,Maybe,Maybe,I don't know
+30,Male,I don't know,0,,Sometimes,,,,,,,,,,,
+36,m,Yes,1,100-500,Sometimes,1,Yes,Yes,No,I don't know,I don't know,I don't know,Maybe,Maybe,Yes,No
+38,Male,Yes,1,100-500,Always,1,Yes,No,No,No,I don't know,I don't know,Maybe,No,No,I don't know
+24,Male,No,1,26-100,Sometimes,1,Yes,Yes,No,No,I don't know,Somewhat easy,No,Yes,Maybe,I don't know
+26,male,I don't know,0,100-500,Sometimes,1,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Maybe,No,Maybe,I don't know
+37,Male,Yes,1,More than 1000,Never,1,Yes,I am not sure,Yes,I don't know,I don't know,I don't know,Maybe,Maybe,Yes,I don't know
+27,Female,Yes,1,26-100,Never,1,I don't know,I am not sure,No,No,I don't know,Neither easy nor difficult,No,Maybe,Maybe,No
+32,Male,No,1,,Always,,,,,,,,,,,
+32,Male,No,1,26-100,Never,1,Yes,I am not sure,Yes,I don't know,Yes,Very easy,No,Yes,Yes,Yes
+30,Male,I don't know,1,6-25,Never,0,Yes,I am not sure,No,Yes,No,Neither easy nor difficult,No,Yes,Yes,Yes
+26,Female,No,1,26-100,Always,1,No,No,Yes,No,I don't know,Very difficult,No,Yes,Yes,Yes
+27,Female,Yes,1,,Never,,,,,,,,,,,
+27,Male,I don't know,1,,Always,,,,,,,,,,,
+29,Male,Yes,1,26-100,Always,1,Not eligible for coverage / N/A,No,No,No,I don't know,I don't know,No,Maybe,Yes,I don't know
+26,nb masculine,Yes,1,26-100,Never,1,Yes,Yes,Yes,Yes,I don't know,I don't know,Maybe,Yes,Maybe,I don't know
+23,Female,No,0,100-500,Never,1,Yes,I am not sure,No,No,I don't know,Somewhat difficult,No,Maybe,Maybe,No
+30,Male,Yes,1,100-500,Sometimes,1,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Yes,Yes,Yes
+40,M,Yes,0,More than 1000,Sometimes,0,Yes,No,I don't know,Yes,I don't know,Somewhat difficult,Maybe,No,No,No
+46,male,I don't know,1,100-500,Sometimes,1,I don't know,I am not sure,No,I don't know,I don't know,Very difficult,Maybe,No,No,I don't know
+26,Male,No,0,26-100,Sometimes,1,I don't know,I am not sure,No,I don't know,I don't know,I don't know,No,Yes,Yes,I don't know
+30,m,I don't know,0,More than 1000,Sometimes,1,Yes,Yes,Yes,Yes,Yes,I don't know,Maybe,No,No,I don't know
+27,f,No,0,100-500,Always,1,No,No,No,No,I don't know,I don't know,Yes,No,No,I don't know
+35,male,Yes,1,,Always,,,,,,,,,,,
+26,Cisgender Female,Yes,1,26-100,Sometimes,1,Yes,Yes,No,Yes,I don't know,Neither easy nor difficult,Maybe,Maybe,No,No
+35,Male,Yes,0,100-500,Always,1,I don't know,No,I don't know,I don't know,I don't know,Somewhat easy,No,Yes,Yes,I don't know
+29,Male,Yes,1,26-100,Never,0,I don't know,I am not sure,No,No,I don't know,Somewhat easy,No,Maybe,Maybe,Yes
+34,Male,No,1,100-500,Sometimes,1,I don't know,N/A,Yes,Yes,Yes,Very easy,No,Yes,Yes,Yes
+27,male,No,0,,Sometimes,,,,,,,,,,,
+39,Male,No,0,100-500,Sometimes,1,No,N/A,No,No,Yes,I don't know,Maybe,Maybe,No,I don't know
+27,Male,No,0,100-500,Sometimes,1,I don't know,N/A,I don't know,I don't know,I don't know,Somewhat easy,No,Yes,Yes,Yes
+31,Male,No,1,500-1000,Sometimes,1,No,No,No,No,I don't know,Somewhat easy,No,Maybe,Yes,I don't know
+26,Male,No,0,26-100,Never,0,No,No,No,No,I don't know,Somewhat difficult,Maybe,No,Yes,No
+44,male,Yes,1,26-100,Always,1,Yes,No,No,I don't know,Yes,Neither easy nor difficult,Maybe,Yes,Maybe,I don't know
+27,male,No,0,100-500,Sometimes,1,Yes,No,I don't know,No,I don't know,Neither easy nor difficult,Maybe,Maybe,Maybe,I don't know
+57,Female,Yes,1,100-500,Sometimes,0,Yes,I am not sure,No,No,I don't know,Somewhat easy,No,Maybe,Yes,I don't know
+34,m,I don't know,0,,Sometimes,,,,,,,,,,,
+38,Male,Yes,1,,Sometimes,,,,,,,,,,,
+55,Male,I don't know,1,,Always,,,,,,,,,,,
+28,male,Yes,1,,Sometimes,,,,,,,,,,,
+35,Male,I don't know,1,More than 1000,Never,0,I don't know,I am not sure,No,No,No,Neither easy nor difficult,Yes,No,Maybe,I don't know
+26,Male,I don't know,1,100-500,Always,1,Yes,No,No,I don't know,I don't know,Somewhat difficult,Maybe,Maybe,No,Yes
+22,female,No,0,6-25,Never,1,I don't know,I am not sure,Yes,Yes,Yes,Very easy,No,Maybe,Yes,Yes
+31,Male,No,0,100-500,Sometimes,1,I don't know,I am not sure,No,I don't know,I don't know,Somewhat easy,Maybe,Maybe,Maybe,I don't know
+31,male,No,1,26-100,Never,1,I don't know,No,No,No,No,Somewhat difficult,Maybe,No,No,I don't know
+40,Male,No,0,,Sometimes,,,,,,,,,,,
+26,m,No,1,More than 1000,Sometimes,0,Yes,Yes,No,Yes,Yes,Neither easy nor difficult,Maybe,Maybe,Yes,No
+36,M,Yes,1,1-5,Sometimes,1,No,N/A,No,No,No,Very difficult,Yes,No,No,I don't know
+33,Male,Yes,1,26-100,Sometimes,1,Yes,Yes,No,No,Yes,Somewhat easy,No,Yes,Yes,Yes
+24,F,Yes,1,500-1000,Sometimes,1,Yes,I am not sure,Yes,No,I don't know,Very easy,No,Yes,Yes,I don't know
+22,male,Yes,0,6-25,Sometimes,1,No,No,No,No,I don't know,Very easy,Maybe,No,Maybe,No
+33,male,Yes,1,6-25,Always,1,Yes,Yes,No,Yes,I don't know,Somewhat difficult,No,Maybe,Yes,Yes
+37,f,No,1,More than 1000,Sometimes,1,Yes,No,No,I don't know,I don't know,Somewhat easy,Maybe,Maybe,Maybe,No
+29,Male,No,0,6-25,Always,1,Yes,I am not sure,No,I don't know,I don't know,Very easy,No,Yes,Yes,Yes
+38,Male,I don't know,1,1-5,Sometimes,0,Not eligible for coverage / N/A,N/A,Yes,No,Yes,Neither easy nor difficult,No,Yes,Yes,Yes
+33,m,Yes,0,1-5,Sometimes,1,No,N/A,No,No,I don't know,Neither easy nor difficult,Maybe,No,No,I don't know
+44,Female,Yes,1,1-5,Always,1,I don't know,I am not sure,No,No,I don't know,Neither easy nor difficult,Yes,No,No,No
+23,Male,Yes,1,6-25,Sometimes,0,Yes,I am not sure,No,No,I don't know,Somewhat easy,No,Maybe,Yes,I don't know
+30,M,No,0,,Sometimes,,,,,,,,,,,
+30,Man,I don't know,1,More than 1000,Never,0,I don't know,No,No,No,I don't know,Very difficult,Yes,No,No,No
+28,male,No,0,26-100,Sometimes,1,Yes,No,No,No,I don't know,Neither easy nor difficult,No,Yes,Yes,I don't know
+39,male,I don't know,0,26-100,Never,1,Yes,Yes,No,No,No,Somewhat easy,No,Maybe,Maybe,No
+24,Female,Yes,1,6-25,Never,1,No,No,No,No,I don't know,Somewhat difficult,Yes,No,No,I don't know
+27,Male,Yes,1,,Always,,,,,,,,,,,
+35,Male,Yes,1,More than 1000,Sometimes,0,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,No,Maybe,Yes,Yes
+23,Male,Yes,0,6-25,Never,1,No,No,No,I don't know,I don't know,Neither easy nor difficult,No,Yes,Yes,I don't know
+37,M,Yes,0,More than 1000,Sometimes,0,Yes,I am not sure,I don't know,Yes,Yes,Very easy,No,Maybe,Yes,I don't know
+35,Male,No,0,6-25,Sometimes,1,Yes,I am not sure,No,No,I don't know,Somewhat easy,No,Maybe,Yes,I don't know
+27,Male,I don't know,0,26-100,Sometimes,0,Yes,Yes,No,No,Yes,Neither easy nor difficult,No,Maybe,Maybe,Yes
+27,Female,Yes,0,1-5,Always,1,I don't know,I am not sure,No,No,I don't know,Very easy,No,Maybe,Maybe,Yes
+27,Female,No,0,More than 1000,Never,1,Yes,I am not sure,No,Yes,I don't know,Somewhat difficult,Maybe,No,No,I don't know
+42,m,Yes,1,6-25,Sometimes,1,I don't know,I am not sure,No,No,I don't know,Somewhat easy,Maybe,No,No,I don't know
+32,Sex is male,Yes,0,6-25,Never,0,Yes,I am not sure,No,No,Yes,Somewhat difficult,Maybe,No,Maybe,No
+26,Male,Yes,1,6-25,Sometimes,1,I don't know,I am not sure,No,No,I don't know,I don't know,No,Maybe,Maybe,I don't know
+28,Male,No,0,100-500,Never,1,I don't know,No,No,I don't know,I don't know,Neither easy nor difficult,Yes,No,No,I don't know
+28,M,No,0,6-25,Sometimes,1,I don't know,No,No,No,I don't know,I don't know,Yes,No,No,I don't know
+32,Male,Yes,1,100-500,Sometimes,1,Yes,No,No,Yes,Yes,I don't know,Maybe,No,No,I don't know
+43,male,I don't know,0,,Always,,,,,,,,,,,
+34,Male,I don't know,1,26-100,Never,1,Yes,I am not sure,Yes,Yes,I don't know,Neither easy nor difficult,Maybe,Maybe,Maybe,No
+61,f,No,1,6-25,Sometimes,1,I don't know,I am not sure,No,I don't know,No,Neither easy nor difficult,Maybe,No,Maybe,I don't know
+50,Male,Yes,0,,Always,,,,,,,,,,,
+38,Male,Yes,1,,Sometimes,,,,,,,,,,,
+51,m,Yes,1,6-25,Sometimes,0,Not eligible for coverage / N/A,I am not sure,I don't know,I don't know,I don't know,I don't know,Yes,Maybe,Maybe,No
+38,male,No,1,,Sometimes,,,,,,,,,,,
+34,male,Yes,1,500-1000,Always,1,I don't know,I am not sure,I don't know,I don't know,I don't know,Very easy,No,Yes,Yes,Yes
+43,Male,No,1,6-25,Always,1,No,N/A,No,No,I don't know,Somewhat difficult,Maybe,Yes,Maybe,No
+43,Female,No,0,100-500,Sometimes,1,Yes,No,No,Yes,I don't know,Somewhat difficult,Yes,No,Maybe,I don't know
+44,Male,Yes,1,6-25,Always,1,No,I am not sure,Yes,No,I don't know,Somewhat difficult,Maybe,No,Maybe,I don't know
+35,m,I don't know,1,100-500,Sometimes,1,I don't know,No,No,I don't know,I don't know,Very easy,Maybe,Maybe,Maybe,I don't know
+50,Male,No,0,26-100,Always,1,Yes,Yes,No,I don't know,I don't know,Very easy,No,Maybe,Yes,Yes
+29,Male,No,1,100-500,Sometimes,1,Yes,Yes,No,No,Yes,Very difficult,Maybe,Maybe,Yes,I don't know
+29,Male,Yes,1,100-500,Never,1,Yes,Yes,Yes,No,I don't know,Very easy,No,Yes,Yes,Yes
+36,Male,I don't know,0,500-1000,Sometimes,0,Yes,No,No,I don't know,I don't know,Very easy,Maybe,Yes,Yes,Yes
+33,Male,Yes,0,,Sometimes,,,,,,,,,,,
+50,Male,No,1,,Sometimes,,,,,,,,,,,
+46,Male,No,1,More than 1000,Always,1,I don't know,I am not sure,No,I don't know,I don't know,I don't know,Maybe,No,No,No
+44,Female,Yes,1,,Always,,,,,,,,,,,
+23,none of your business,Yes,1,More than 1000,Sometimes,1,Yes,I am not sure,No,I don't know,No,Very difficult,Yes,Maybe,No,No
+41,Male,I don't know,1,6-25,Sometimes,1,I don't know,I am not sure,No,No,I don't know,Neither easy nor difficult,Maybe,Maybe,Yes,No
+31,male,No,0,More than 1000,Sometimes,1,Yes,No,Yes,I don't know,I don't know,Somewhat easy,No,Maybe,Yes,I don't know
+55,male,Yes,1,1-5,Sometimes,1,No,Yes,No,No,No,Very difficult,Yes,No,No,No
+34,M,No,0,26-100,Sometimes,1,No,N/A,No,No,I don't know,Very difficult,Yes,Maybe,No,No
+28,Female,Yes,1,6-25,Always,1,Yes,Yes,No,No,I don't know,Somewhat difficult,No,Yes,Yes,Yes
+33,m,Yes,1,6-25,Sometimes,1,Yes,No,No,No,I don't know,Very difficult,No,Maybe,Maybe,I don't know
+29,Male,Yes,1,100-500,Sometimes,1,Yes,No,No,Yes,No,Neither easy nor difficult,Yes,Maybe,No,No
+33,Female,Yes,1,More than 1000,Sometimes,0,Yes,I am not sure,Yes,Yes,Yes,Somewhat difficult,No,Maybe,Yes,Yes
+28,male,I don't know,0,,Sometimes,,,,,,,,,,,
+28,male,Yes,1,More than 1000,Sometimes,1,Yes,Yes,Yes,Yes,I don't know,I don't know,Maybe,No,Maybe,I don't know
+32,Male,Yes,1,26-100,Sometimes,1,Yes,No,Yes,Yes,I don't know,I don't know,No,Yes,Yes,Yes
+36,female,Yes,1,6-25,Never,1,Yes,Yes,No,No,I don't know,Neither easy nor difficult,No,No,Maybe,I don't know
+45,Male,No,0,More than 1000,Sometimes,0,I don't know,I am not sure,Yes,I don't know,Yes,Somewhat easy,Yes,No,No,I don't know
+29,M,No,0,,Always,,,,,,,,,,,
+23,Male,No,0,More than 1000,Never,0,No,No,Yes,Yes,I don't know,Somewhat easy,Maybe,No,No,I don't know
+54,Female,Yes,1,,Always,,,,,,,,,,,
+61,F,Yes,1,,Sometimes,,,,,,,,,,,
+29,Female,Yes,1,26-100,Sometimes,1,I don't know,I am not sure,No,No,I don't know,I don't know,Yes,No,No,No
+31,Male,I don't know,1,26-100,Sometimes,1,Not eligible for coverage / N/A,N/A,No,I don't know,I don't know,Neither easy nor difficult,Maybe,No,Maybe,I don't know
+37,M,No,0,,Always,,,,,,,,,,,
+29,Male,Yes,1,6-25,Never,1,No,No,No,No,No,Somewhat difficult,Yes,No,No,I don't know
+28,Male,No,0,,Always,,,,,,,,,,,
+30,Male,No,1,26-100,Sometimes,1,I don't know,I am not sure,No,No,Yes,Somewhat easy,No,Maybe,Maybe,I don't know
+55,Male,No,1,More than 1000,Always,1,Yes,I am not sure,Yes,Yes,Yes,Somewhat easy,No,Yes,Yes,Yes
+38,Female,Yes,1,6-25,Never,0,I don't know,No,No,No,I don't know,Neither easy nor difficult,Maybe,Maybe,Yes,I don't know
+20,male,I don't know,0,6-25,Sometimes,1,I don't know,I am not sure,No,I don't know,Yes,Somewhat easy,Yes,No,No,I don't know
+25,Male,Yes,1,100-500,Sometimes,1,No,Yes,No,I don't know,I don't know,Neither easy nor difficult,No,No,Maybe,I don't know
+22,Male,I don't know,0,,Always,,,,,,,,,,,
+35,Male,No,1,,Sometimes,,,,,,,,,,,
+27,male,I don't know,1,26-100,Never,0,I don't know,No,No,No,I don't know,Very difficult,Maybe,No,No,No
+24,Male,Yes,1,6-25,Sometimes,0,No,N/A,No,No,I don't know,Somewhat easy,Maybe,No,Yes,I don't know
+39,Male,No,1,,Always,,,,,,,,,,,
+29,Male,I don't know,0,26-100,Never,0,I don't know,I am not sure,No,No,I don't know,Neither easy nor difficult,No,No,No,Yes
+40,Female,Yes,1,26-100,Never,1,No,I am not sure,No,No,I don't know,Somewhat easy,Yes,Maybe,Yes,Yes
+30,Male,Yes,1,1-5,Always,1,No,No,No,No,No,Somewhat difficult,Maybe,No,No,I don't know
+32,Male,No,0,26-100,Sometimes,1,Yes,No,No,No,I don't know,Somewhat easy,Maybe,Yes,Yes,No
+34,m,I don't know,0,,Sometimes,,,,,,,,,,,
+35,F,No,1,6-25,Sometimes,1,Yes,I am not sure,I don't know,I don't know,Yes,Very easy,No,Maybe,Maybe,Yes
+30,Male,Yes,0,,Sometimes,,,,,,,,,,,
+36,Male,Yes,1,6-25,Never,1,No,No,No,No,I don't know,I don't know,Maybe,Maybe,No,No
+26,male,I don't know,0,26-100,Sometimes,1,I don't know,No,I don't know,No,I don't know,Neither easy nor difficult,No,Maybe,Maybe,Yes
+31,Female,Yes,1,500-1000,Never,0,I don't know,I am not sure,Yes,I don't know,I don't know,Somewhat easy,Maybe,Yes,No,I don't know
+33,Male,Yes,0,26-100,Never,0,Not eligible for coverage / N/A,N/A,Yes,Yes,Yes,Very easy,No,No,Yes,Yes
+30,Male,Yes,1,,Sometimes,,,,,,,,,,,
+46,m,No,1,26-100,Always,1,I don't know,I am not sure,No,No,I don't know,Somewhat easy,Maybe,No,No,No
+32,Male,Yes,1,100-500,Sometimes,1,No,No,No,Yes,I don't know,Neither easy nor difficult,Maybe,Yes,Yes,I don't know
+34,male,No,0,100-500,Sometimes,1,Yes,I am not sure,I don't know,Yes,I don't know,Very easy,Maybe,Maybe,Maybe,I don't know
+41,male,Yes,1,100-500,Always,1,I don't know,I am not sure,No,I don't know,I don't know,Somewhat easy,No,Maybe,Maybe,I don't know
+32,Male,No,0,100-500,Always,1,I don't know,I am not sure,No,I don't know,I don't know,Very easy,No,Yes,Yes,Yes
+47,Male,Yes,1,More than 1000,Sometimes,0,Yes,No,I don't know,Yes,I don't know,Somewhat difficult,Maybe,No,No,I don't know
+29,male,Yes,0,100-500,Always,1,I don't know,No,No,I don't know,I don't know,Very easy,No,No,No,Yes
+36,male,I don't know,1,100-500,Sometimes,0,Yes,I am not sure,Yes,I don't know,I don't know,I don't know,Maybe,Yes,Maybe,I don't know
+32,Male,Yes,1,100-500,Sometimes,1,No,Yes,No,No,I don't know,Somewhat difficult,Yes,Maybe,No,No
+29,Male,Yes,1,100-500,Sometimes,1,I don't know,No,No,I don't know,I don't know,Neither easy nor difficult,No,Maybe,Yes,I don't know
+22,Male,No,0,1-5,Never,1,Not eligible for coverage / N/A,N/A,No,No,I don't know,Very easy,No,Yes,Yes,Yes
+32,female,Yes,1,More than 1000,Sometimes,1,Yes,Yes,No,No,Yes,Very easy,Yes,No,No,No
+19,Female,No,0,More than 1000,Never,0,Yes,I am not sure,No,No,I don't know,Neither easy nor difficult,No,No,No,I don't know
+30,Male,No,0,6-25,Sometimes,1,No,N/A,No,No,Yes,Very easy,No,Yes,Yes,Yes
+32,genderqueer,Yes,1,6-25,Always,1,I don't know,I am not sure,No,I don't know,Yes,Somewhat easy,No,Maybe,Yes,Yes
+22,M,No,0,More than 1000,Sometimes,1,I don't know,I am not sure,I don't know,I don't know,I don't know,Somewhat easy,No,Maybe,Yes,Yes
+30,male,Yes,0,,Always,,,,,,,,,,,
+323,Male,Yes,0,100-500,Sometimes,1,Yes,No,I don't know,I don't know,I don't know,I don't know,No,Maybe,Maybe,I don't know
+33,male,No,0,6-25,Sometimes,1,No,No,No,No,I don't know,I don't know,No,Maybe,Maybe,I don't know
+48,f,No,1,6-25,Never,1,No,I am not sure,No,No,I don't know,Very difficult,Yes,No,Maybe,No
+45,male,No,1,More than 1000,Never,1,No,No,No,No,I don't know,Somewhat difficult,Maybe,No,No,No
+28,Male,Yes,1,26-100,Sometimes,1,I don't know,I am not sure,Yes,Yes,Yes,Very easy,No,Maybe,Yes,Yes
+44,male,Yes,1,100-500,Sometimes,1,I don't know,No,I don't know,I don't know,I don't know,Somewhat difficult,No,Maybe,Yes,I don't know
+31,Male,No,0,6-25,Sometimes,1,No,N/A,No,No,I don't know,Somewhat difficult,Maybe,No,No,No
+31,f,I don't know,1,26-100,Sometimes,1,Yes,I am not sure,No,No,I don't know,Somewhat easy,No,Yes,Yes,Yes
+29,Male,No,0,More than 1000,Never,1,Yes,No,Yes,I don't know,Yes,Very easy,No,Yes,Yes,Yes
+26,Male,No,0,More than 1000,Never,0,Yes,Yes,No,I don't know,I don't know,I don't know,Maybe,No,Maybe,No
+35,f,Yes,1,100-500,Sometimes,0,Yes,Yes,Yes,I don't know,I don't know,Neither easy nor difficult,No,Yes,Yes,Yes
+44,m,I don't know,1,,Sometimes,,,,,,,,,,,
+45,male,Yes,1,6-25,Always,1,Yes,No,No,I don't know,I don't know,I don't know,Yes,No,No,No
+22,Female,Yes,1,6-25,Sometimes,0,Yes,I am not sure,No,I don't know,I don't know,Somewhat easy,No,No,Yes,Yes
+34,Male,I don't know,0,100-500,Sometimes,1,Yes,Yes,No,No,I don't know,I don't know,No,Maybe,Yes,I don't know
+35,Male,I don't know,0,26-100,Never,1,I don't know,I am not sure,No,No,I don't know,Somewhat easy,Maybe,Maybe,Yes,Yes
+39,Male,Yes,1,,Sometimes,,,,,,,,,,,
+26,Male,Yes,1,6-25,Never,1,Not eligible for coverage / N/A,Yes,No,No,No,Somewhat difficult,Yes,No,No,I don't know
+41,Male,No,0,,Sometimes,,,,,,,,,,,
+24,Male,Yes,1,More than 1000,Sometimes,1,Not eligible for coverage / N/A,I am not sure,I don't know,I don't know,I don't know,Somewhat difficult,Yes,Maybe,Maybe,I don't know
+24,Male,Yes,1,6-25,Never,1,I don't know,No,No,I don't know,Yes,Somewhat easy,No,Maybe,Maybe,Yes
+34,male,No,1,26-100,Sometimes,1,Yes,Yes,No,No,I don't know,Neither easy nor difficult,No,Maybe,Maybe,I don't know
+36,Male,No,0,26-100,Sometimes,1,No,N/A,No,No,I don't know,Very easy,No,Maybe,Yes,Yes
+41,Male,Yes,1,500-1000,Sometimes,0,Yes,Yes,I don't know,I don't know,I don't know,Somewhat difficult,Yes,No,No,I don't know
+21,Male,No,1,More than 1000,Never,1,Not eligible for coverage / N/A,I am not sure,No,No,I don't know,Somewhat easy,Maybe,Maybe,No,I don't know
+33,Male,I don't know,1,100-500,Sometimes,1,I don't know,I am not sure,No,I don't know,No,Somewhat easy,Maybe,Maybe,Maybe,No
+32,Male,Yes,1,More than 1000,Always,1,I don't know,I am not sure,No,No,I don't know,Somewhat easy,No,Yes,Yes,I don't know
+62,Female,I don't know,1,More than 1000,Never,0,Yes,Yes,No,Yes,Yes,Neither easy nor difficult,No,Yes,Maybe,I don't know
+37,M,Yes,1,26-100,Sometimes,0,Yes,Yes,No,No,I don't know,Somewhat difficult,Maybe,Maybe,Maybe,I don't know
+32,male,I don't know,0,26-100,Always,1,I don't know,I am not sure,No,No,I don't know,Somewhat easy,No,Yes,Yes,I don't know
+31,Male,No,1,More than 1000,Sometimes,1,Yes,Yes,I don't know,I don't know,I don't know,Very difficult,Maybe,Maybe,Maybe,I don't know
+28,Male,Yes,1,6-25,Sometimes,1,I don't know,I am not sure,No,I don't know,I don't know,Neither easy nor difficult,Maybe,No,No,I don't know
+48,Female,Yes,1,,Always,,,,,,,,,,,
+40,male,Yes,1,,Sometimes,,,,,,,,,,,
+29,Male,No,1,26-100,Never,1,Yes,Yes,No,I don't know,Yes,Very easy,No,Maybe,Maybe,Yes
+33,M,I don't know,1,26-100,Never,0,Yes,Yes,Yes,Yes,I don't know,I don't know,Maybe,Yes,Maybe,I don't know
+27,Male,Yes,0,26-100,Sometimes,0,I don't know,I am not sure,Yes,No,I don't know,Somewhat easy,No,Maybe,Yes,Yes
+24,m,No,0,26-100,Sometimes,0,Not eligible for coverage / N/A,N/A,No,No,No,Very easy,No,Maybe,Maybe,No
+28,Male,Yes,1,,Sometimes,,,,,,,,,,,
+42,Male,Yes,1,1-5,Always,1,Yes,Yes,Yes,No,No,Very easy,No,Yes,Yes,Yes
+28,m,No,0,26-100,Sometimes,1,No,N/A,No,No,I don't know,I don't know,No,Maybe,Maybe,I don't know
+40,Male,Yes,1,500-1000,Always,1,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Maybe,Maybe,Maybe,No
+32,Female,Yes,1,More than 1000,Always,1,Yes,I am not sure,No,Yes,I don't know,Very easy,Maybe,No,No,I don't know
+33,Male,No,1,,Always,,,,,,,,,,,
+40,m,No,1,,Always,,,,,,,,,,,
+26,Male,Yes,1,6-25,Never,1,Yes,Yes,No,No,Yes,Very easy,Maybe,No,No,No
+39,Female,Yes,1,100-500,Sometimes,1,I don't know,I am not sure,No,I don't know,I don't know,Somewhat easy,Maybe,Yes,Maybe,I don't know
+38,Male,No,0,500-1000,Never,0,Not eligible for coverage / N/A,N/A,Yes,Yes,I don't know,Very easy,No,Yes,Yes,Yes
+34,Male,Yes,0,More than 1000,Sometimes,1,Yes,No,No,I don't know,I don't know,Very difficult,Yes,No,Maybe,I don't know
+44,Male,I don't know,1,26-100,Never,0,I don't know,N/A,No,No,I don't know,Very difficult,Maybe,Yes,Maybe,I don't know
+54,Male,No,0,,Always,,,,,,,,,,,
+24,male,No,0,100-500,Always,1,Yes,No,No,No,Yes,Very easy,No,Yes,Yes,Yes
+31,Male,Yes,1,6-25,Sometimes,1,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Yes,Yes,Yes
+47,cis male,Yes,1,More than 1000,Sometimes,1,Yes,Yes,I don't know,I don't know,No,Somewhat difficult,Yes,Maybe,Yes,No
+30,Male,Yes,1,More than 1000,Sometimes,1,Not eligible for coverage / N/A,N/A,Yes,Yes,Yes,Very easy,No,Yes,Yes,Yes
+34,M,I don't know,0,,Always,,,,,,,,,,,
+29,Human,Yes,1,6-25,Sometimes,1,Yes,I am not sure,Yes,Yes,Yes,Very easy,No,Yes,Yes,I don't know
+27,Male,No,0,More than 1000,Sometimes,1,Yes,I am not sure,No,I don't know,I don't know,Very difficult,Maybe,Maybe,Yes,No
+29,male,No,1,More than 1000,Never,0,Yes,No,Yes,Yes,Yes,Neither easy nor difficult,No,No,Maybe,I don't know
+43,Female,No,0,,Sometimes,,,,,,,,,,,
+31,Genderfluid,Yes,1,100-500,Sometimes,1,Yes,I am not sure,No,No,Yes,Somewhat difficult,Maybe,Maybe,No,I don't know
+27,Male,No,0,6-25,Never,0,I don't know,I am not sure,No,No,I don't know,I don't know,Yes,No,No,No
+29,M,No,1,6-25,Never,1,No,N/A,No,No,No,Somewhat difficult,Maybe,Maybe,Maybe,I don't know
+29,Male,No,0,6-25,Never,1,Not eligible for coverage / N/A,N/A,No,No,I don't know,Somewhat easy,No,Maybe,Maybe,I don't know
+42,Male,I don't know,0,More than 1000,Sometimes,1,Yes,I am not sure,No,Yes,I don't know,Somewhat difficult,Maybe,Maybe,Maybe,I don't know
+26,Female,Yes,0,6-25,Always,1,Yes,I am not sure,No,No,I don't know,Somewhat difficult,Maybe,No,Maybe,I don't know
+26,male,Yes,1,6-25,Sometimes,1,I don't know,I am not sure,Yes,Yes,I don't know,Very easy,No,Yes,Yes,Yes
+34,Male,Yes,1,,Sometimes,,,,,,,,,,,
+24,Male,I don't know,0,100-500,Sometimes,0,Yes,Yes,Yes,No,Yes,Somewhat difficult,Maybe,No,Maybe,Yes
+25,male,No,0,More than 1000,Never,0,Yes,No,Yes,Yes,Yes,Somewhat difficult,Yes,No,No,Yes
+22,M,No,0,6-25,Sometimes,1,Yes,Yes,No,No,I don't know,Very easy,No,Maybe,Yes,Yes
+33,male,Yes,1,100-500,Sometimes,1,Yes,I am not sure,No,I don't know,Yes,Neither easy nor difficult,Maybe,Maybe,Maybe,No
+53,m,No,0,26-100,Always,1,Yes,No,No,Yes,I don't know,Very easy,No,Maybe,Yes,Yes
+32,M,Yes,1,26-100,Never,1,Yes,Yes,No,No,I don't know,Somewhat easy,Maybe,Maybe,Yes,No
+32,male,No,1,6-25,Sometimes,1,No,N/A,No,No,I don't know,Neither easy nor difficult,Maybe,Maybe,Maybe,I don't know
+55,m,No,0,,Sometimes,,,,,,,,,,,
+27,male,No,1,6-25,Never,1,I don't know,No,No,No,Yes,Somewhat difficult,Maybe,Maybe,No,I don't know
+34,Male,I don't know,0,6-25,Always,1,Not eligible for coverage / N/A,N/A,No,No,I don't know,Somewhat easy,Maybe,Maybe,Maybe,Yes
+26,Male,Yes,1,6-25,Sometimes,1,No,N/A,No,No,Yes,Somewhat difficult,Maybe,Yes,Maybe,I don't know
+25,N/A,Yes,1,26-100,Never,1,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,Maybe,Yes,I don't know
+39,Male,Yes,1,More than 1000,Sometimes,1,Yes,Yes,Yes,Yes,I don't know,Somewhat difficult,Maybe,Yes,Yes,Yes
+32,male,No,1,26-100,Never,1,I don't know,I am not sure,Yes,I don't know,I don't know,Somewhat easy,No,No,Yes,I don't know
+46,Male,No,1,,Sometimes,,,,,,,,,,,
+52,F,No,0,,Sometimes,,,,,,,,,,,
+33,Enby,Yes,1,500-1000,Never,1,I don't know,No,Yes,Yes,I don't know,I don't know,Yes,No,Maybe,No
+58,Male,No,0,26-100,Sometimes,1,Yes,No,I don't know,I don't know,I don't know,I don't know,Maybe,No,Maybe,I don't know
+30,male,No,1,6-25,Never,1,No,No,No,No,Yes,Very difficult,Yes,No,No,No
+46,Malr,No,0,,Sometimes,,,,,,,,,,,
+45,male,Yes,0,More than 1000,Sometimes,0,I don't know,No,I don't know,I don't know,I don't know,I don't know,Maybe,No,No,I don't know
+26,f,Yes,1,1-5,Sometimes,1,No,N/A,No,No,No,Very difficult,Yes,No,No,I don't know
+22,Male,Yes,1,100-500,Never,1,Yes,Yes,No,Yes,Yes,I don't know,Yes,No,No,No
+21,Male,Yes,0,6-25,Sometimes,1,I don't know,I am not sure,No,I don't know,No,Somewhat easy,Yes,No,No,I don't know
+3,Male,I don't know,1,More than 1000,Sometimes,1,Yes,I am not sure,Yes,Yes,I don't know,Somewhat easy,Maybe,Maybe,Yes,I don't know
+34,m,No,0,500-1000,Sometimes,0,I don't know,No,Yes,Yes,Yes,I don't know,No,No,Yes,Yes
+25,female,No,0,26-100,Sometimes,1,I don't know,No,Yes,I don't know,I don't know,Very easy,No,Maybe,Yes,Yes
+27,Male,Yes,1,6-25,Sometimes,1,Yes,I am not sure,No,No,Yes,Very easy,No,Maybe,Maybe,I don't know
+25,Female ,Yes,1,26-100,Never,1,Yes,I am not sure,No,No,I don't know,Neither easy nor difficult,Yes,No,No,No
+33,Male,I don't know,1,500-1000,Sometimes,1,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,No,Yes,Maybe,I don't know
+26,Female,I don't know,1,,Always,,,,,,,,,,,
+36,Female,Yes,0,6-25,Always,1,No,I am not sure,No,No,I don't know,Somewhat easy,Maybe,Yes,No,I don't know
+26,Male,I don't know,1,6-25,Never,1,No,No,I don't know,I don't know,I don't know,Neither easy nor difficult,Yes,No,No,I don't know
+34,Male,I don't know,0,6-25,Never,1,Not eligible for coverage / N/A,I am not sure,No,No,I don't know,Neither easy nor difficult,No,Maybe,Maybe,I don't know
+34,Male,Yes,1,26-100,Sometimes,1,Yes,Yes,No,No,Yes,Somewhat difficult,Yes,Maybe,Maybe,No
+25,Male,I don't know,1,More than 1000,Sometimes,0,Yes,Yes,No,Yes,Yes,Neither easy nor difficult,Maybe,Maybe,No,No
+33,Female,Yes,1,,Sometimes,,,,,,,,,,,
+27,f,Yes,0,26-100,Sometimes,1,No,Yes,No,No,No,Very difficult,Maybe,Maybe,Maybe,I don't know
+24,Female,No,1,26-100,Never,1,I don't know,I am not sure,No,No,I don't know,Somewhat difficult,Maybe,No,No,I don't know
+47,female,Yes,1,More than 1000,Sometimes,0,Yes,I am not sure,No,I don't know,I don't know,Somewhat difficult,Maybe,No,Maybe,I don't know
+37,Male,No,0,26-100,Sometimes,1,Yes,I am not sure,No,Yes,Yes,Somewhat easy,No,Yes,Yes,Yes
+35,genderqueer woman,I don't know,1,More than 1000,Sometimes,0,I don't know,No,No,I don't know,I don't know,Neither easy nor difficult,Yes,Maybe,Maybe,No
+30,Male,I don't know,1,100-500,Always,0,Yes,Yes,No,No,Yes,Very difficult,Yes,No,No,I don't know
+42,male,No,0,More than 1000,Never,0,Yes,No,Yes,Yes,Yes,Somewhat easy,Maybe,No,Maybe,Yes
+36,Female,Yes,1,,Sometimes,,,,,,,,,,,
+31,male,I don't know,0,100-500,Always,1,Yes,No,No,Yes,Yes,Very easy,No,No,Yes,I don't know
+28,female,I don't know,0,100-500,Always,1,Yes,I am not sure,Yes,No,I don't know,Somewhat easy,Maybe,Maybe,Maybe,I don't know
+36,Female,I don't know,1,26-100,Sometimes,0,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,Maybe,Yes,Yes,I don't know
+36,Female,Yes,1,6-25,Never,1,Yes,Yes,No,No,Yes,Somewhat difficult,Yes,Maybe,Maybe,I don't know
+32,m,Yes,1,26-100,Sometimes,0,I don't know,No,No,No,I don't know,I don't know,No,No,No,I don't know
+42,male,No,0,,Always,,,,,,,,,,,
+41,Female,No,0,100-500,Never,1,Yes,No,No,No,I don't know,Somewhat easy,Maybe,No,Maybe,I don't know
+36,Male,No,0,26-100,Sometimes,0,Yes,Yes,No,Yes,I don't know,Somewhat easy,No,Maybe,Maybe,Yes
+23,Male,Yes,1,26-100,Sometimes,1,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,Yes,Maybe,No,Yes
+54,Female,Yes,1,More than 1000,Never,0,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,No,Maybe,No,Yes
+34,female,No,0,26-100,Never,0,I don't know,I am not sure,Yes,Yes,Yes,Neither easy nor difficult,Maybe,Yes,Maybe,I don't know
+36,m,No,0,6-25,Never,1,I don't know,No,No,No,I don't know,Very easy,Yes,Yes,Yes,I don't know
+27,male,Yes,0,1-5,Never,1,Yes,Yes,No,No,I don't know,Neither easy nor difficult,Maybe,Maybe,Maybe,I don't know
+32,male,Yes,1,100-500,Always,1,Yes,Yes,No,I don't know,I don't know,Somewhat easy,Maybe,Maybe,Maybe,I don't know
+21,Male,I don't know,1,6-25,Never,1,Yes,Yes,No,No,No,Very difficult,Yes,Maybe,No,No
+44,m,No,0,1-5,Always,1,I don't know,No,Yes,Yes,Yes,Somewhat easy,No,Yes,Yes,Yes
+33,m,I don't know,0,26-100,Always,1,I don't know,I am not sure,I don't know,I don't know,I don't know,Neither easy nor difficult,No,Maybe,Yes,Yes
+38,M,Yes,1,More than 1000,Sometimes,1,Yes,No,No,I don't know,Yes,Very difficult,Maybe,No,No,No
+38,Male,Yes,0,More than 1000,Sometimes,1,Yes,I am not sure,Yes,Yes,I don't know,I don't know,Maybe,Maybe,Maybe,No
+38,female,I don't know,0,,Always,,,,,,,,,,,
+22,Female,I don't know,1,1-5,Always,1,I don't know,No,No,I don't know,No,Very difficult,Maybe,No,No,No
+33,mtf,I don't know,1,,Sometimes,,,,,,,,,,,
+27,f,Yes,0,More than 1000,Never,0,I don't know,No,No,No,I don't know,Very difficult,Maybe,No,Yes,No
+55,female,Yes,1,,Sometimes,,,,,,,,,,,
+66,male,Yes,1,6-25,Sometimes,0,No,No,No,No,I don't know,Somewhat difficult,Maybe,Yes,No,I don't know
+25,Male,Yes,1,1-5,Sometimes,0,I don't know,I am not sure,No,No,I don't know,Very difficult,Maybe,No,No,Yes
+22,Male,I don't know,0,26-100,Never,1,Not eligible for coverage / N/A,N/A,No,No,I don't know,Neither easy nor difficult,Maybe,Maybe,Maybe,I don't know
+29,male,No,0,26-100,Sometimes,1,No,No,No,No,I don't know,Somewhat easy,No,Yes,Yes,No
+33,Male,No,1,100-500,Never,1,No,No,Yes,Yes,No,Somewhat easy,Yes,No,Yes,I don't know
+27,Male,I don't know,0,6-25,Never,1,No,No,No,No,I don't know,Somewhat difficult,Maybe,No,No,I don't know
+44,male,I don't know,1,6-25,Sometimes,1,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Yes,No,Maybe,I don't know
+38,Male,I don't know,1,,Sometimes,,,,,,,,,,,
+32,M,No,0,6-25,Always,0,I don't know,I am not sure,No,I don't know,I don't know,I don't know,Maybe,No,No,I don't know
+59,female,No,0,500-1000,Never,0,Yes,I am not sure,Yes,Yes,No,Very difficult,Yes,Maybe,No,No
+43,man,I don't know,0,,Sometimes,,,,,,,,,,,
+55,female,No,1,,Always,,,,,,,,,,,
+32,Male,Yes,1,More than 1000,Always,1,Yes,Yes,I don't know,I don't know,I don't know,Neither easy nor difficult,No,Yes,Yes,Yes
+41,male,I don't know,0,More than 1000,Never,0,Not eligible for coverage / N/A,N/A,No,Yes,I don't know,Very difficult,Yes,No,No,No
+38,f,Yes,1,1-5,Always,1,No,I am not sure,No,Yes,I don't know,Very easy,No,Yes,Yes,Yes
+46,Male,No,1,,Sometimes,,,,,,,,,,,
+43,Male,Yes,1,More than 1000,Never,0,No,No,Yes,Yes,Yes,Somewhat difficult,No,Yes,Maybe,No
+29,Female,Yes,1,100-500,Always,1,Yes,Yes,No,Yes,Yes,Very easy,No,Maybe,Yes,Yes
+42,male,I don't know,0,,Always,,,,,,,,,,,
+25,female ,No,0,100-500,Never,1,I don't know,I am not sure,Yes,I don't know,I don't know,Very easy,No,Yes,Maybe,I don't know
+49,Male,No,0,26-100,Never,1,Yes,Yes,Yes,No,No,Somewhat easy,No,Maybe,Yes,Yes
+36,Male,Yes,1,26-100,Always,1,No,No,Yes,No,I don't know,I don't know,Yes,No,No,I don't know
+30,Male,No,0,,Always,,,,,,,,,,,
+28,Male,Yes,0,26-100,Sometimes,1,I don't know,I am not sure,No,I don't know,I don't know,Somewhat difficult,Maybe,Maybe,Maybe,No
+37,m,Yes,1,More than 1000,Sometimes,0,I don't know,No,No,No,I don't know,Somewhat difficult,Maybe,No,No,No
+23,female,Yes,0,6-25,Sometimes,0,Not eligible for coverage / N/A,Yes,No,No,Yes,Somewhat difficult,Yes,No,No,I don't know
+37,Male,Yes,0,,Sometimes,,,,,,,,,,,
+42,m,No,1,,Always,,,,,,,,,,,
+32,male,Yes,1,More than 1000,Never,0,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,No,Maybe,Yes,Yes
+28,Male,I don't know,0,1-5,Always,1,No,N/A,I don't know,I don't know,I don't know,Somewhat difficult,No,No,Maybe,I don't know
+28,M,Yes,1,More than 1000,Never,0,I don't know,I am not sure,No,I don't know,I don't know,Neither easy nor difficult,No,No,Maybe,I don't know
+29,Male,Yes,1,More than 1000,Never,1,Yes,Yes,No,I don't know,I don't know,Somewhat easy,Maybe,No,No,No
+35,Male,No,0,100-500,Always,1,I don't know,I am not sure,No,I don't know,I don't know,I don't know,No,Yes,Yes,Yes
+31,Female,Yes,1,,Sometimes,,,,,,,,,,,
+46,Female,Yes,1,,Never,,,,,,,,,,,
+19,male,I don't know,1,,Sometimes,,,,,,,,,,,
+35,Male,I don't know,0,500-1000,Always,1,Not eligible for coverage / N/A,I am not sure,Yes,Yes,Yes,Somewhat easy,No,Yes,Yes,Yes
+31,Male,I don't know,0,More than 1000,Sometimes,0,Yes,I am not sure,No,Yes,Yes,Somewhat easy,No,Yes,Yes,I don't know
+31,Male,No,0,,Sometimes,,,,,,,,,,,
+37,m,No,0,More than 1000,Always,1,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Maybe,Yes,Yes
+34,Female,Yes,1,6-25,Sometimes,1,I don't know,I am not sure,Yes,Yes,Yes,Very easy,No,Yes,Yes,Yes
+39,Woman,Yes,1,26-100,Sometimes,1,Yes,Yes,No,No,I don't know,Very easy,No,Maybe,Yes,I don't know
+29,Female,Yes,1,,Always,,,,,,,,,,,
+29,female,Yes,1,100-500,Always,1,Yes,Yes,No,No,I don't know,Somewhat difficult,Maybe,No,Maybe,I don't know
+63,Male,Yes,1,More than 1000,Sometimes,1,Yes,I am not sure,No,Yes,Yes,Very easy,No,Yes,Yes,No
+45,male,No,1,,Never,,,,,,,,,,,
+35,m,I don't know,0,,Always,,,,,,,,,,,
+32,Male,Yes,1,,Always,,,,,,,,,,,
+44,Male,I don't know,0,,Always,,,,,,,,,,,
+28,Queer,Yes,1,More than 1000,Never,0,No,N/A,No,No,I don't know,Very difficult,Yes,No,No,No
+39,male,No,1,,Sometimes,,,,,,,,,,,
+55,female,Yes,1,,Sometimes,,,,,,,,,,,
+33,female,Yes,1,,Sometimes,,,,,,,,,,,
+19,Male,No,0,6-25,Always,1,No,No,No,No,No,Very easy,No,Yes,Yes,Yes
+40,Male,Yes,0,More than 1000,Always,1,Yes,No,No,No,Yes,Somewhat easy,Maybe,No,No,No
+49,F,Yes,1,More than 1000,Sometimes,0,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,Maybe,Yes,I don't know
+27,Female,I don't know,0,6-25,Sometimes,1,Not eligible for coverage / N/A,N/A,Yes,Yes,Yes,Very easy,No,Yes,Yes,Yes
+39,male,Yes,1,More than 1000,Never,0,Yes,Yes,No,Yes,Yes,Somewhat easy,Maybe,No,No,No
+35,Male,No,1,More than 1000,Never,0,I don't know,I am not sure,Yes,Yes,Yes,Neither easy nor difficult,No,Yes,Yes,Yes
+35,M,I don't know,0,26-100,Sometimes,1,I don't know,No,No,I don't know,I don't know,I don't know,Maybe,Maybe,Maybe,I don't know
+42,female,I don't know,1,26-100,Sometimes,1,Yes,I am not sure,No,No,I don't know,Very difficult,Maybe,Maybe,No,No
+35,Male,No,0,6-25,Sometimes,1,Yes,Yes,Yes,No,Yes,Very easy,No,Maybe,Yes,Yes
+31,female,I don't know,1,100-500,Sometimes,1,I don't know,No,No,I don't know,I don't know,Somewhat difficult,No,Maybe,Yes,Yes
+44,Male ,Yes,1,,Always,,,,,,,,,,,
+39,Male,I don't know,1,100-500,Sometimes,1,Yes,Yes,No,No,I don't know,I don't know,Maybe,No,No,I don't know
+32,Male,I don't know,0,,Always,,,,,,,,,,,
+45,m,No,0,More than 1000,Sometimes,1,I don't know,I am not sure,No,I don't know,I don't know,Somewhat easy,Maybe,No,Maybe,Yes
+31,m,No,1,,Sometimes,,,,,,,,,,,
+47,Female,Yes,1,,Sometimes,,,,,,,,,,,
+29,M,Yes,1,26-100,Sometimes,1,No,I am not sure,No,No,I don't know,Somewhat difficult,Maybe,No,Maybe,No
+20,Male,Yes,1,6-25,Always,1,Yes,No,No,No,I don't know,I don't know,No,Yes,Yes,Yes
+34,m,Yes,0,100-500,Never,1,Not eligible for coverage / N/A,N/A,No,I don't know,I don't know,Very difficult,Yes,Maybe,Maybe,I don't know
+33,Agender,No,1,500-1000,Never,1,Not eligible for coverage / N/A,N/A,Yes,Yes,Yes,Very easy,No,Yes,Yes,Yes
+56,female,Yes,1,,Always,,,,,,,,,,,
+35,Male,Yes,0,,Sometimes,,,,,,,,,,,
+31,m,Yes,1,100-500,Sometimes,1,Yes,Yes,No,I don't know,I don't know,I don't know,Yes,No,No,I don't know
+36,Male,Yes,1,More than 1000,Sometimes,1,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,Yes,Yes,I don't know
+30,Male,Yes,0,100-500,Always,1,Yes,Yes,No,Yes,No,Somewhat easy,Maybe,No,No,I don't know
+44,F,Yes,1,More than 1000,Never,0,Yes,I am not sure,No,I don't know,Yes,Neither easy nor difficult,Maybe,Maybe,No,No
+23,Female,I don't know,1,1-5,Sometimes,1,I don't know,I am not sure,No,No,I don't know,Somewhat easy,Maybe,Maybe,No,Yes
+46,Male,No,0,More than 1000,Never,0,Yes,No,No,Yes,I don't know,I don't know,Maybe,No,No,No
+33,female,Yes,1,100-500,Always,1,Yes,Yes,No,No,I don't know,Very easy,No,Yes,Yes,No
+32,female,Yes,1,500-1000,Never,0,Yes,Yes,No,No,Yes,Somewhat easy,Yes,Maybe,No,No
+45,Male,No,1,,Sometimes,,,,,,,,,,,
+26,male,I don't know,1,6-25,Sometimes,1,No,No,No,No,I don't know,Neither easy nor difficult,No,Yes,Yes,Yes
+32,Woman,No,0,,Always,,,,,,,,,,,
+28,Dude,No,0,More than 1000,Sometimes,1,I don't know,I am not sure,No,I don't know,I don't know,Very easy,No,Maybe,No,I don't know
+44,M,No,0,,Sometimes,,,,,,,,,,,
+42,Male,Yes,0,,Always,,,,,,,,,,,
+30,Male,No,0,More than 1000,Sometimes,1,Yes,No,I don't know,Yes,I don't know,Somewhat difficult,Maybe,Yes,Yes,Yes
+28,F,Yes,1,6-25,Sometimes,1,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Yes,No,No,Yes
+31,M,Yes,1,100-500,Always,1,Yes,Yes,I don't know,I don't know,Yes,Somewhat easy,No,Yes,Yes,I don't know
+29,male,I don't know,0,100-500,Sometimes,1,Yes,No,No,No,I don't know,Somewhat difficult,Maybe,No,Maybe,No
+33,Male,No,0,26-100,Sometimes,1,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,No,No,No
+43,female,Yes,1,More than 1000,Always,1,Yes,Yes,I don't know,Yes,Yes,I don't know,Maybe,Maybe,Maybe,Yes
+28,Male,No,0,100-500,Always,1,I don't know,I am not sure,Yes,Yes,I don't know,Very easy,No,Maybe,Yes,Yes
+42,Fluid,I don't know,0,,Always,,,,,,,,,,,
+38,Male,Yes,1,100-500,Always,1,Yes,I am not sure,No,No,I don't know,Neither easy nor difficult,Maybe,No,Maybe,I don't know
+30,Male,No,1,6-25,Sometimes,0,Yes,Yes,No,No,Yes,Somewhat easy,Maybe,Maybe,No,I don't know
+51,female,Yes,1,,Sometimes,,,,,,,,,,,
+48,F,No,0,26-100,Never,1,I don't know,No,No,I don't know,I don't know,Somewhat easy,Maybe,No,No,No
+39,Male,I don't know,0,,Always,,,,,,,,,,,
+28,Male,No,0,6-25,Sometimes,1,No,No,No,No,I don't know,Neither easy nor difficult,Yes,No,Maybe,I don't know
+37,Male,Yes,1,100-500,Always,1,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Yes,I don't know
+33,Male,I don't know,1,More than 1000,Sometimes,1,Yes,No,I don't know,I don't know,I don't know,Neither easy nor difficult,Maybe,Yes,Maybe,I don't know
+21,Male,No,1,6-25,Never,1,Not eligible for coverage / N/A,N/A,No,No,I don't know,Somewhat difficult,Yes,No,Yes,I don't know
+25,male,Yes,1,26-100,Sometimes,0,Yes,I am not sure,No,No,I don't know,Very difficult,Yes,No,No,No
+15,male,No,0,,Sometimes,,,,,,,,,,,
+40,Male,Yes,1,100-500,Always,1,Yes,No,No,No,I don't know,Somewhat difficult,Maybe,Maybe,No,No
+30,Female,Yes,1,100-500,Sometimes,0,No,I am not sure,No,No,I don't know,Neither easy nor difficult,Maybe,No,Maybe,I don't know
+27,Male,I don't know,0,,Always,,,,,,,,,,,
+25,male,No,0,1-5,Never,1,No,No,No,No,No,Very easy,No,Maybe,No,I don't know
+38,Male,No,0,More than 1000,Sometimes,1,Yes,I am not sure,No,No,Yes,Somewhat easy,Maybe,Yes,Maybe,I don't know
+24,Male,Yes,1,100-500,Never,0,I don't know,No,No,I don't know,I don't know,I don't know,Maybe,Maybe,Yes,I don't know
+23,Male,No,0,6-25,Never,1,Not eligible for coverage / N/A,N/A,No,No,I don't know,Somewhat difficult,No,Maybe,Yes,No
+39,Female,Yes,1,,Always,,,,,,,,,,,
+26,male,No,0,6-25,Sometimes,1,I don't know,I am not sure,No,No,Yes,Neither easy nor difficult,Maybe,Yes,No,I don't know
+43,Male,No,0,More than 1000,Never,0,I don't know,I am not sure,No,I don't know,I don't know,Neither easy nor difficult,Maybe,No,No,Yes
+30,Male,Yes,0,6-25,Always,1,I don't know,I am not sure,No,No,I don't know,Very easy,No,Maybe,Maybe,I don't know
+35,Male,No,1,,Always,,,,,,,,,,,
+40,M,I don't know,0,26-100,Sometimes,0,I don't know,No,No,No,I don't know,Very difficult,Maybe,No,No,I don't know
+33,Female,Yes,1,26-100,Never,0,Yes,No,No,No,I don't know,Very difficult,Maybe,No,No,No
+35,male,No,1,,Sometimes,,,,,,,,,,,
+22,Male,I don't know,0,6-25,Never,1,No,No,No,No,I don't know,I don't know,Yes,No,No,I don't know
+28,Male,Yes,1,100-500,Always,1,Yes,I am not sure,I don't know,Yes,I don't know,I don't know,Maybe,Maybe,Maybe,I don't know
+39,M,Yes,1,More than 1000,Sometimes,1,Yes,Yes,No,No,No,Very difficult,Maybe,No,No,No
+33,M,I don't know,0,100-500,Always,1,I don't know,No,I don't know,I don't know,I don't know,Very easy,No,Yes,Yes,Yes
+25,Female,No,0,,Always,,,,,,,,,,,
+37,Male,No,0,6-25,Sometimes,1,I don't know,I am not sure,No,No,I don't know,I don't know,No,Maybe,Maybe,I don't know
+41,f,Yes,1,500-1000,Never,1,I don't know,No,No,Yes,I don't know,I don't know,Maybe,No,No,No
+30,Female,Yes,0,More than 1000,Sometimes,1,Yes,I am not sure,No,I don't know,I don't know,Somewhat easy,No,No,No,I don't know
+42,Male,Yes,0,More than 1000,Sometimes,1,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Maybe,Yes,Yes
+52,Male,No,0,6-25,Sometimes,1,Yes,No,No,No,I don't know,Somewhat difficult,No,Maybe,Maybe,Yes
+30,male,No,0,26-100,Always,1,No,No,No,No,I don't know,Somewhat easy,No,Maybe,Maybe,I don't know
+35,Male,I don't know,1,500-1000,Sometimes,1,Yes,Yes,No,I don't know,Yes,Neither easy nor difficult,No,Maybe,Yes,I don't know
+24,Male,No,1,26-100,Sometimes,1,I don't know,No,No,No,I don't know,I don't know,No,Maybe,No,No
+39,Male,I don't know,0,6-25,Sometimes,1,I don't know,I am not sure,I don't know,I don't know,I don't know,Somewhat easy,No,Maybe,Yes,I don't know
+34,Male,Yes,0,6-25,Sometimes,1,Yes,I am not sure,No,No,I don't know,Very difficult,Yes,Maybe,Maybe,Yes
+32,Male,Yes,1,,Always,,,,,,,,,,,
+25,I'm a man why didn't you make this a drop down question. You should of asked sex? And I would of answered yes please. Seriously how much text can this take? ,Yes,1,,Sometimes,,,,,,,,,,,
+43,Male,I don't know,0,26-100,Never,0,No,No,No,No,No,Very difficult,Yes,No,No,No
+39,male,No,1,6-25,Sometimes,1,Yes,No,No,I don't know,Yes,Very difficult,No,No,Maybe,I don't know
+35,Male,Yes,0,,Always,,,,,,,,,,,
+34,Male,Yes,1,26-100,Sometimes,1,Yes,Yes,No,No,Yes,Somewhat easy,No,Yes,Yes,No
+38,Male,No,0,More than 1000,Sometimes,0,Yes,I am not sure,Yes,I don't know,I don't know,Somewhat easy,Maybe,Maybe,Yes,I don't know
+26,woman,I don't know,1,100-500,Always,1,Yes,Yes,No,I don't know,Yes,Somewhat easy,Yes,Yes,Yes,No
+24,male,Yes,0,6-25,Sometimes,1,No,I am not sure,No,No,I don't know,Neither easy nor difficult,Maybe,Maybe,No,I don't know
+27,Female,Yes,1,More than 1000,Sometimes,0,I don't know,I am not sure,Yes,Yes,I don't know,Very difficult,Yes,No,No,I don't know
+25,male,No,1,6-25,Never,1,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,No,Maybe,No,Yes
+37,m,No,0,,Sometimes,,,,,,,,,,,
+33,Male,Yes,0,More than 1000,Sometimes,0,Yes,I am not sure,I don't know,Yes,Yes,Neither easy nor difficult,Maybe,No,Maybe,Yes
+34,Male,No,1,26-100,Sometimes,0,No,I am not sure,Yes,I don't know,Yes,Somewhat difficult,Yes,No,No,I don't know
+27,Male,I don't know,1,26-100,Sometimes,1,I don't know,I am not sure,No,No,I don't know,Somewhat difficult,Maybe,No,No,I don't know
+33,Male,Yes,1,100-500,Sometimes,1,Yes,No,No,I don't know,I don't know,Very easy,Maybe,No,Maybe,I don't know
+50,mail,Yes,1,6-25,Sometimes,1,Yes,I am not sure,No,I don't know,I don't know,Somewhat easy,Maybe,Yes,Yes,Yes
+54,female,Yes,1,,Sometimes,,,,,,,,,,,
+32,female ,I don't know,1,More than 1000,Sometimes,1,Yes,I am not sure,Yes,No,Yes,Very difficult,Yes,Yes,No,No
+39,m,No,0,6-25,Sometimes,1,I don't know,I am not sure,I don't know,Yes,Yes,Very easy,No,Maybe,Maybe,Yes
+36,Male,No,0,6-25,Sometimes,1,I don't know,No,I don't know,I don't know,I don't know,Very easy,No,Yes,Yes,Yes
+34,Male,No,0,100-500,Sometimes,1,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,Yes,Maybe,I don't know
+31,female,Yes,1,100-500,Sometimes,1,I don't know,I am not sure,No,No,I don't know,I don't know,Maybe,Maybe,Yes,I don't know
+36,male,Yes,1,More than 1000,Never,0,No,N/A,Yes,Yes,I don't know,Somewhat easy,No,Maybe,Yes,No
+48,Male,I don't know,0,More than 1000,Sometimes,0,I don't know,I am not sure,Yes,Yes,Yes,Very easy,No,Yes,Yes,Yes
+31,male,Yes,1,6-25,Never,1,I don't know,No,No,I don't know,I don't know,Very easy,No,Maybe,Yes,I don't know
+32,M,No,0,1-5,Always,1,No,N/A,No,No,I don't know,Very easy,No,Yes,Yes,Yes
+32,M,No,0,100-500,Always,1,I don't know,I am not sure,No,No,I don't know,Somewhat difficult,Yes,No,No,No
+31,male,Yes,1,,Always,,,,,,,,,,,
+28,Female,Yes,1,1-5,Sometimes,1,Not eligible for coverage / N/A,N/A,No,Yes,Yes,Very easy,No,Maybe,Yes,Yes
+28,male,Yes,1,More than 1000,Never,0,I don't know,No,No,No,I don't know,Very difficult,Yes,No,No,No
+33,F,Yes,1,26-100,Sometimes,1,Yes,Yes,No,I don't know,I don't know,Somewhat easy,Yes,No,Maybe,No
+33,M,Yes,1,,Never,,,,,,,,,,,
+59,M,No,1,,Always,,,,,,,,,,,
+33,male,Yes,1,,Sometimes,,,,,,,,,,,
+37,Male,I don't know,1,100-500,Always,1,I don't know,No,No,I don't know,I don't know,Very difficult,Yes,Maybe,Maybe,No
+27,female,No,1,6-25,Always,1,I don't know,I am not sure,No,No,I don't know,Somewhat easy,Maybe,Maybe,Maybe,I don't know
+39,Male,No,0,More than 1000,Always,1,No,No,No,No,I don't know,I don't know,No,Maybe,Maybe,I don't know
+50,M,Yes,0,,Sometimes,,,,,,,,,,,
+34,Female,I don't know,0,More than 1000,Never,0,Yes,Yes,I don't know,Yes,Yes,Somewhat easy,Maybe,Maybe,Yes,I don't know
+50,male,No,0,,Sometimes,,,,,,,,,,,
+31,Female,I don't know,0,6-25,Always,1,Not eligible for coverage / N/A,N/A,No,I don't know,I don't know,Somewhat easy,No,Maybe,Yes,Yes
+39,male,Yes,0,More than 1000,Sometimes,0,Yes,Yes,No,Yes,No,Very easy,Yes,No,No,No
+46,Male,Yes,1,26-100,Sometimes,1,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Maybe,No,No,No
+28,M,No,0,More than 1000,Sometimes,1,I don't know,No,No,I don't know,I don't know,Somewhat easy,No,Maybe,Yes,Yes
+32,male,No,0,26-100,Sometimes,1,I don't know,I am not sure,No,I don't know,Yes,Neither easy nor difficult,Maybe,No,No,Yes
+65,F,No,1,,Sometimes,,,,,,,,,,,
+37,Male,Yes,1,,Always,,,,,,,,,,,
+41,Female,I don't know,1,,Sometimes,,,,,,,,,,,
+38,Male,I don't know,1,,Sometimes,,,,,,,,,,,
+51,male,No,1,26-100,Sometimes,0,I don't know,I am not sure,Yes,No,I don't know,Somewhat easy,No,Yes,Yes,Yes
+29,Male,I don't know,1,500-1000,Sometimes,0,I don't know,No,No,Yes,Yes,Neither easy nor difficult,No,Yes,Yes,I don't know
+37,Male,No,1,,Always,,,,,,,,,,,
+31,Male,No,0,,Always,,,,,,,,,,,
+32,Male,Yes,0,1-5,Sometimes,1,No,N/A,No,No,No,Very easy,No,Yes,Yes,I don't know
+31,male,I don't know,1,,Sometimes,,,,,,,,,,,
+52,m,Yes,1,More than 1000,Never,0,Not eligible for coverage / N/A,N/A,No,Yes,I don't know,Neither easy nor difficult,Maybe,No,Maybe,No
+31,male,Yes,1,,Sometimes,,,,,,,,,,,
+38,F,No,0,,Always,,,,,,,,,,,
+35,Male,I don't know,1,More than 1000,Never,0,Yes,Yes,No,I don't know,I don't know,Somewhat difficult,Yes,Maybe,Maybe,No
+29,Male,I don't know,0,,Always,,,,,,,,,,,
+63,Male,No,1,,Always,,,,,,,,,,,
+47,female,No,1,,Always,,,,,,,,,,,
+43,M,Yes,1,,Always,,,,,,,,,,,
+38,male,No,0,26-100,Sometimes,1,No,N/A,No,No,I don't know,Neither easy nor difficult,Maybe,Yes,Yes,I don't know
+27,Male,No,0,6-25,Never,0,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Maybe,No,Yes,I don't know
+40,Female,Yes,0,6-25,Always,1,I don't know,No,No,Yes,Yes,I don't know,No,No,Yes,Yes
+32,Male,No,0,500-1000,Never,0,Not eligible for coverage / N/A,N/A,I don't know,I don't know,I don't know,Very difficult,Yes,No,No,No
+43,female,No,0,,Always,,,,,,,,,,,
+28,female,I don't know,0,100-500,Never,0,Yes,Yes,No,No,Yes,Somewhat difficult,Maybe,Maybe,Maybe,No
+46,Male,No,0,,Always,,,,,,,,,,,
+42,male,Yes,0,More than 1000,Sometimes,0,No,Yes,No,No,I don't know,Somewhat easy,Maybe,No,No,No
+31,Male,Yes,1,1-5,Sometimes,1,No,Yes,No,No,I don't know,Somewhat easy,Maybe,Maybe,Maybe,Yes
+37,F,No,1,,Never,,,,,,,,,,,
+35,M,Yes,1,6-25,Never,1,No,N/A,No,No,I don't know,Somewhat easy,No,No,No,I don't know
+30,Female,No,1,,Always,,,,,,,,,,,
+35,Male,Yes,1,26-100,Sometimes,1,Not eligible for coverage / N/A,I am not sure,Yes,No,Yes,Very easy,No,Yes,Yes,Yes
+24,Male,Yes,1,26-100,Never,1,Yes,Yes,No,I don't know,Yes,Somewhat easy,Maybe,Maybe,Yes,Yes
+23,male,No,0,6-25,Sometimes,1,No,No,No,No,No,I don't know,Maybe,No,No,No
+39,Female,Yes,1,,Always,,,,,,,,,,,
+38,Male,No,0,6-25,Always,1,No,N/A,Yes,No,Yes,Very easy,No,Maybe,Maybe,I don't know
+28,Male,Yes,1,,Always,,,,,,,,,,,
+30,m,No,0,,Sometimes,,,,,,,,,,,
+38,Male,No,0,,Always,,,,,,,,,,,
+33,M,No,0,26-100,Sometimes,1,I don't know,No,No,I don't know,I don't know,Very easy,No,No,Maybe,Yes
+35,Male,No,0,26-100,Sometimes,1,I don't know,I am not sure,I don't know,I don't know,I don't know,Very easy,No,Yes,Yes,Yes
+54,M|,No,0,,Never,,,,,,,,,,,
+30,female,I don't know,0,100-500,Never,1,I don't know,N/A,I don't know,I don't know,I don't know,I don't know,No,Maybe,Maybe,I don't know
+32,Female,I don't know,1,,Always,,,,,,,,,,,
+28,male,Yes,0,500-1000,Sometimes,1,I don't know,No,No,I don't know,I don't know,Very easy,No,No,Maybe,I don't know
+39,m,I don't know,0,6-25,Sometimes,1,No,I am not sure,Yes,No,I don't know,Somewhat easy,No,Maybe,Yes,I don't know
+21,non-binary,Yes,1,1-5,Always,1,No,Yes,No,No,No,Somewhat easy,Maybe,Maybe,Maybe,I don't know
+31,male,Yes,0,6-25,Sometimes,1,Yes,Yes,Yes,Yes,No,Very easy,Maybe,Maybe,Yes,No
+30,male,No,0,More than 1000,Sometimes,1,I don't know,No,I don't know,I don't know,I don't know,Somewhat easy,Yes,No,No,I don't know
+25,Female,No,0,26-100,Sometimes,1,Yes,I am not sure,No,No,Yes,Somewhat difficult,Maybe,Maybe,Maybe,I don't know
+26,Male,No,0,6-25,Always,1,Not eligible for coverage / N/A,I am not sure,No,I don't know,I don't know,Somewhat difficult,Maybe,Yes,Maybe,No
+30,male,No,0,26-100,Never,1,Yes,I am not sure,No,No,Yes,Somewhat easy,No,Maybe,Yes,I don't know
+30,M,No,0,500-1000,Never,1,No,N/A,I don't know,No,I don't know,Somewhat easy,No,Maybe,Yes,Yes
+31,Male,No,0,100-500,Always,1,I don't know,I am not sure,Yes,I don't know,Yes,Very easy,No,Yes,Yes,Yes
+32,M,Yes,1,100-500,Never,1,I don't know,I am not sure,No,I don't know,I don't know,I don't know,Maybe,Maybe,Maybe,I don't know
+45,female,Yes,1,26-100,Always,0,No,N/A,No,No,I don't know,Somewhat difficult,No,Maybe,Yes,Yes
+29,Male,Yes,0,,Sometimes,,,,,,,,,,,
+27,Male,Yes,1,26-100,Always,1,Yes,No,No,No,I don't know,Somewhat easy,Maybe,No,No,I don't know
+28,Female,I don't know,0,26-100,Always,1,Not eligible for coverage / N/A,N/A,I don't know,I don't know,I don't know,Very easy,No,No,Maybe,Yes
+38,m,Yes,0,500-1000,Always,1,Yes,No,No,Yes,I don't know,Somewhat difficult,Maybe,Maybe,Maybe,I don't know
+38,male,Yes,1,500-1000,Sometimes,0,Yes,Yes,I don't know,Yes,I don't know,Somewhat easy,Maybe,Maybe,Yes,Yes
+34,Male,Yes,1,More than 1000,Sometimes,1,I don't know,I am not sure,I don't know,I don't know,Yes,Somewhat easy,No,Maybe,Yes,Yes
+36,M,I don't know,1,,Sometimes,,,,,,,,,,,
+23,male,No,0,6-25,Sometimes,1,I don't know,No,No,No,Yes,Very easy,No,Maybe,Yes,Yes
+40,Female,Yes,1,100-500,Sometimes,0,Yes,I am not sure,No,No,I don't know,Neither easy nor difficult,Yes,No,Maybe,No
+39,Male,No,1,,Always,,,,,,,,,,,
+28,Male,Yes,1,26-100,Never,1,I don't know,I am not sure,No,No,I don't know,Somewhat difficult,Maybe,No,Maybe,I don't know
+33,male,No,0,6-25,Sometimes,1,I don't know,No,No,I don't know,I don't know,I don't know,No,Yes,Yes,I don't know
+32,Male ,I don't know,1,,Always,,,,,,,,,,,
+32,Male,Yes,0,More than 1000,Never,0,Yes,No,Yes,Yes,Yes,Somewhat easy,Maybe,No,Maybe,Yes
+27,M,Yes,1,More than 1000,Never,1,Yes,Yes,Yes,Yes,Yes,Very easy,No,Maybe,Yes,I don't know
+33,Male,No,1,100-500,Never,1,No,No,No,No,I don't know,I don't know,Yes,No,No,I don't know
+34,Male,Yes,0,100-500,Never,0,I don't know,I am not sure,No,No,I don't know,Somewhat difficult,Maybe,Maybe,Yes,I don't know
+38,f,I don't know,1,,Sometimes,,,,,,,,,,,
+35,M,I don't know,0,More than 1000,Never,0,Yes,No,I don't know,I don't know,I don't know,I don't know,Maybe,No,No,I don't know
+39,M,No,0,26-100,Sometimes,1,Yes,I am not sure,Yes,Yes,Yes,Neither easy nor difficult,Maybe,Maybe,Yes,I don't know
+35,male,No,0,More than 1000,Never,0,Yes,I am not sure,No,Yes,Yes,Very easy,No,Maybe,Maybe,I don't know
+34,Male,No,0,100-500,Sometimes,0,I don't know,No,No,I don't know,Yes,Somewhat easy,No,Yes,Maybe,No
+44,Female,Yes,1,,Always,,,,,,,,,,,
+42,M,No,1,500-1000,Always,0,Yes,I am not sure,No,No,I don't know,Very easy,No,Yes,Maybe,No
+30,Male,No,0,6-25,Always,0,Yes,No,No,I don't know,I don't know,I don't know,Maybe,No,Maybe,I don't know
+55,Male,Yes,0,26-100,Never,0,Yes,No,No,No,No,Somewhat difficult,Yes,Maybe,Yes,No
+46,m,Yes,1,26-100,Sometimes,1,No,Yes,No,No,I don't know,Somewhat easy,Maybe,No,Maybe,I don't know
+33,male,Yes,1,100-500,Sometimes,0,Yes,Yes,No,No,Yes,Somewhat difficult,No,Yes,Yes,Yes
+30,Male,Yes,1,26-100,Sometimes,0,Yes,I am not sure,No,Yes,Yes,Neither easy nor difficult,Maybe,Yes,Yes,I don't know
+30,male,Yes,1,26-100,Sometimes,1,No,N/A,No,No,I don't know,Very easy,No,Yes,Yes,No
+31,Female,I don't know,1,More than 1000,Never,1,Yes,Yes,No,Yes,I don't know,I don't know,Yes,No,No,I don't know
+38,Male,No,1,More than 1000,Sometimes,1,Yes,I am not sure,No,I don't know,Yes,Very easy,Maybe,Maybe,Yes,No
+30,female,Yes,0,100-500,Sometimes,1,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Yes,Yes,Yes,No
+32,Male,Yes,1,500-1000,Sometimes,1,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,No,Yes,Yes,Yes
+32,Male,I don't know,1,More than 1000,Never,0,No,N/A,No,No,I don't know,Neither easy nor difficult,Yes,No,No,I don't know
+47,Male,Yes,1,26-100,Sometimes,1,Yes,No,No,No,I don't know,Very difficult,Maybe,Maybe,Maybe,No
+39,Male,I don't know,0,6-25,Always,1,No,N/A,Yes,No,Yes,Very easy,No,Maybe,Yes,Yes
+35,Male,Yes,1,100-500,Sometimes,0,I don't know,I am not sure,No,No,I don't know,Very difficult,Yes,No,No,I don't know
+36,Male,No,1,100-500,Sometimes,1,Yes,Yes,No,No,I don't know,Very difficult,Yes,No,No,No
+38,female,No,0,100-500,Always,0,Yes,Yes,Yes,Yes,Yes,I don't know,Maybe,No,Maybe,Yes
+30,Male,I don't know,1,100-500,Sometimes,1,I don't know,I am not sure,Yes,No,Yes,I don't know,Maybe,Maybe,No,I don't know
+33,Male,Yes,1,26-100,Sometimes,1,I don't know,I am not sure,No,No,I don't know,Somewhat easy,Maybe,Yes,Yes,No
+22,male,Yes,0,6-25,Never,1,I don't know,I am not sure,I don't know,I don't know,I don't know,I don't know,Yes,Maybe,No,I don't know
+35,m,No,1,,Always,,,,,,,,,,,
+26,m,I don't know,1,26-100,Never,0,I don't know,No,No,I don't know,I don't know,Neither easy nor difficult,Maybe,Maybe,Yes,I don't know
+34,Male,No,1,100-500,Always,1,Yes,Yes,I don't know,Yes,Yes,Neither easy nor difficult,No,Yes,Yes,Yes
+40,male,Yes,0,,Sometimes,,,,,,,,,,,
+37,male,No,0,100-500,Always,1,No,N/A,No,Yes,I don't know,I don't know,Yes,Yes,Yes,No
+43,M,No,0,1-5,Sometimes,1,No,No,No,No,I don't know,Somewhat easy,Maybe,No,Maybe,I don't know
+20,Male,I don't know,1,,Sometimes,,,,,,,,,,,
+30,Female,Yes,1,500-1000,Sometimes,1,I don't know,No,No,I don't know,I don't know,Neither easy nor difficult,Maybe,Yes,Yes,Yes
+32,Male,Yes,0,More than 1000,Sometimes,1,Yes,I am not sure,Yes,Yes,I don't know,Somewhat difficult,No,No,Maybe,Yes
+35,male,No,0,More than 1000,Always,0,Yes,Yes,I don't know,I don't know,Yes,Neither easy nor difficult,Maybe,Maybe,Yes,No
+29,male,No,0,26-100,Sometimes,1,Yes,No,No,No,I don't know,Neither easy nor difficult,No,Maybe,Maybe,Yes
+29,male,I don't know,0,500-1000,Never,0,No,I am not sure,No,I don't know,I don't know,Very easy,No,Yes,Yes,Yes
+30,m,I don't know,0,More than 1000,Always,1,Yes,No,I don't know,I don't know,I don't know,I don't know,Maybe,Maybe,Maybe,I don't know
+30,male,Yes,0,100-500,Never,1,I don't know,No,No,I don't know,Yes,Somewhat difficult,Maybe,No,No,No
+38,Male,Yes,1,100-500,Always,1,Yes,I am not sure,No,I don't know,Yes,Very easy,No,Yes,Yes,Yes
+30,Male,Yes,1,26-100,Never,0,Yes,No,No,No,I don't know,Somewhat easy,Maybe,Yes,Yes,I don't know
+26,Male,Yes,0,26-100,Never,1,No,No,No,No,I don't know,Somewhat easy,No,No,Maybe,I don't know
+27,Male,No,1,,Always,,,,,,,,,,,
+24,Male,No,0,1-5,Always,1,No,N/A,No,No,I don't know,Somewhat easy,No,Maybe,Maybe,I don't know
+35,male,No,0,100-500,Never,1,Yes,No,No,I don't know,I don't know,Somewhat difficult,Yes,Maybe,No,No
+38,Male,No,1,More than 1000,Sometimes,1,Yes,I am not sure,I don't know,Yes,I don't know,Somewhat easy,Maybe,Maybe,Yes,Yes
+36,Male/genderqueer,No,1,100-500,Sometimes,1,Yes,Yes,No,I don't know,Yes,Very easy,Maybe,No,No,I don't know
+34,Male,No,1,,Always,,,,,,,,,,,
+35,Male,I don't know,1,26-100,Sometimes,1,Yes,Yes,I don't know,I don't know,I don't know,Neither easy nor difficult,No,Maybe,Maybe,No
+25,Male,I don't know,0,6-25,Sometimes,1,I don't know,I am not sure,No,I don't know,I don't know,Somewhat easy,No,Yes,Yes,I don't know
+32,Female,No,1,100-500,Never,1,I don't know,I am not sure,No,I don't know,I don't know,Somewhat easy,No,Yes,Yes,Yes
+32,fem,Yes,0,100-500,Never,1,No,I am not sure,No,No,I don't know,Neither easy nor difficult,Maybe,No,Maybe,I don't know
+37,male,Yes,1,,Sometimes,,,,,,,,,,,
+28,Male,No,1,100-500,Sometimes,1,I don't know,I am not sure,No,Yes,Yes,Somewhat easy,No,Maybe,Yes,I don't know
+34,Female,I don't know,1,500-1000,Sometimes,1,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Maybe,I don't know
+40,Female,Yes,1,More than 1000,Never,1,Yes,Yes,No,Yes,Yes,Neither easy nor difficult,Maybe,No,Maybe,No
+45,Male,I don't know,1,More than 1000,Never,1,Yes,I am not sure,No,Yes,I don't know,Somewhat difficult,Maybe,No,No,No
+31,Male,Yes,0,100-500,Sometimes,1,I don't know,I am not sure,I don't know,I don't know,I don't know,Very easy,No,Yes,Yes,I don't know
+30,male,Yes,1,More than 1000,Sometimes,0,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Maybe,Maybe,Maybe,I don't know
+47,female,No,0,More than 1000,Sometimes,0,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,Maybe,Yes,Yes,Yes
+48,m,No,0,100-500,Sometimes,1,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Yes,Maybe,Maybe,I don't know
+44,Male,Yes,0,,Sometimes,,,,,,,,,,,
+29,Male,Yes,1,More than 1000,Never,1,Not eligible for coverage / N/A,No,No,I don't know,I don't know,Very difficult,Yes,No,Maybe,No
+52,m,No,0,More than 1000,Always,0,Yes,Yes,Yes,Yes,I don't know,Very easy,No,Maybe,Yes,Yes
+34,Female,No,0,100-500,Sometimes,1,Yes,Yes,No,Yes,Yes,Very easy,No,Yes,Yes,Yes
+34,male,No,0,100-500,Never,1,Yes,Yes,No,I don't know,I don't know,Very easy,No,Maybe,Yes,Yes
+27,Male,No,0,More than 1000,Sometimes,1,I don't know,I am not sure,I don't know,Yes,I don't know,I don't know,Maybe,Maybe,Maybe,No
+30,Male,I don't know,0,More than 1000,Sometimes,1,No,No,No,No,I don't know,Neither easy nor difficult,Maybe,No,No,No
+40,Male,Yes,0,6-25,Sometimes,1,Yes,Yes,Yes,Yes,Yes,Very easy,No,Yes,Yes,Yes
+26,Male,Yes,0,,Always,,,,,,,,,,,
+36,Male,Yes,1,,Never,,,,,,,,,,,
+35,Male,Yes,0,26-100,Always,0,I don't know,I am not sure,No,No,I don't know,Very difficult,No,Maybe,Yes,Yes
+43,Female,No,0,More than 1000,Never,0,Yes,No,No,Yes,I don't know,Somewhat easy,Maybe,No,Maybe,Yes
+36,Female,I don't know,1,26-100,Sometimes,0,No,N/A,No,No,I don't know,Somewhat difficult,Maybe,Maybe,Maybe,I don't know
+32,Female,No,0,100-500,Sometimes,0,Yes,Yes,No,Yes,Yes,I don't know,Yes,Maybe,Yes,I don't know
+36,Female,No,0,,Always,,,,,,,,,,,
+38,Male,Yes,1,More than 1000,Never,1,No,N/A,No,I don't know,I don't know,Very difficult,Yes,No,No,No
+35,Male,No,1,More than 1000,Always,0,Yes,I am not sure,I don't know,Yes,I don't know,Somewhat easy,Maybe,Yes,Maybe,I don't know
+35,F,Yes,1,100-500,Sometimes,1,Not eligible for coverage / N/A,N/A,No,No,I don't know,Neither easy nor difficult,Maybe,Maybe,Maybe,I don't know
+45,m,Yes,1,More than 1000,Always,1,Yes,I am not sure,No,I don't know,I don't know,Very difficult,Yes,Maybe,Maybe,No
+47,male,No,0,,Always,,,,,,,,,,,
+27,male,Yes,0,100-500,Sometimes,1,I don't know,I am not sure,No,I don't know,I don't know,Somewhat easy,Maybe,Maybe,Maybe,I don't know
+26,Male,Yes,1,26-100,Sometimes,1,I don't know,No,No,I don't know,I don't know,Neither easy nor difficult,Maybe,No,No,I don't know
+51,Male,No,1,,Always,,,,,,,,,,,
+25,Male,Yes,1,26-100,Sometimes,1,No,No,No,No,No,Very difficult,Yes,No,No,No
+41,male,No,0,100-500,Sometimes,1,No,N/A,No,No,No,I don't know,Yes,No,No,No
+34,Male,No,0,More than 1000,Sometimes,0,Yes,Yes,No,Yes,I don't know,Somewhat easy,Maybe,Yes,Yes,No
+43,Male,Yes,0,100-500,Never,1,No,N/A,No,No,I don't know,Very difficult,Maybe,Yes,No,I don't know
+33,Male,Yes,0,26-100,Never,1,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Yes,Maybe,Yes,No
+37,m,No,0,,Sometimes,,,,,,,,,,,
+27,Female,Yes,1,26-100,Never,1,No,N/A,No,No,I don't know,Very difficult,Yes,No,No,No
+54,F,Yes,1,,Sometimes,,,,,,,,,,,
+38,m,Yes,0,More than 1000,Never,0,I don't know,I am not sure,No,No,I don't know,Very easy,No,No,No,Yes
+42,male,I don't know,1,More than 1000,Sometimes,1,No,No,No,No,I don't know,I don't know,Maybe,Yes,Maybe,Yes
+30,Male,No,0,26-100,Sometimes,1,Yes,I am not sure,No,No,I don't know,I don't know,Maybe,Maybe,Maybe,No
+43,M,Yes,1,500-1000,Sometimes,1,Yes,I am not sure,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Yes,Yes
+33,Male,I don't know,1,,Never,,,,,,,,,,,
+37,Female,Yes,0,1-5,Always,1,Not eligible for coverage / N/A,N/A,No,I don't know,No,Somewhat easy,No,Yes,Yes,Yes
+25,male,No,1,100-500,Sometimes,1,Yes,I am not sure,No,Yes,I don't know,Somewhat difficult,Maybe,No,Maybe,No
+27,Male,Yes,1,More than 1000,Sometimes,1,Not eligible for coverage / N/A,N/A,Yes,Yes,I don't know,Somewhat difficult,Yes,No,No,No
+27,Male,Yes,1,,Sometimes,,,,,,,,,,,
+27,Male,No,1,More than 1000,Never,0,Yes,No,No,Yes,Yes,I don't know,Yes,No,No,I don't know
+35,M,No,0,,Sometimes,,,,,,,,,,,
+24,male,No,0,6-25,Never,1,No,N/A,No,No,I don't know,I don't know,Maybe,Maybe,Maybe,No
+31,Nonbinary,Yes,1,100-500,Never,1,Not eligible for coverage / N/A,N/A,Yes,No,I don't know,Somewhat difficult,Maybe,No,No,I don't know
+31,male ,No,0,26-100,Sometimes,1,I don't know,I am not sure,No,No,Yes,Somewhat easy,No,Maybe,Maybe,Yes
+32,male,No,1,More than 1000,Sometimes,1,Yes,No,Yes,No,Yes,Somewhat easy,Maybe,Yes,Yes,Yes
+33,Male,No,1,More than 1000,Sometimes,1,No,No,Yes,No,I don't know,Very easy,Maybe,No,Maybe,Yes
+56,M,Yes,1,,Sometimes,,,,,,,,,,,
+43,Male,Yes,1,More than 1000,Sometimes,1,Yes,I am not sure,No,I don't know,No,Somewhat difficult,Yes,Maybe,No,No
+49,Male,I don't know,1,More than 1000,Sometimes,1,Yes,I am not sure,Yes,Yes,Yes,Very easy,No,Maybe,Yes,I don't know
+35,male,No,1,26-100,Sometimes,1,No,N/A,No,No,I don't know,Neither easy nor difficult,Maybe,Maybe,Yes,Yes
+53,Male,No,1,More than 1000,Sometimes,1,Yes,Yes,No,Yes,Yes,Very difficult,Yes,Yes,No,No
+45,m,Yes,1,100-500,Never,1,I don't know,I am not sure,I don't know,I don't know,No,I don't know,No,No,Maybe,Yes
+40,Male,I don't know,1,100-500,Sometimes,1,Yes,No,No,Yes,I don't know,Very difficult,Yes,No,No,No
+52,Male,Yes,1,More than 1000,Sometimes,0,Not eligible for coverage / N/A,I am not sure,Yes,Yes,Yes,I don't know,Yes,No,Maybe,I don't know
+30,Male,I don't know,1,,Always,,,,,,,,,,,
+41,Male,No,0,More than 1000,Always,1,Yes,Yes,No,No,Yes,I don't know,Maybe,Maybe,Maybe,No
+31,male,I don't know,1,,Always,,,,,,,,,,,
+31,Male,I don't know,1,100-500,Sometimes,1,Not eligible for coverage / N/A,N/A,Yes,I don't know,I don't know,Somewhat easy,No,Maybe,Maybe,Yes
+24,human,Yes,1,,Sometimes,,,,,,,,,,,
+44,Male,Yes,1,100-500,Sometimes,1,No,N/A,No,No,I don't know,Somewhat easy,Maybe,No,Maybe,No
+37,m,Yes,1,More than 1000,Sometimes,1,Yes,No,No,I don't know,I don't know,Very difficult,Maybe,Maybe,Maybe,I don't know
+22,Male,Yes,0,6-25,Always,0,No,N/A,No,No,I don't know,Somewhat difficult,Maybe,No,No,No
+31,Female,Yes,1,26-100,Sometimes,1,Yes,Yes,Yes,I don't know,I don't know,Somewhat easy,Maybe,No,Maybe,Yes
+36,female,I don't know,0,26-100,Sometimes,1,No,N/A,No,No,I don't know,I don't know,Yes,No,No,No
+28,Male,Yes,1,,Always,,,,,,,,,,,
+25,female,Yes,0,500-1000,Sometimes,0,I don't know,No,No,I don't know,I don't know,Somewhat easy,Maybe,No,Maybe,No
+49,male,I don't know,1,,Always,,,,,,,,,,,
+22,woman,Yes,1,1-5,Always,1,Not eligible for coverage / N/A,N/A,I don't know,I don't know,I don't know,Very easy,No,Yes,Yes,Yes
+43,male,No,1,,Sometimes,,,,,,,,,,,
+33,m,Yes,1,,Never,,,,,,,,,,,
+36,"Female (props for making this a freeform field, though)",I don't know,1,500-1000,Sometimes,1,Yes,Yes,No,Yes,I don't know,Very difficult,Yes,No,No,No
+26,female,Yes,1,26-100,Sometimes,1,Yes,I am not sure,No,No,I don't know,Very difficult,Yes,No,No,No
+43,Male,Yes,1,More than 1000,Sometimes,0,Yes,I am not sure,I don't know,Yes,I don't know,Somewhat easy,No,Maybe,Yes,No
+21,male,Yes,0,,Sometimes,,,,,,,,,,,
+39,Male,Yes,0,More than 1000,Sometimes,1,Not eligible for coverage / N/A,N/A,No,No,I don't know,Neither easy nor difficult,Maybe,No,Yes,I don't know
+46,Male,I don't know,1,More than 1000,Sometimes,0,Yes,I am not sure,Yes,I don't know,I don't know,Neither easy nor difficult,Maybe,Yes,Maybe,I don't know
+32,M,Yes,0,1-5,Sometimes,1,Not eligible for coverage / N/A,No,No,No,No,Somewhat difficult,Yes,Maybe,Maybe,Yes
+31,Male,No,0,,Sometimes,,,,,,,,,,,
+39,female,Yes,1,,Sometimes,,,,,,,,,,,
+44,m,I don't know,1,100-500,Sometimes,1,I don't know,I am not sure,No,No,I don't know,Neither easy nor difficult,Maybe,No,Maybe,I don't know
+36,male,Yes,1,More than 1000,Never,0,Yes,I am not sure,I don't know,Yes,Yes,Neither easy nor difficult,Yes,No,No,Yes
+31,female,No,0,More than 1000,Never,0,I don't know,I am not sure,Yes,Yes,I don't know,Very easy,No,Maybe,Yes,Yes
+30,Nonbinary,Yes,1,,Sometimes,,,,,,,,,,,
+36,male,Yes,1,100-500,Sometimes,1,Yes,I am not sure,No,Yes,Yes,Very difficult,Yes,Maybe,No,I don't know
+31,m,No,0,,Sometimes,,,,,,,,,,,
+23,male,No,0,1-5,Never,1,No,N/A,No,No,Yes,Somewhat difficult,No,No,No,I don't know
+23,M,I don't know,0,26-100,Always,1,Yes,I am not sure,No,No,Yes,Somewhat easy,Maybe,No,No,I don't know
+30,Female ,Yes,1,,Always,,,,,,,,,,,
+34,male,I don't know,1,,Always,,,,,,,,,,,
+49,Female,No,0,6-25,Sometimes,1,No,N/A,No,No,I don't know,Very easy,No,Yes,Yes,Yes
+25,m,I don't know,0,6-25,Never,1,No,I am not sure,No,No,I don't know,Somewhat difficult,Maybe,Maybe,No,I don't know
+39,Male,No,0,6-25,Sometimes,0,No,No,No,No,I don't know,Very difficult,Maybe,Maybe,Maybe,I don't know
+37,male,No,0,More than 1000,Never,1,No,N/A,Yes,Yes,Yes,Somewhat easy,Yes,No,No,Yes
+26,Male,No,0,26-100,Sometimes,1,I don't know,No,No,I don't know,I don't know,Somewhat easy,No,Yes,Yes,I don't know
+41,Male,Yes,1,100-500,Sometimes,1,I don't know,Yes,No,No,I don't know,Neither easy nor difficult,Maybe,Maybe,No,No
+28,Male,No,0,6-25,Never,1,No,N/A,No,No,I don't know,Very easy,No,Maybe,Yes,I don't know
+33,Male,I don't know,1,100-500,Sometimes,1,Not eligible for coverage / N/A,N/A,No,No,Yes,Neither easy nor difficult,Maybe,Maybe,Maybe,I don't know
+74, Female,No,1,100-500,Sometimes,0,No,No,Yes,No,Yes,Somewhat difficult,Yes,Yes,Yes,No
+28,Male,Yes,1,100-500,Sometimes,0,I don't know,I am not sure,Yes,Yes,I don't know,Very easy,Maybe,No,Yes,Yes
+47,Male,Yes,1,6-25,Sometimes,1,No,Yes,No,No,No,Neither easy nor difficult,Yes,No,No,No
+25,male,I don't know,0,100-500,Never,0,I don't know,I am not sure,No,No,I don't know,Somewhat difficult,Yes,No,Maybe,I don't know
+51,M,Yes,1,100-500,Never,0,Yes,Yes,Yes,Yes,Yes,Very easy,No,Maybe,Yes,No
+26,male,No,1,More than 1000,Never,1,Yes,Yes,No,I don't know,I don't know,Somewhat difficult,Yes,No,No,I don't know
+24,Male,Yes,0,26-100,Never,1,Yes,Yes,No,No,I don't know,Neither easy nor difficult,Yes,Maybe,No,No
+33,F,I don't know,1,,Always,,,,,,,,,,,
+32,Female ,Yes,1,26-100,Sometimes,1,Yes,Yes,No,No,I don't know,I don't know,Yes,No,No,I don't know
+57,male,No,0,6-25,Always,1,Yes,No,No,No,Yes,Very difficult,Yes,No,No,I don't know
+39,Male,Yes,1,More than 1000,Never,0,Yes,Yes,No,I don't know,I don't know,Somewhat easy,No,Maybe,Yes,Yes
+26,Female,Yes,1,6-25,Sometimes,1,No,I am not sure,No,No,I don't know,Somewhat difficult,Maybe,No,Maybe,I don't know
+38,Male,Yes,0,100-500,Sometimes,0,I don't know,No,I don't know,Yes,Yes,I don't know,Yes,No,No,I don't know
+33,Male,Yes,0,1-5,Sometimes,1,Yes,No,No,No,I don't know,Very difficult,Maybe,Yes,Maybe,Yes
+30,Male,Yes,0,6-25,Sometimes,1,Yes,Yes,No,No,Yes,I don't know,Maybe,No,Maybe,I don't know
+25,Female ,Yes,1,100-500,Sometimes,1,I don't know,I am not sure,No,I don't know,I don't know,Somewhat difficult,Maybe,Maybe,Maybe,I don't know
+40,Male,Yes,1,26-100,Sometimes,1,Yes,Yes,No,No,Yes,Neither easy nor difficult,Maybe,Yes,Yes,No
+26,Female,Yes,1,More than 1000,Sometimes,0,Yes,Yes,No,Yes,Yes,Somewhat easy,Maybe,Yes,Yes,Yes
+34,Male,Yes,1,More than 1000,Never,0,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,Maybe,Yes,Maybe,No
+46,F,Yes,1,More than 1000,Sometimes,0,Yes,Yes,Yes,Yes,I don't know,I don't know,Yes,No,No,I don't know
+31,female,Yes,1,More than 1000,Sometimes,0,Not eligible for coverage / N/A,N/A,No,I don't know,I don't know,Very difficult,Yes,No,No,No
+42,male,Yes,1,,Never,,,,,,,,,,,
+30,Male,No,0,More than 1000,Sometimes,1,I don't know,No,No,No,I don't know,I don't know,Maybe,Yes,Yes,No
+26,Unicorn,Yes,1,,Always,,,,,,,,,,,
+29,male,No,1,1-5,Never,1,Not eligible for coverage / N/A,I am not sure,No,No,I don't know,Somewhat difficult,Maybe,Maybe,Maybe,No
+31,M,Yes,1,100-500,Never,1,Yes,Yes,No,No,I don't know,Very easy,No,Yes,Yes,Yes
+40,Male,I don't know,1,26-100,Always,1,I don't know,I am not sure,No,I don't know,I don't know,Somewhat easy,No,Yes,Yes,I don't know
+39,Cis Male,I don't know,1,26-100,Always,1,Yes,I am not sure,No,I don't know,I don't know,Very easy,Maybe,Yes,Yes,I don't know
+37,male,No,0,26-100,Sometimes,1,Yes,No,No,No,I don't know,Very easy,Maybe,Maybe,Maybe,Yes
+27,Male,No,0,26-100,Always,1,I don't know,I am not sure,No,Yes,I don't know,Very easy,Maybe,Yes,Yes,Yes
+45,m,No,0,26-100,Always,1,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Maybe,No,No,I don't know
+29,M,Yes,0,26-100,Sometimes,1,I don't know,No,No,No,Yes,Very easy,Maybe,Maybe,Maybe,I don't know
+47,female,No,0,26-100,Sometimes,1,Yes,No,No,Yes,Yes,Very easy,No,Yes,Yes,Yes
+33,male,No,0,100-500,Always,1,I don't know,No,No,No,Yes,Very easy,No,Yes,Yes,Yes
+32,Male,No,0,26-100,Always,1,I don't know,No,No,I don't know,Yes,I don't know,Maybe,No,No,I don't know
+29,Male,No,0,26-100,Sometimes,1,I don't know,No,No,No,I don't know,Very easy,No,Yes,Yes,Yes
+36,Male,Yes,1,26-100,Sometimes,1,Yes,I am not sure,No,No,Yes,Somewhat easy,No,Maybe,Maybe,I don't know
+35,F,I don't know,0,6-25,Never,1,I don't know,I am not sure,No,No,I don't know,Somewhat difficult,Yes,No,No,I don't know
+40,Male,Yes,0,26-100,Always,1,Yes,No,No,I don't know,I don't know,Very easy,Maybe,Maybe,Yes,Yes
+36,male,Yes,1,26-100,Always,1,Yes,I am not sure,No,No,I don't know,Very difficult,Maybe,No,No,I don't know
+39,Female,I don't know,1,More than 1000,Sometimes,0,I don't know,No,I don't know,Yes,I don't know,I don't know,Yes,No,No,I don't know
+38,Male,No,0,26-100,Always,1,Yes,No,I don't know,Yes,Yes,Somewhat easy,No,Maybe,Yes,Yes
+23,Male,I don't know,1,1-5,Sometimes,1,I don't know,I am not sure,Yes,I don't know,Yes,Very easy,No,Yes,Yes,Yes
+29,male,Yes,0,500-1000,Sometimes,0,No,No,No,No,No,Neither easy nor difficult,Yes,No,No,I don't know
+38,Male,No,0,100-500,Always,1,I don't know,No,No,I don't know,I don't know,Very easy,No,Maybe,Maybe,Yes
+34,Female,Yes,1,More than 1000,Sometimes,0,Yes,Yes,No,I don't know,I don't know,Very difficult,Maybe,Maybe,Maybe,No
+28,male,Yes,1,More than 1000,Never,1,No,I am not sure,No,No,I don't know,Very easy,Maybe,No,No,No
+38,Male,Yes,1,6-25,Sometimes,1,No,N/A,No,No,Yes,Very easy,No,Yes,Yes,Yes
+25,female,I don't know,1,26-100,Never,1,Yes,Yes,Yes,Yes,Yes,Very difficult,Yes,No,No,No
+36,female,Yes,1,More than 1000,Sometimes,0,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Yes,Yes,Yes
+57,Female,Yes,1,More than 1000,Sometimes,1,Not eligible for coverage / N/A,I am not sure,No,I don't know,I don't know,Very difficult,Yes,No,No,No
+46,male,Yes,1,More than 1000,Sometimes,0,I don't know,No,No,No,I don't know,Very difficult,Maybe,No,No,No
+49,Male,Yes,1,More than 1000,Never,1,Yes,Yes,No,Yes,I don't know,Very difficult,Yes,No,No,No
+34,m,No,1,More than 1000,Never,1,I don't know,No,No,I don't know,Yes,Neither easy nor difficult,Maybe,No,Maybe,No
+43,Male,No,0,26-100,Sometimes,1,I don't know,No,No,No,Yes,Very easy,No,Maybe,Yes,Yes
+35,m,No,0,,Sometimes,,,,,,,,,,,
+32,Male,No,1,,Always,,,,,,,,,,,
+24,"Male (trans, FtM)",I don't know,1,More than 1000,Sometimes,0,Not eligible for coverage / N/A,N/A,Yes,No,I don't know,Very easy,No,No,No,Yes
+33,Male,Yes,1,More than 1000,Sometimes,0,Yes,Yes,No,No,I don't know,Very difficult,Maybe,Maybe,Maybe,No
+28,Male,Yes,0,1-5,Never,1,I don't know,No,No,No,Yes,Somewhat easy,No,Yes,Yes,Yes
+48,Male,Yes,0,More than 1000,Sometimes,1,Yes,I am not sure,No,Yes,Yes,Somewhat easy,Maybe,Maybe,Yes,I don't know
+33,female,I don't know,1,26-100,Always,1,Yes,Yes,No,No,I don't know,Very difficult,Yes,Maybe,Maybe,Yes
+40,male,No,0,100-500,Never,1,Not eligible for coverage / N/A,N/A,I don't know,I don't know,I don't know,Very easy,No,No,Maybe,Yes
+22,Male,Yes,1,,Sometimes,,,,,,,,,,,
+22,female,Yes,1,100-500,Never,1,No,No,No,No,I don't know,Somewhat difficult,Yes,No,No,I don't know
+23,Female,I don't know,1,100-500,Sometimes,1,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,No,I don't know
+33,male,Yes,1,More than 1000,Never,0,No,N/A,No,No,I don't know,Somewhat easy,No,Yes,Maybe,Yes
+29,Male,I don't know,1,6-25,Never,1,I don't know,I am not sure,No,No,No,Very difficult,Yes,Maybe,No,No
+32,Male,No,1,More than 1000,Always,1,Yes,No,No,I don't know,I don't know,Neither easy nor difficult,No,Yes,Maybe,No
+43,m,Yes,1,26-100,Sometimes,1,Yes,Yes,No,No,I don't know,Somewhat difficult,Yes,No,No,No
+49,Male,Yes,1,More than 1000,Sometimes,0,Yes,No,Yes,Yes,I don't know,Very easy,No,Yes,Yes,Yes
+44,Male,No,0,More than 1000,Always,0,No,No,No,No,I don't know,Very easy,No,Maybe,Yes,I don't know
+29,Male,Yes,1,,Always,,,,,,,,,,,
+27,male,Yes,0,26-100,Never,1,No,No,No,No,I don't know,Somewhat difficult,Yes,No,Maybe,I don't know
+30,Male,No,0,6-25,Never,0,I don't know,I am not sure,No,No,I don't know,Very difficult,Yes,Maybe,Maybe,No
+43,F,Yes,0,1-5,Sometimes,1,No,N/A,No,No,I don't know,Very difficult,No,Maybe,Yes,I don't know
+30,Female ,No,1,26-100,Sometimes,1,Yes,Yes,No,No,I don't know,I don't know,Maybe,No,Maybe,I don't know
+33,Female,Yes,1,26-100,Sometimes,0,Yes,No,No,Yes,I don't know,Somewhat difficult,Maybe,Maybe,Yes,I don't know
+27,Female,Yes,1,,Sometimes,,,,,,,,,,,
+26,female,Yes,1,6-25,Never,1,I don't know,No,Yes,No,Yes,Somewhat difficult,Yes,No,No,No
+47,m,Yes,1,100-500,Sometimes,0,I don't know,Yes,Yes,Yes,I don't know,Somewhat difficult,Yes,No,Yes,Yes
+30,Male,I don't know,0,6-25,Never,1,I don't know,I am not sure,No,I don't know,I don't know,Neither easy nor difficult,Maybe,No,No,No
+39,Male,Yes,0,6-25,Never,1,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Maybe,No,Maybe,I don't know
+36,male,No,0,100-500,Never,1,I don't know,I am not sure,No,No,I don't know,Somewhat easy,Maybe,Maybe,No,No
+34,male,Yes,1,6-25,Always,1,No,No,No,No,I don't know,Very easy,No,Maybe,Maybe,Yes
+25,female,Yes,1,26-100,Never,1,Yes,No,No,I don't know,I don't know,Very difficult,Maybe,No,No,I don't know
+28,Male,Yes,0,26-100,Sometimes,0,I don't know,No,Yes,Yes,I don't know,Somewhat difficult,Maybe,Maybe,No,Yes
+38,Male,Yes,1,More than 1000,Sometimes,1,Yes,Yes,I don't know,I don't know,No,Somewhat easy,No,Yes,Yes,Yes
+39,Male,No,0,100-500,Always,1,Yes,No,No,I don't know,Yes,Somewhat easy,No,Maybe,Yes,Yes
+32,Male,I don't know,0,6-25,Never,0,I don't know,I am not sure,No,No,I don't know,Somewhat difficult,Maybe,Maybe,Maybe,I don't know
+27,female,Yes,1,26-100,Never,0,I don't know,I am not sure,No,I don't know,I don't know,Somewhat difficult,Maybe,No,Maybe,I don't know
+31,female,Yes,1,500-1000,Sometimes,1,Yes,Yes,I don't know,I don't know,I don't know,Somewhat difficult,Maybe,Maybe,Maybe,I don't know
+30,female,No,0,26-100,Never,1,I don't know,No,No,No,I don't know,Neither easy nor difficult,No,No,No,No
+34,m,I don't know,0,,Sometimes,,,,,,,,,,,
+26,Male,Yes,0,26-100,Always,1,I don't know,No,No,I don't know,I don't know,I don't know,Maybe,No,Maybe,I don't know
+27,Female,No,1,100-500,Always,1,Yes,I am not sure,I don't know,Yes,No,Somewhat easy,Maybe,Maybe,No,I don't know
+29,Male,No,1,26-100,Never,1,I don't know,No,No,I don't know,I don't know,Somewhat difficult,No,Maybe,Maybe,I don't know
+37,Female,Yes,0,,Always,,,,,,,,,,,
+49,F,Yes,1,,Always,,,,,,,,,,,
+39,Male,No,0,More than 1000,Sometimes,0,I don't know,No,Yes,Yes,I don't know,Somewhat easy,Maybe,No,No,Yes
+42,m,No,0,,Sometimes,,,,,,,,,,,
+28,Male,I don't know,1,500-1000,Sometimes,1,Yes,Yes,No,I don't know,Yes,Neither easy nor difficult,Maybe,Maybe,No,No
+33,Male,I don't know,1,,Always,,,,,,,,,,,
+30,female,Yes,1,,Sometimes,,,,,,,,,,,
+70,Male,I don't know,1,26-100,Always,1,Yes,Yes,No,No,Yes,Neither easy nor difficult,No,Yes,Yes,I don't know
+25,Male,Yes,1,6-25,Sometimes,1,No,N/A,No,No,I don't know,Neither easy nor difficult,Maybe,No,Maybe,Yes
+45,Male,No,1,26-100,Sometimes,1,I don't know,I am not sure,I don't know,I don't know,I don't know,Neither easy nor difficult,No,Yes,Yes,Yes
+63,F,I don't know,1,More than 1000,Never,0,Yes,Yes,I don't know,Yes,Yes,Neither easy nor difficult,No,Yes,Yes,I don't know
+40,male,Yes,1,26-100,Always,1,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,No,Maybe,Maybe,I don't know
+39,male,Yes,1,26-100,Sometimes,1,Yes,Yes,No,I don't know,I don't know,Very easy,Maybe,Maybe,Maybe,Yes
+31,Cis-woman,Yes,1,6-25,Always,1,Yes,No,No,No,I don't know,Somewhat easy,No,Maybe,Maybe,Yes
+34,male,I don't know,0,26-100,Never,1,No,N/A,No,No,I don't know,Very difficult,Yes,No,No,No
+44,Male,Yes,1,,Sometimes,,,,,,,,,,,
+45,m,No,0,500-1000,Always,1,Not eligible for coverage / N/A,No,Yes,No,I don't know,Somewhat easy,Maybe,Maybe,Yes,I don't know
+43,Male,Yes,1,100-500,Sometimes,0,Yes,Yes,No,No,Yes,Very easy,No,Yes,Yes,Yes
+29,male,Yes,0,26-100,Always,1,Yes,Yes,No,No,Yes,Somewhat easy,Maybe,Maybe,Yes,Yes
+27,Genderqueer,Yes,1,100-500,Always,1,Yes,Yes,No,No,Yes,Somewhat easy,Maybe,Maybe,Yes,I don't know
+37,Male,Yes,1,100-500,Always,1,Yes,Yes,I don't know,Yes,Yes,Somewhat difficult,Maybe,Maybe,Yes,Yes
+41,non-binary,Yes,1,100-500,Always,1,Yes,Yes,No,No,I don't know,I don't know,Yes,Maybe,Maybe,No
+30,woman,Yes,1,26-100,Sometimes,1,Yes,Yes,No,No,I don't know,Neither easy nor difficult,No,No,No,I don't know
+28,male,Yes,1,26-100,Sometimes,1,Yes,I am not sure,No,No,I don't know,Somewhat difficult,Maybe,No,Maybe,I don't know
+28,Male,No,0,More than 1000,Sometimes,1,I don't know,I am not sure,No,I don't know,I don't know,I don't know,Maybe,Maybe,No,No
+39,Male,Yes,1,,Sometimes,,,,,,,,,,,
+22,male,Yes,1,6-25,Sometimes,1,Not eligible for coverage / N/A,N/A,No,No,I don't know,Very difficult,Maybe,No,No,I don't know
+31,M,I don't know,0,26-100,Sometimes,1,Yes,No,No,I don't know,I don't know,Very easy,No,Maybe,Yes,Yes
+29,Male,I don't know,0,26-100,Never,1,No,N/A,No,No,No,Somewhat difficult,Maybe,No,No,No
+33,male,No,0,100-500,Never,1,No,No,No,No,I don't know,Somewhat easy,Maybe,No,No,No
+37,male,No,1,100-500,Sometimes,1,I don't know,No,No,No,I don't know,Very easy,Maybe,Maybe,Maybe,I don't know
+42,Male,No,0,100-500,Always,1,I don't know,I am not sure,No,I don't know,I don't know,I don't know,No,Maybe,Maybe,Yes
+31,male,Yes,1,6-25,Never,1,I don't know,No,No,No,Yes,Somewhat easy,Yes,Yes,Yes,No
+34,male,Yes,1,,Always,,,,,,,,,,,
+49,F,I don't know,1,,Always,,,,,,,,,,,
+29,male,Yes,0,26-100,Never,1,Yes,Yes,Yes,Yes,I don't know,I don't know,Maybe,Maybe,Maybe,Yes
+40,cisdude,No,1,More than 1000,Sometimes,1,Yes,Yes,No,No,I don't know,Very easy,No,Maybe,Maybe,I don't know
+46,Female,Yes,1,26-100,Sometimes,1,I don't know,No,No,I don't know,Yes,Somewhat easy,Maybe,Maybe,Yes,Yes
+31,female,Yes,1,,Always,,,,,,,,,,,
+43,Male,No,0,100-500,Sometimes,0,Yes,No,Yes,I don't know,Yes,Very easy,No,Maybe,Yes,Yes
+45,male,Yes,0,,Sometimes,,,,,,,,,,,
+32,M,No,0,6-25,Sometimes,1,No,No,No,No,I don't know,I don't know,Yes,No,No,I don't know
+38,male,Yes,1,,Sometimes,,,,,,,,,,,
+40,Male,Yes,1,More than 1000,Sometimes,1,Yes,Yes,No,Yes,I don't know,Very easy,Maybe,Maybe,No,I don't know
+38,Male,I don't know,1,26-100,Never,0,No,I am not sure,No,No,I don't know,Neither easy nor difficult,No,Maybe,Maybe,I don't know
+32,Male,I don't know,1,100-500,Never,1,No,N/A,No,No,I don't know,Very difficult,Maybe,Maybe,Maybe,I don't know
+37,male,No,0,More than 1000,Sometimes,0,I don't know,I am not sure,No,No,No,Somewhat difficult,Yes,No,No,No
+24,male,Yes,1,,Sometimes,,,,,,,,,,,
+25,Female,Yes,1,,Always,,,,,,,,,,,
+24,Male,Yes,0,6-25,Sometimes,1,No,No,No,No,I don't know,Very easy,No,Maybe,Yes,Yes
+34,Female,Yes,1,More than 1000,Sometimes,0,I don't know,I am not sure,No,No,I don't know,Very difficult,Yes,No,No,No
+55,male,Yes,1,,Always,,,,,,,,,,,
+32,Male ,Yes,1,100-500,Sometimes,0,Yes,Yes,No,Yes,I don't know,Neither easy nor difficult,No,Maybe,Maybe,I don't know
+29,male,No,0,1-5,Never,1,No,N/A,No,No,I don't know,Very easy,Maybe,No,No,I don't know
+20,Male,No,0,More than 1000,Sometimes,1,Not eligible for coverage / N/A,No,I don't know,I don't know,I don't know,Very easy,No,Maybe,Maybe,I don't know
+41,male,Yes,0,More than 1000,Sometimes,0,Yes,Yes,Yes,No,Yes,Somewhat difficult,Maybe,Maybe,Yes,No
+33,female,Yes,1,6-25,Sometimes,1,Yes,Yes,Yes,Yes,Yes,Very easy,No,Yes,Yes,Yes
+25,male,Yes,1,26-100,Sometimes,1,I don't know,No,No,I don't know,I don't know,Somewhat easy,No,Maybe,Yes,Yes
+29,male,I don't know,0,,Sometimes,,,,,,,,,,,
+24,Genderflux demi-girl,Yes,1,More than 1000,Sometimes,1,Yes,I am not sure,Yes,No,Yes,Somewhat difficult,Yes,Yes,Yes,No
+39,Male,No,0,100-500,Sometimes,1,I don't know,I am not sure,No,I don't know,I don't know,I don't know,No,Yes,Yes,I don't know
+39,Male,Yes,0,500-1000,Sometimes,0,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,No,Yes
+44,Man,I don't know,1,,Sometimes,,,,,,,,,,,
+30,female,Yes,1,,Sometimes,,,,,,,,,,,
+31,male,Yes,0,6-25,Sometimes,1,No,I am not sure,No,No,I don't know,Somewhat easy,Maybe,Yes,Yes,I don't know
+37,Male,Yes,1,1-5,Always,1,Not eligible for coverage / N/A,N/A,Yes,Yes,Yes,Very easy,No,Yes,Yes,Yes
+42,Male,Yes,1,6-25,Sometimes,1,Not eligible for coverage / N/A,N/A,No,No,I don't know,Somewhat difficult,Maybe,Maybe,Maybe,No
+35,Male,I don't know,0,,Always,,,,,,,,,,,
+30,M,Yes,1,26-100,Never,0,I don't know,I am not sure,No,No,I don't know,I don't know,Maybe,No,Maybe,No
+30,male,No,0,More than 1000,Always,1,Yes,No,No,I don't know,I don't know,I don't know,No,No,No,I don't know
+33,Male,Yes,1,26-100,Sometimes,1,Yes,No,No,No,I don't know,Very difficult,Yes,Maybe,No,I don't know
+31,Male,I don't know,1,More than 1000,Never,0,Not eligible for coverage / N/A,I am not sure,I don't know,I don't know,I don't know,Neither easy nor difficult,Maybe,Maybe,No,I don't know
+39,Female,Yes,1,More than 1000,Sometimes,0,Yes,Yes,No,No,Yes,Somewhat difficult,Yes,No,No,No
+27,m,No,0,26-100,Never,0,No,No,No,No,Yes,I don't know,No,Yes,Yes,Yes
+34,male,No,1,,Sometimes,,,,,,,,,,,
+31,Male,No,0,6-25,Sometimes,1,No,N/A,No,No,I don't know,I don't know,Maybe,No,No,No
+30,Female,Yes,1,More than 1000,Always,1,Yes,Yes,No,I don't know,I don't know,Very difficult,Maybe,Maybe,No,No
+34,male,Yes,1,26-100,Sometimes,1,Yes,No,Yes,No,Yes,Very easy,No,Maybe,Yes,Yes
+20,female-bodied; no feelings about gender,I don't know,0,6-25,Never,1,Not eligible for coverage / N/A,N/A,No,No,I don't know,Neither easy nor difficult,Maybe,Maybe,No,I don't know
+39,Male,Yes,1,,Never,,,,,,,,,,,
+50,female,Yes,1,More than 1000,Sometimes,1,I don't know,No,No,No,I don't know,Somewhat difficult,Maybe,No,No,I don't know
+22,Male,Yes,0,1-5,Never,0,No,No,No,No,No,Very difficult,Yes,No,No,I don't know
+41,Male,I don't know,1,100-500,Sometimes,1,Yes,Yes,No,No,I don't know,Somewhat easy,Maybe,No,Maybe,I don't know
+37,male,No,0,26-100,Sometimes,1,No,No,No,No,I don't know,Somewhat easy,No,Maybe,No,I don't know
+32,m,Yes,1,100-500,Sometimes,1,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Maybe,Yes
+26,M,Yes,1,,Always,,,,,,,,,,,
+38,M,Yes,0,6-25,Never,1,Yes,No,Yes,I don't know,Yes,Somewhat easy,No,Yes,Yes,I don't know
+21,Male,Yes,0,,Always,,,,,,,,,,,
+27,Male,Yes,1,6-25,Sometimes,1,Yes,I am not sure,No,No,I don't know,I don't know,Maybe,No,No,I don't know
+37,f,Yes,1,1-5,Sometimes,0,No,I am not sure,No,I don't know,No,Very difficult,Yes,No,No,No
+45,male,I don't know,1,,Always,,,,,,,,,,,
+26,Male,No,0,,Sometimes,,,,,,,,,,,
+30,Female,Yes,0,6-25,Sometimes,0,I don't know,No,No,No,I don't know,Very difficult,Yes,Maybe,Yes,I don't know
+21,Male,Yes,1,More than 1000,Sometimes,1,No,No,No,I don't know,I don't know,Somewhat difficult,Yes,No,No,I don't know
+21,male,I don't know,1,More than 1000,Sometimes,0,I don't know,I am not sure,No,Yes,I don't know,Neither easy nor difficult,Maybe,No,No,No
+29,male,No,0,,Sometimes,,,,,,,,,,,
+46,male,No,0,More than 1000,Sometimes,0,Yes,I am not sure,Yes,Yes,Yes,Somewhat easy,Maybe,No,No,I don't know
+28,cis man,Yes,1,500-1000,Sometimes,1,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,No,Yes,Yes,No
+26,,Yes,1,100-500,Never,0,Yes,No,No,No,Yes,I don't know,Yes,No,No,No
+37,Female,Yes,1,,Always,,,,,,,,,,,
+44,Male,No,0,More than 1000,Sometimes,1,Yes,I am not sure,I don't know,Yes,Yes,Neither easy nor difficult,Yes,No,No,I don't know
+45,F,Yes,1,,Always,,,,,,,,,,,
+35,female,I don't know,1,1-5,Always,1,I don't know,I am not sure,I don't know,No,I don't know,Somewhat easy,Maybe,Yes,Yes,Yes
+39,Male,Yes,1,26-100,Never,1,Yes,Yes,Yes,Yes,Yes,I don't know,No,Maybe,Yes,I don't know
+37,Female,No,1,More than 1000,Sometimes,0,I don't know,I am not sure,I don't know,I don't know,I don't know,I don't know,Maybe,No,Maybe,I don't know
+35,Male,No,0,100-500,Sometimes,0,No,No,No,No,I don't know,Neither easy nor difficult,Maybe,No,No,I don't know
+29,Female,Yes,1,More than 1000,Never,1,Yes,Yes,No,I don't know,Yes,Somewhat difficult,Yes,No,No,I don't know
+49,f,I don't know,1,,Never,,,,,,,,,,,
+21,Male (cis),I don't know,1,26-100,Sometimes,1,I don't know,No,I don't know,I don't know,I don't know,Neither easy nor difficult,Maybe,Maybe,Maybe,I don't know
+26,Female,Yes,1,26-100,Sometimes,1,Yes,Yes,No,Yes,Yes,Very difficult,Yes,Maybe,Maybe,No
+35,male,Yes,1,100-500,Never,1,Yes,I am not sure,Yes,No,Yes,Somewhat easy,No,Yes,Yes,No
+56,M,No,1,100-500,Sometimes,0,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Maybe,Yes,Yes,Yes
+53,female,Yes,1,,Always,,,,,,,,,,,
+48,f,Yes,1,,Sometimes,,,,,,,,,,,
+24,male,No,0,26-100,Never,1,Not eligible for coverage / N/A,I am not sure,No,No,I don't know,Somewhat easy,Maybe,Yes,Yes,Yes
+37,Male,No,0,More than 1000,Never,1,No,I am not sure,No,No,I don't know,Somewhat easy,Yes,No,No,I don't know
+27,female,Yes,1,26-100,Never,0,No,Yes,No,No,I don't know,Very difficult,Yes,Yes,Maybe,No
+39,female,Yes,1,1-5,Sometimes,1,I don't know,No,No,I don't know,I don't know,Somewhat difficult,No,Maybe,Yes,I don't know
+31,male,No,0,,Sometimes,,,,,,,,,,,
+34,Male,Yes,1,100-500,Always,1,Yes,Yes,No,I don't know,I don't know,Very difficult,Yes,No,No,I don't know
+33,Male,Yes,1,More than 1000,Sometimes,0,No,N/A,No,Yes,Yes,Very easy,No,Yes,Yes,No
+22,Male,I don't know,0,1-5,Never,1,No,No,No,No,No,Somewhat difficult,Maybe,No,No,I don't know
+25,Female,I don't know,0,6-25,Sometimes,1,Not eligible for coverage / N/A,N/A,No,No,I don't know,Somewhat easy,No,Maybe,Maybe,I don't know
+34,Male,No,0,More than 1000,Never,0,I don't know,No,No,No,I don't know,Very easy,No,Maybe,Maybe,I don't know
+30,male,Yes,0,6-25,Sometimes,1,Not eligible for coverage / N/A,N/A,No,No,I don't know,Neither easy nor difficult,Yes,Maybe,No,No
+37,male,I don't know,1,26-100,Never,1,No,No,No,No,I don't know,Somewhat difficult,Maybe,Maybe,Maybe,I don't know
+26,Male,No,0,6-25,Never,1,No,No,No,No,No,Somewhat difficult,Yes,No,No,No
+29,female,No,1,More than 1000,Never,0,Yes,Yes,Yes,Yes,I don't know,I don't know,No,Maybe,Yes,Yes
+29,male,I don't know,1,6-25,Sometimes,1,No,No,I don't know,I don't know,No,Very difficult,Yes,Maybe,No,No
+27,Male,Yes,1,26-100,Never,0,No,N/A,No,No,I don't know,Somewhat difficult,Maybe,Maybe,No,I don't know
+27,female,Yes,1,6-25,Sometimes,0,No,No,No,No,I don't know,Neither easy nor difficult,Yes,No,Yes,I don't know
+23,Male,No,0,More than 1000,Sometimes,0,I don't know,No,Yes,Yes,Yes,Somewhat easy,No,Maybe,Yes,Yes
+24,female,No,0,More than 1000,Sometimes,1,I don't know,Yes,No,Yes,Yes,Very easy,No,No,Yes,I don't know
+22,male,I don't know,0,,Sometimes,,,,,,,,,,,
+28,Male,No,0,1-5,Never,0,No,No,No,No,No,Very easy,No,Yes,Yes,Yes
+22,Male,Yes,1,6-25,Never,0,I don't know,I am not sure,No,No,I don't know,I don't know,Maybe,No,Maybe,No
+32,Male,Yes,0,26-100,Sometimes,1,No,Yes,No,No,No,Somewhat easy,Maybe,No,No,No
+35,female,No,1,6-25,Always,1,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Maybe,Yes,Maybe,I don't know
+26,Male,No,1,26-100,Sometimes,1,Yes,Yes,No,I don't know,I don't know,Very easy,Maybe,No,Yes,I don't know
+31,female,I don't know,1,More than 1000,Sometimes,1,No,Yes,Yes,Yes,I don't know,Somewhat difficult,Yes,No,Maybe,No
+32,male,Yes,1,,Sometimes,,,,,,,,,,,
+37,Male,I don't know,1,100-500,Sometimes,1,No,No,No,No,No,Somewhat difficult,Maybe,Maybe,Maybe,I don't know
+24,Male,No,1,6-25,Never,0,No,No,No,No,Yes,Neither easy nor difficult,No,Maybe,Maybe,I don't know
+33,Male,No,0,26-100,Always,1,Yes,Yes,Yes,Yes,I don't know,Very easy,No,Yes,Yes,Yes
+28,Male,I don't know,1,100-500,Sometimes,1,Yes,Yes,No,Yes,Yes,Somewhat easy,No,Yes,Yes,I don't know
+22,Female,I don't know,1,More than 1000,Sometimes,1,I don't know,No,No,I don't know,I don't know,Somewhat easy,Maybe,Maybe,Maybe,I don't know
+46,Male,Yes,1,100-500,Sometimes,1,Not eligible for coverage / N/A,N/A,No,No,I don't know,Somewhat difficult,Maybe,Maybe,No,No
+30,Male,I don't know,0,26-100,Always,1,Yes,Yes,No,I don't know,I don't know,Neither easy nor difficult,Maybe,Maybe,Maybe,I don't know
+29,Male,No,1,26-100,Never,1,I don't know,I am not sure,No,Yes,Yes,Somewhat difficult,Maybe,Maybe,Maybe,No
+22,Male,Yes,0,100-500,Sometimes,1,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,No,No,No
+24,Female,Yes,1,,Sometimes,,,,,,,,,,,
+29,Female,No,1,,Always,,,,,,,,,,,
+30,male,Yes,1,More than 1000,Sometimes,0,Yes,Yes,No,Yes,I don't know,Somewhat easy,Maybe,Maybe,Maybe,Yes
+25,Male ,Yes,1,,Always,,,,,,,,,,,
+39,Male,No,0,More than 1000,Sometimes,0,Yes,I am not sure,I don't know,Yes,Yes,Somewhat difficult,Maybe,Maybe,Maybe,I don't know
+31,male,No,1,,Always,,,,,,,,,,,
+25,Male,Yes,1,,Sometimes,,,,,,,,,,,
+39,Male,I don't know,0,500-1000,Sometimes,0,Yes,I am not sure,Yes,Yes,I don't know,Somewhat difficult,Maybe,No,Maybe,I don't know
+31,F,Yes,1,More than 1000,Always,1,Yes,Yes,No,Yes,I don't know,Somewhat difficult,Maybe,No,No,I don't know
+35,m,Yes,0,100-500,Sometimes,1,Yes,No,No,I don't know,I don't know,I don't know,Yes,Maybe,No,I don't know
+31,AFAB,No,1,,Always,,,,,,,,,,,
+23,male,I don't know,1,More than 1000,Sometimes,1,No,I am not sure,No,No,I don't know,Very difficult,Yes,No,No,No
+30,male,Yes,1,More than 1000,Never,1,Yes,I am not sure,Yes,Yes,I don't know,Very difficult,Maybe,No,No,I don't know
+28,male,Yes,0,6-25,Sometimes,1,Not eligible for coverage / N/A,No,No,No,Yes,Neither easy nor difficult,Maybe,Yes,No,I don't know
+23,Female,Yes,0,More than 1000,Never,1,Yes,No,No,Yes,I don't know,I don't know,Yes,No,No,I don't know
+26,Female ,Yes,1,26-100,Never,1,Yes,Yes,No,No,Yes,Neither easy nor difficult,No,Maybe,Yes,I don't know
+24,Female,Yes,1,26-100,Never,1,Yes,Yes,No,No,I don't know,Very difficult,Maybe,Maybe,Maybe,No
+32,Male,No,0,More than 1000,Never,1,Yes,No,No,No,I don't know,Somewhat easy,Maybe,No,Maybe,No
+35,Male,Yes,1,,Always,,,,,,,,,,,
+30,Male,No,0,100-500,Sometimes,1,Not eligible for coverage / N/A,N/A,No,No,Yes,Somewhat easy,No,Yes,Yes,Yes
+32,male,No,1,26-100,Sometimes,1,Yes,I am not sure,No,No,I don't know,Somewhat difficult,Maybe,No,Maybe,I don't know
+35,Male,No,1,6-25,Never,0,Yes,Yes,No,No,I don't know,I don't know,Maybe,No,No,I don't know
+26,F,I don't know,1,26-100,Always,1,I don't know,Yes,No,No,I don't know,Neither easy nor difficult,Maybe,No,No,I don't know
+30,Female,Yes,1,100-500,Sometimes,0,Yes,I am not sure,Yes,Yes,I don't know,Somewhat easy,Maybe,Maybe,Yes,I don't know
+29,male,I don't know,1,26-100,Never,1,Yes,No,No,I don't know,Yes,Somewhat difficult,Maybe,Maybe,No,I don't know
+39,male,No,0,More than 1000,Always,1,I don't know,I am not sure,Yes,Yes,I don't know,Somewhat easy,Maybe,Yes,Yes,I don't know
+37,Male,Yes,1,More than 1000,Never,0,I don't know,I am not sure,No,No,I don't know,Neither easy nor difficult,Yes,No,Maybe,No
+35,M,No,0,26-100,Sometimes,1,Yes,No,No,No,I don't know,Very difficult,Yes,No,No,No
+25,Female,Yes,1,1-5,Sometimes,1,Not eligible for coverage / N/A,Yes,No,No,No,I don't know,Yes,No,No,I don't know
+22,Agender,Yes,1,More than 1000,Never,0,Not eligible for coverage / N/A,N/A,Yes,Yes,Yes,Neither easy nor difficult,Maybe,Yes,Maybe,Yes
+33,Male,Yes,1,26-100,Never,1,Yes,Yes,No,No,No,Neither easy nor difficult,Yes,Maybe,Maybe,No
+23,male ,Yes,1,1-5,Sometimes,1,Yes,No,No,No,I don't know,Somewhat difficult,Yes,Maybe,No,No
+29,male,Yes,1,,Sometimes,,,,,,,,,,,
+28,Male,Yes,1,26-100,Always,1,Yes,Yes,No,I don't know,I don't know,Very difficult,Yes,No,No,No
+30,Male,Yes,1,More than 1000,Never,1,Yes,Yes,No,No,I don't know,Very easy,No,Yes,Yes,I don't know
+28,Male,Yes,1,100-500,Sometimes,1,Yes,Yes,No,No,Yes,Somewhat easy,No,Maybe,Yes,I don't know
+28,female,Yes,1,6-25,Always,1,Yes,Yes,Yes,Yes,I don't know,Very easy,No,Yes,Yes,Yes
+37,male,Yes,0,More than 1000,Never,0,Yes,No,No,Yes,I don't know,I don't know,Maybe,Maybe,Yes,No
+30,Male,Yes,0,26-100,Sometimes,1,No,Yes,Yes,No,No,I don't know,Maybe,Maybe,Yes,Yes
+27,Male,Yes,1,6-25,Sometimes,1,No,I am not sure,Yes,No,I don't know,Somewhat difficult,Yes,No,Yes,No
+29,Male,Yes,1,,Sometimes,,,,,,,,,,,
+28,Male,I don't know,1,More than 1000,Never,1,I don't know,I am not sure,No,No,I don't know,I don't know,Maybe,No,No,I don't know
+26,Transgender woman,Yes,1,6-25,Sometimes,1,No,No,No,No,No,Somewhat difficult,Yes,No,No,No
+29,male,Yes,1,100-500,Sometimes,1,I don't know,I am not sure,No,I don't know,Yes,I don't know,Maybe,No,No,No
+34,m,No,0,,Sometimes,,,,,,,,,,,
+36,Male,I don't know,1,100-500,Always,1,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,No,Maybe,Yes,Yes
+38,Male,No,1,26-100,Never,1,I don't know,No,No,No,I don't know,Very difficult,Yes,No,No,No
+22,Female,No,1,6-25,Sometimes,1,Yes,I am not sure,No,No,Yes,Very easy,Yes,No,No,Yes
+24,male,No,0,1-5,Sometimes,1,Not eligible for coverage / N/A,I am not sure,Yes,Yes,Yes,Neither easy nor difficult,No,Maybe,Maybe,No
+24,female,Yes,1,100-500,Sometimes,0,Yes,Yes,No,I don't know,Yes,Somewhat easy,No,Yes,Yes,I don't know
+36,female,Yes,1,500-1000,Never,1,Yes,Yes,No,I don't know,Yes,Very difficult,No,Yes,Maybe,No
+24,Female,Yes,1,More than 1000,Never,0,Not eligible for coverage / N/A,I am not sure,No,I don't know,I don't know,Very difficult,Maybe,Maybe,No,I don't know
+24,Male,No,0,500-1000,Never,1,No,No,No,No,I don't know,Somewhat easy,Maybe,No,Maybe,I don't know
+31,Male,Yes,1,26-100,Never,1,No,N/A,No,No,I don't know,Very difficult,Yes,No,No,No
+39,M,No,0,26-100,Never,1,Yes,I am not sure,Yes,No,I don't know,Neither easy nor difficult,Yes,No,No,Yes
+41,male,Yes,1,More than 1000,Sometimes,1,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Yes,No,No
+29,Male,I don't know,0,,Always,,,,,,,,,,,
+37,male,I don't know,0,26-100,Never,1,No,No,No,No,Yes,Very easy,Maybe,Yes,Maybe,I don't know
+30,male,No,0,26-100,Always,1,I don't know,I am not sure,No,I don't know,I don't know,I don't know,Maybe,Maybe,Maybe,I don't know
+24,Male,No,0,100-500,Sometimes,1,Yes,I am not sure,Yes,I don't know,I don't know,Somewhat easy,No,No,Maybe,No
+22,female,I don't know,1,100-500,Sometimes,1,Not eligible for coverage / N/A,N/A,No,No,I don't know,Somewhat difficult,Maybe,Maybe,Maybe,I don't know
+24,Male,I don't know,0,100-500,Sometimes,1,Yes,I am not sure,Yes,Yes,Yes,Somewhat easy,No,Maybe,Yes,Yes
+26,Female,I don't know,1,100-500,Sometimes,1,I don't know,I am not sure,No,I don't know,I don't know,Somewhat easy,Maybe,Maybe,Maybe,I don't know
+38,female,Yes,1,500-1000,Always,1,Yes,No,No,No,Yes,Somewhat easy,No,Yes,Yes,Yes
+34,Female ,Yes,1,,Sometimes,,,,,,,,,,,
+56,MALE,Yes,0,,Sometimes,,,,,,,,,,,
+52,Male,Yes,1,100-500,Sometimes,1,Yes,Yes,Yes,Yes,I don't know,Somewhat difficult,Maybe,Yes,Yes,I don't know
+30,Female,Yes,0,100-500,Sometimes,0,I don't know,I am not sure,No,Yes,I don't know,Somewhat difficult,Maybe,Maybe,Yes,No
+25,non-binary,I don't know,0,100-500,Sometimes,1,Yes,No,No,No,I don't know,Very difficult,Maybe,Maybe,Maybe,No
