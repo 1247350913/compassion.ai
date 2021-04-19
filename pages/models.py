@@ -22,6 +22,7 @@ def run_models():
     st.text("This will take a while to run, please do not leave this section until it finishes")
     if load:
         outputs = get_model_outputs()
+
         st.pyplot(outputs[0])
         st.pyplot(outputs[1])
         st.write(outputs[2])
@@ -33,10 +34,11 @@ def run_models():
 
 def get_model_outputs():
 
-    # Output Array Types: [plt, plt, df, plt, plt]
+    # Output Array: [plt, plt, df, plt, plt]
     outputs = []
 
-    # Load and Clean Data
+    # Step 1: Load and Clean Data
+
     # 2014 Survey
     mental_2014 = pd.read_csv('mental_2014.csv')
     mental_2014 = mental_2014.drop(labels=['Timestamp', 'Country', 'state', 'self_employed',
@@ -46,18 +48,36 @@ def get_model_outputs():
     # 2016 Survey
     mental_2016 = pd.read_csv('mental_2016.csv')
 
+    # 2019 survey
+    mental_2019 = pd.read_csv('mental_2019.csv')
+    mental_2019['treatment'] = mental_2019['treatment'].astype(int)
+    mental_2019['tech_company'].fillna(value=False, inplace=True)
+    mental_2019['tech_company'] = mental_2019['tech_company'].astype(int)
+    mental_2019['mental_vs_physical'] = mental_2019['Overall, how much importance does your employer place on physical health?'] < mental_2019['Overall, how much importance does your employer place on mental health?']
+    mental_2019.drop(columns=['Overall, how much importance does your employer place on physical health?', 'Overall, how much importance does your employer place on mental health?'], inplace=True)
+    mental_2019['mental_vs_physical'] = mental_2019['mental_vs_physical'].replace({True:'Yes', False:'No'})
+
     # Combine Data
-    combined = pd.concat([mental_2014, mental_2016], axis=0)
+    combined = combined = pd.concat([mental_2014, mental_2016, mental_2019], axis=0)
     responses = ['Yes', 'No']
     combined = combined[combined['mental_vs_physical'].str.contains('|'.join(responses)) == True]
     combined['care_options'] = combined['care_options'].str.replace('I am not sure', 'Not sure')
     combined['care_options'].fillna(value='Not sure', inplace=True)
-    combined.drop('Gender', axis=1, inplace=True)
+
+    # Removing 'Maybe' responses
+    responses = ['Yes', 'No']
+    combined = combined[combined['mental_vs_physical'].str.contains('|'.join(responses)) == True]
+
+    # Fixing null values in 'care_options'
+    combined['care_options'] = combined['care_options'].str.replace('I am not sure', 'Not sure')
+    combined['care_options'].fillna(value='Not sure', inplace=True)
+
+    combined.drop(columns=['Gender', 'remote_work'], inplace=True)
+    combined.rename(columns={'Age':'age'}, inplace=True)
 
 
-    # Prep Data Sets for Models
+    # Step 2: Prep Data For Models
 
-    # split combined data into test and training
     from sklearn.model_selection import train_test_split
 
     # split
@@ -65,11 +85,9 @@ def get_model_outputs():
     y = [1 if i == 'Yes' else 0 for i in combined['mental_vs_physical']]
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, stratify=y, random_state=88)
 
-    # make train
+    # test and train
     train = X_train.copy()
     train['mental_vs_physical'] = y_train
-
-    # make test
     test = X_test.copy()
     test['mental-vs_physical'] = y_test
 
@@ -82,7 +100,16 @@ def get_model_outputs():
         return cm.ravel()[1]/ (cm.ravel()[1] + cm.ravel()[0])
 
 
-    # Logistic Regression
+    # Step 3: Baseline Model
+
+    from sklearn.linear_model import LogisticRegression
+    from sklearn.metrics import confusion_matrix
+    from sklearn.metrics import accuracy_score
+
+    y_pred_baseline = np.zeros(len(y_test))
+
+
+    # Step 4: Logistic Regression
 
     from sklearn.linear_model import LogisticRegression
     from sklearn.metrics import confusion_matrix
@@ -98,7 +125,7 @@ def get_model_outputs():
     cm_logreg = confusion_matrix(y_test, y_pred_logreg)
 
 
-    # Decision Tree
+    # Step 5: Decision Tree
 
     from sklearn.model_selection import GridSearchCV
     from sklearn.tree import DecisionTreeClassifier
@@ -149,7 +176,7 @@ def get_model_outputs():
     cm_dtc = confusion_matrix(y_test, y_pred_dtc)
 
 
-    # Vanilla Bagging
+    # Step 6: Vanilla Bagging
 
     from sklearn.ensemble import RandomForestClassifier
 
@@ -161,7 +188,7 @@ def get_model_outputs():
     cm_bagging = confusion_matrix(y_test, y_pred_bagging)
 
 
-    # Random Forest
+    # Step 7: Random Forest
 
     # grid search for max_features
     grid_values = {'max_features': np.linspace(1,8,8, dtype='int32'),
@@ -178,7 +205,7 @@ def get_model_outputs():
     cm_rf = confusion_matrix(y_test, y_pred_rf)
 
 
-    # Compare Models
+    # Step 8: Compare Models
 
     comparison_data = {'Logistic Regression': [accuracy_score(y_test, y_pred_logreg),
                                                TPR(y_test, y_pred_logreg), FPR(y_test, y_pred_logreg)],
@@ -192,7 +219,8 @@ def get_model_outputs():
 
     outputs.append(performance_df)
 
-    # Importance Score for random forest
+
+    # Step 9: Importance Score for random forest
 
     pd.DataFrame({'Feature' : X_train.columns,
                   'Importance score': 100*rf_cv.best_estimator_.feature_importances_}).round(1).sort_values(
@@ -218,7 +246,7 @@ def get_model_outputs():
     outputs.append(plt4)
 
 
-    # Feature Selection
+    # Step 10: Feature Selection
 
     from sklearn.feature_selection import SelectFromModel
 
@@ -231,7 +259,7 @@ def get_model_outputs():
     X_test_select = X_test.drop(columns = selected_feat)
 
 
-    # Random Forest with Feature Selection
+    # Step 11: Random Forest with Feature Selection
 
     # grid search for max_features
     grid_values = {'max_features': np.linspace(1,8,8, dtype='int32'),
