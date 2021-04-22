@@ -17,7 +17,7 @@ st.set_page_config(page_title="Care Hub", layout="wide", page_icon=":heart:", in
 # Image and Header
 from PIL import Image
 image = Image.open('images/heart.jpg')
-st.sidebar.image(image, caption="We Are Care Hub :)")
+st.sidebar.image(image, caption="We Are compassion.ai :)")
 
 # Navigation Pane
 st.sidebar.title("Navigation")

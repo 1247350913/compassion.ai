@@ -7,7 +7,7 @@ import streamlit as st
 def home_page():
 
     c1, c2, c3 = st.beta_columns(3)
-    c2.title("Care Hub")
+    c2.title("compassion.ai")
     st.header("""Does your company take the mental health of its employees as seriously as physical health?""")
 
     st.subheader("Mental Health in the Tech Industry")

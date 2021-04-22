@@ -20,8 +20,8 @@ def generate_survey():
 
         st.write('make the survey and save answers to df that can be plugged into model')
 
-        st.radio("Question 1", ["No Answer", "Yes", "No"])
+        st.text_input("What year were you born?")
 
-        st.radio("Question 2", ["No Answer", "Yes", "No"])
+        st.radio("What is your gender identity?", ["No Answer", "Male", "Female", "Non-binary", "Other"])
 
-        st.radio("Question 3", ["No Answer", "Yes", "No"])
+        st.radio("Are you self-employed?", ["No Answer", "Yes", "No"])

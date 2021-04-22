@@ -40,16 +40,16 @@ def get_model_outputs():
     # Step 1: Load and Clean Data
 
     # 2014 Survey
-    mental_2014 = pd.read_csv('mental_2014.csv')
+    mental_2014 = pd.read_csv('data/mental_2014.csv')
     mental_2014 = mental_2014.drop(labels=['Timestamp', 'Country', 'state', 'self_employed',
                                             'obs_consequence', 'comments', 'phys_health_consequence',
                                             'phys_health_interview', 'work_interfere', 'mental_health_interview'],
                                             axis=1)
     # 2016 Survey
-    mental_2016 = pd.read_csv('mental_2016.csv')
+    mental_2016 = pd.read_csv('data/mental_2016.csv')
 
     # 2019 survey
-    mental_2019 = pd.read_csv('mental_2019.csv')
+    mental_2019 = pd.read_csv('data/mental_2019.csv')
     mental_2019['treatment'] = mental_2019['treatment'].astype(int)
     mental_2019['tech_company'].fillna(value=False, inplace=True)
     mental_2019['tech_company'] = mental_2019['tech_company'].astype(int)

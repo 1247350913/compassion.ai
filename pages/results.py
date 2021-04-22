@@ -5,4 +5,4 @@ import streamlit as st
 
 
 def display_results():
-    st.text("Hello")
+    st.subheader("These are the results based on your survey responses:")
