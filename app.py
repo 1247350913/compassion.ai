@@ -3,7 +3,6 @@
 # Imports
 import streamlit as st
 from pages import home
-from pages import models
 from pages import survey
 from pages import results
 from pages import about
@@ -35,7 +34,7 @@ about_us = st.sidebar.button("About Us")
 # Run All Pages
 if about_us:
     about.display_about()
-    
+
 if navigation == 'Home' and not about_us:
     home.home_page()
 elif navigation == 'Survey' and not about_us:
