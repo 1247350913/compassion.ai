@@ -4,7 +4,9 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
+import matplotlib.pyplot as plt
 from pages import survey
+
 
 def display_results():
     st.title("Results")
@@ -18,14 +20,28 @@ def display_results():
         answers, pred = generate_model()
 
 
-        st.header("Our Model Predicts that your company does or does not take mental health seriously enough:")
+        st.header("Does your company take mental health seriously enough:")
         if pred:
-            st.subheader("Yes They Do!!")
+            st.subheader("Yes They Do!! :)")
         else:
             st.subheader("Nope they don't :(")
 
-        st.header("Here is where the company can imporve:")
-        st.write(answers)
+        percent = np.sum(answers[1:]) / 15 * 100
+        st.header("Your Score Is:")
+        st.subheader(str(percent)[:2] + '%')
+
+        st.header("Here are features that led to this score:")
+        pie = plt.figure(figsize=(8, 6))
+        plt.pie([percent, 100 - percent], labels=['% optimal responses', 'not optimal'])
+        st.pyplot(pie)
+
+        nons = [ans for ans in answers if not ans]
+        st.subheader("These are the non optimals:")
+        questions = np.random.choice(15, 2)
+        st.write("Indicies of questions:")
+        for ind in questions:
+            st.write(ind)
+
 
 def generate_model():
 

@@ -6,6 +6,7 @@ from pages import home
 from pages import models
 from pages import survey
 from pages import results
+from pages import about
 
 
 # Layout Style
@@ -28,16 +29,16 @@ navigation = st.sidebar.radio(label="Go To:", options=['Home', 'Survey', 'Result
 
 # Contact Pane
 st.sidebar.title("Contact Us")
-st.sidebar.text("Sign In")
-st.sidebar.text("About Us")
-
+sign = st.sidebar.button("Sign In")
+about_us = st.sidebar.button("About Us")
 
 # Run All Pages
-if navigation == 'Home':
+if about_us:
+    about.display_about()
+    
+if navigation == 'Home' and not about_us:
     home.home_page()
-# elif navigation == 'Models':
-#     models.run_models()
-elif navigation == 'Survey':
+elif navigation == 'Survey' and not about_us:
     survey.generate_survey()
-elif navigation == 'Results':
+elif navigation == 'Results' and not about_us:
     results.display_results()

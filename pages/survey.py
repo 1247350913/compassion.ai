@@ -12,11 +12,6 @@ def generate_survey():
     st.subheader("Let us know how you feel about how your company manages its employees' mental health.")
     st.subheader("We'll use your feedback to make this a better place to work.")
     st.text("15 questions: Takes 4 min")
-    # generate = st.button("OK, let's get started")
-    #
-    # if generate:
-
-    st.write('make the survey and save answers to df that can be plugged into model')
 
     q1 = st.text_input("What is your age?")
     q2 = st.radio("Do you have any family history of mental health issues?", ['No', 'Yes', "I don't know"])
@@ -39,6 +34,7 @@ def generate_survey():
 
     if save_ans:
         df.loc[len(df.index)] = [0, q1, q2, q3, q4, q5, q6, q7, q8, q9, q10, q11, q12, q13, q14, q15]
+
 
 def get_responses():
     return df
