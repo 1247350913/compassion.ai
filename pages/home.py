@@ -18,7 +18,7 @@ def home_page():
 
 
     st.subheader("Mental Health in the Tech Industry")
-    st.write("""These are some stats on the state of mental health in tech rn""")
+    st.write("""People in the tech industry experience mental health issues at a much higher rate (51%)\nthan the general population (19.1%). - Open Sourcing Mental Illness (OSMI), a non-profit,\ndedicated to raising awarenes about mental illness in tech.""")
 
     st.subheader("How It Works")
     st.write("""Compassion.ai is a tool for companies to better understand their employees values when it\ncomes to mental health. Through machine learning techniques and real data from employees,\nwe are able to predict the major obstacles for employees present in the tech workspace,\nthus empowering companies to make their environments better.\nHelping employers help employees.""")
