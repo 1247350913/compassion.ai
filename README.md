@@ -12,3 +12,12 @@ Contains our logos for the website
 
 All code for web application hosted by streamlit in app.py
 csv files gathered from [this website].
+
+## mental_health/app.py
+This is the Streamlit application written in python with the Streamlit module. This file is hosted using Streamlit Sharing servies.
+
+## mental_health/pages
+This directory contains the files written in python using Streamlit API to display each of the pages for the application. The survey page displays the survey and records the responses into a database. The home and About fiels display information about our product. The Results page loads our ML solution, and inputs the survey responses from the database to acheive a prediction and to analyze results.
+
+## braches
+The master branch is the minimum viable product according to UI display and the new_feature branch is implementing upgrades to the UI.
