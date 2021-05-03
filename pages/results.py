@@ -45,32 +45,6 @@ def display_results():
         st.pyplot(pie)
 
 
-
-
-
-
-        # if pred:
-        #     st.subheader("Yes They Do!! :)")
-        # else:
-        #     st.subheader("Nope they don't :(")
-        #
-        # percent = np.sum(answers[1:]) / 15 * 100
-        # st.header("Your Score Is:")
-        # st.subheader(str(percent)[:2] + '%')
-
-        # st.header("Here are features that led to this score:")
-        # pie = plt.figure(figsize=(8, 6))
-        # plt.pie([percent, 100 - percent], labels=['% optimal responses', 'not optimal'])
-        # st.pyplot(pie)
-        #
-        # nons = [ans for ans in answers if not ans]
-        # st.subheader("These are the non optimals:")
-        # questions = np.random.choice(15, 2)
-        # st.write("Indicies of questions:")
-        # for ind in questions:
-        #     st.write(ind)
-
-
 def generate_model():
 
     # Step 1: Load and Clean Data
