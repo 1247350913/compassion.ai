@@ -9,7 +9,7 @@ from pages import about
 
 
 # Layout Style
-st.set_page_config(page_title="Care Hub", page_icon=":heart:", initial_sidebar_state='auto')
+st.set_page_config(page_title="compassion.ai", page_icon=":heart:", initial_sidebar_state='auto')
 
 
 # Sidebar
