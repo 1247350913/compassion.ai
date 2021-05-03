@@ -16,31 +16,59 @@ def display_results():
     st.text("it may take a few moments")
 
     if generate:
-        df = survey.get_responses()
-        answers, pred = generate_model()
+        row = survey.get_responses()
+        xt, model = generate_model()
+        xt.loc[len(xt.index)] = row
+        df = xt.iloc[len(xt.index)-1:]
+        prediction = model.predict(df)
 
+        st.header("Does your company take mental health seriously enough:\n")
 
-        st.header("Does your company take mental health seriously enough:")
-        if pred:
-            st.subheader("Yes They Do!! :)")
+        if not prediction:
+            st.subheader("\n Our model predicted that your company does not :(")
         else:
-            st.subheader("Nope they don't :(")
+            st.subheader("\n Our model predicted that your company does :)")
 
-        percent = np.sum(answers[1:]) / 15 * 100
-        st.header("Your Score Is:")
-        st.subheader(str(percent)[:2] + '%')
+        optimal_response = [0]*58
+        best = [1,4,7,12,16,22,28,36,42,48,52,57]
+        for i in range(58):
+            if i in best:
+                optimal_response[i] = 1
 
-        st.header("Here are features that led to this score:")
+        count = 0
+        for ind in range(len(optimal_response)):
+            if row[ind] == 1 and optimal_response[i] == 1:
+                count += 1
+
         pie = plt.figure(figsize=(8, 6))
-        plt.pie([percent, 100 - percent], labels=['% optimal responses', 'not optimal'])
+        plt.pie([count, 100 - count], labels=['% optimal responses', 'not optimal'])
         st.pyplot(pie)
 
-        nons = [ans for ans in answers if not ans]
-        st.subheader("These are the non optimals:")
-        questions = np.random.choice(15, 2)
-        st.write("Indicies of questions:")
-        for ind in questions:
-            st.write(ind)
+
+
+
+
+
+        # if pred:
+        #     st.subheader("Yes They Do!! :)")
+        # else:
+        #     st.subheader("Nope they don't :(")
+        #
+        # percent = np.sum(answers[1:]) / 15 * 100
+        # st.header("Your Score Is:")
+        # st.subheader(str(percent)[:2] + '%')
+
+        # st.header("Here are features that led to this score:")
+        # pie = plt.figure(figsize=(8, 6))
+        # plt.pie([percent, 100 - percent], labels=['% optimal responses', 'not optimal'])
+        # st.pyplot(pie)
+        #
+        # nons = [ans for ans in answers if not ans]
+        # st.subheader("These are the non optimals:")
+        # questions = np.random.choice(15, 2)
+        # st.write("Indicies of questions:")
+        # for ind in questions:
+        #     st.write(ind)
 
 
 def generate_model():
@@ -126,5 +154,4 @@ def generate_model():
     y_pred_rf = rf_cv.predict(X_test)
     cm_rf = confusion_matrix(y_test, y_pred_rf)
 
-    ind = np.random.choice(len(y_pred_rf))
-    return X_test.iloc[ind,:], y_pred_rf[ind]
+    return X_test, rf_cv
