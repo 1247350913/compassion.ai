@@ -15,7 +15,5 @@ Contains image files for all images in the application.
 This is the Streamlit application written in python with the Streamlit module. This file is hosted using Streamlit Sharing services. 
 
 ## mental_health/pages
-This directory contains the files written in python using Streamlit API to display each of the pages for the application. The survey page displays the survey and records the responses into a database. The Home and About pages display information about our product. The Results page loads our ML solution, and inputs the survey responses from the database to achieve a prediction and displays an analysis of the results.
+This directory contains the files written in python using Streamlit API to display each of the pages for the application. The survey page displays the survey and records the responses into a database. The Home and About pages display information about our product. The Results page loads our ML solution, and inputs the survey responses from the database to achieve a prediction and displays an analysis of the results. The results and survey pages are being continually updated with our most recent techniques and more efficient solutions.
 
-## braches
-The master branch is the minimum viable product according to acheiving simple UI display and the new_feature branch is implementing upgrades to the UI and tieing in changes to the results analysis as they are developed.
