@@ -1,4 +1,4 @@
-# compassion.ai
+# [compassion.ai](https://share.streamlit.io/camjhirsh/mental_health/app.py)
 Compassion.ai is a brand new machine learning application that will help companies assess their current mental health climate and provide recommendations for the best ways to be more accomodating for their workers. Within this GitHub repository are all the necessary files used to create our web application.
 
 ## mental_health/data
