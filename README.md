@@ -1,5 +1,5 @@
 # [compassion.ai](https://share.streamlit.io/camjhirsh/mental_health/app.py)
-Compassion.ai is a brand new machine learning application that will help companies assess their current mental health climate and provide recommendations for the best ways to be more accomodating for their workers. Within this GitHub repository are all the necessary files used to create our web application.
+[Compassion.ai](https://share.streamlit.io/camjhirsh/mental_health/app.py) is a brand new machine learning application that will help companies assess their current mental health climate and provide recommendations for the best ways to be more accomodating for their workers. Within this GitHub repository are all the necessary files used to create our web application.
 
 ## data
 This folder contains the csv files used to build our models. All data are gathered from Open Sourcing Mental Illness, a non-profit, dedicated to raising awareness, educating, and providing resources to support mental wellness in the tech and open source communities. The data used come from three different csv files, for the years 2014, 2016, and 2019.
