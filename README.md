@@ -4,7 +4,7 @@
 compassion.ai is a brand new machine learning application that will help companies assess their current mental health climate, and provide recommendations for the best ways to be more accomodating to their workers. Within this GitHub repository are all the necessary files used to create this product.
 
 <div align="center">
-  <h2>Table of Contents</h1>
+  <h2>Developer Resources</h1>
 </div>
 
 ### app.py
