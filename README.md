@@ -3,7 +3,9 @@
 </div>
 compassion.ai is a brand new machine learning application that will help companies assess their current mental health climate, and provide recommendations for the best ways to be more accomodating to their workers. Within this GitHub repository are all the necessary files used to create this product.
 
-## Table of Contents
+<div align="center">
+  <h2>Table of Contents</h1>
+</div>
 
 ### app.py
 This is the Streamlit application written in python3 using the Streamlit.io module. This application is hosted using Streamlit.io Sharing services.
@@ -17,6 +19,6 @@ This notebook contains the code used to create the model to predict whether or n
 ### images
 Contains image files for all images in the application.
 
-## pages
+### pages
 This directory contains the files written in python using Streamlit API to display each of the pages for the application. The survey page displays the survey and records the responses into a database. The Home and About pages display information about our product. The Results page loads our ML solution, and inputs the survey responses from the database to achieve a prediction and displays an analysis of the results. The results and survey pages are being continually updated with our most recent techniques and more efficient solutions.
 
